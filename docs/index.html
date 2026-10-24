@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ข่าวอวกาศวันนี้</title>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  :root { --bg:#0a0e1a; --card:#121829; --line:#1f2740; --text:#e8ecf4; --muted:#8a93a8; --accent:#9fd3ff; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:radial-gradient(ellipse at top, #16203d, var(--bg) 60%); background-color:var(--bg);
+         color:var(--text); font-family:"IBM Plex Sans Thai",-apple-system,sans-serif; min-height:100vh; }
+  main { max-width:720px; margin:0 auto; padding:32px 16px 48px; }
+  h1 { font-size:26px; margin:0 0 4px; }
+  .meta { color:var(--muted); font-size:13px; }
+  .launch { margin:20px 0; padding:16px; border-radius:14px;
+            background:linear-gradient(135deg,rgba(255,138,92,.18),rgba(183,156,255,.14)); }
+  .launch b { display:block; font-size:16px; margin:4px 0; }
+  .cd { font-size:22px; font-weight:700; color:#ffb38f; font-variant-numeric:tabular-nums; }
+  article { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:16px; margin-top:12px; }
+  .chip { font-size:12px; font-weight:600; padding:2px 8px; border-radius:6px; background:#ffffff14; margin-right:8px; }
+  h2 { font-size:17px; line-height:1.45; margin:8px 0 6px; }
+  h2 a { color:inherit; text-decoration:none; } h2 a:hover { color:var(--accent); }
+  p { margin:0; line-height:1.7; color:#cdd3e0; }
+  .src { margin-top:8px; font-size:13px; color:var(--muted); }
+  .src a { color:var(--accent); margin-right:10px; }
+  footer { margin-top:28px; text-align:center; }
+</style>
+</head>
+<body>
+<main>
+  <h1>🛰️ ข่าวอวกาศวันนี้</h1>
+  <div class="meta" id="updated">กำลังโหลด…</div>
+  <div id="launch"></div>
+  <div id="stories"></div>
+  <footer class="meta">สรุปโดย AI จาก Spaceflight News API · ตรวจสอบรายละเอียดจากแหล่งข่าวต้นฉบับ</footer>
+</main>
+<script>
+const fmt = iso => new Date(iso).toLocaleString("th-TH",{day:"numeric",month:"short",year:"numeric",hour:"2-digit",minute:"2-digit"});
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+function cd(iso){ let s=Math.floor((new Date(iso)-Date.now())/1000); if(s<=0) return "กำลังปล่อย / ปล่อยแล้ว";
+  const d=Math.floor(s/86400); s%=86400; const h=Math.floor(s/3600); s%=3600; const m=Math.floor(s/60); s%=60;
+  return `T- ${d?d+" วัน ":""}${String(h).padStart(2,"0")}:${String(m).padStart(2,"0")}:${String(s).padStart(2,"0")}`; }
+fetch("news.json?t="+Date.now()).then(r=>r.json()).then(d=>{
+  document.getElementById("updated").textContent = "อัปเดตล่าสุด " + fmt(d.updated_at);
+  const nl = d.next_launch;
+  if (nl && nl.net) {
+    const el = document.getElementById("launch");
+    el.className = "launch";
+    el.innerHTML = `<span class="meta">ปล่อยจรวดครั้งถัดไป</span><b>${esc(nl.name)}</b><div class="cd" id="cd"></div><div class="meta">${fmt(nl.net)} · ${esc(nl.location)}</div>`;
+    const tick = () => document.getElementById("cd").textContent = cd(nl.net); tick(); setInterval(tick, 1000);
+  }
+  document.getElementById("stories").innerHTML = d.stories.length ? d.stories.map(s=>`
+    <article>
+      <span class="chip">${esc(s.category)}</span><span class="meta">${fmt(s.published_at)}</span>
+      <h2><a href="${esc(s.sources[0].url)}" target="_blank" rel="noopener">${esc(s.title_th)}</a></h2>
+      <p>${esc(s.summary_th)}</p>
+      <div class="src">ที่มา: ${s.sources.map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a>`).join("")}</div>
+    </article>`).join("") : `<p class="meta" style="margin-top:20px">ยังไม่มีข่าว — รอการอัปเดตรอบแรก</p>`;
+}).catch(()=>{ document.getElementById("updated").textContent = "โหลดข่าวไม่ได้"; });
+</script>
+</body>
+</html>
