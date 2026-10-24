@@ -6,13 +6,14 @@
 ตัวแปร environment:
   GEMINI_API_KEY   (จำเป็น)  key จาก Google AI Studio
   AI_PROVIDER      gemini (ค่าเริ่มต้น) หรือ claude
-  GEMINI_MODEL     ค่าเริ่มต้น gemini-2.5-flash
+  GEMINI_MODEL     (ไม่บังคับ) ถ้าไม่ตั้ง จะเลือกรุ่น flash ล่าสุดให้อัตโนมัติ
   ANTHROPIC_API_KEY / CLAUDE_MODEL  ใช้เมื่อ AI_PROVIDER=claude
   MAX_STORIES      จำนวนข่าวที่แสดง (ค่าเริ่มต้น 8)
 """
 import json
 import os
 import sys
+import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
@@ -101,16 +102,47 @@ def build_prompt(articles):
 {chr(10).join(lines)}"""
 
 
+GEMINI_BASE = "https://generativelanguage.googleapis.com/v1beta"
+
+
+def gemini_candidates(key):
+    """รายชื่อรุ่นที่จะลอง: รุ่นที่ตั้งเอง -> alias ล่าสุด -> รุ่น flash ที่ key นี้ใช้ได้จริง"""
+    names = [m for m in [os.getenv("GEMINI_MODEL", "").strip(), "gemini-flash-latest", "gemini-flash-lite-latest"] if m]
+    try:
+        listing = http_json(f"{GEMINI_BASE}/models?pageSize=200", headers={"x-goog-api-key": key}, timeout=30)
+        avail = [
+            m["name"].split("/", 1)[-1] for m in listing.get("models", [])
+            if "generateContent" in m.get("supportedGenerationMethods", [])
+            and "flash" in m["name"]
+            and not any(x in m["name"] for x in ("image", "tts", "audio", "live", "embedding"))
+        ]
+        # รุ่นเสถียรก่อนรุ่น preview, เลขเวอร์ชันใหม่ก่อน
+        avail.sort(key=lambda n: ("preview" in n or "exp" in n, [-int(p) for p in __import__("re").findall(r"\d+", n)[:2]]))
+        names += avail
+    except Exception as e:
+        print(f"[warn] ดูรายชื่อรุ่น Gemini ไม่ได้: {e}", file=sys.stderr)
+    return list(dict.fromkeys(names))  # ตัดซ้ำ คงลำดับ
+
+
 def ask_gemini(prompt):
     key = os.environ["GEMINI_API_KEY"]
-    model = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {"responseMimeType": "application/json", "temperature": 0.3},
     }
-    data = http_json(url, payload, {"x-goog-api-key": key}, timeout=120)
-    return data["candidates"][0]["content"]["parts"][0]["text"], model
+    last_err = None
+    for model in gemini_candidates(key):
+        try:
+            data = http_json(f"{GEMINI_BASE}/models/{model}:generateContent", payload,
+                             {"x-goog-api-key": key}, timeout=120)
+            return data["candidates"][0]["content"]["parts"][0]["text"], model
+        except urllib.error.HTTPError as e:
+            detail = e.read().decode("utf-8", "ignore")[:300]
+            print(f"[warn] {model}: HTTP {e.code} {detail}", file=sys.stderr)
+            last_err = e
+            if e.code in (401, 403):  # key ผิด ลองรุ่นอื่นก็ไม่ช่วย
+                break
+    raise SystemExit(f"เรียก Gemini ไม่สำเร็จ ({last_err}) — ตรวจ GEMINI_API_KEY ใน Secrets")
 
 
 def ask_claude(prompt):
