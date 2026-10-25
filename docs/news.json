@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-24T15:53:04+00:00",
+  "updated_at": "2026-10-25T00:34:48+00:00",
   "model": "gemini:gemini-flash-latest",
   "next_launch": {
-    "name": "Long March 4B | Yaogan 53-07 to 09/56-19 to 21",
-    "net": "2026-10-23T19:25:00Z",
+    "name": "Long March 8A | Unknown Payload",
+    "net": "2026-10-25T01:50:00Z",
     "provider": "China Aerospace Science and Technology Corporation",
-    "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-    "status": "Success"
+    "location": "Wenchang Space Launch Site, People's Republic of China",
+    "status": "Go"
   },
   "stories": [
     {
-      "title_th": "NASA ปรับแผน Artemis ทดสอบวงโคจรปี 2027 ก่อนลงดวงจันทร์ปี 2028",
-      "summary_th": "NASA ประกาศปรับแผนภารกิจ Artemis โดยเตรียมส่งยาน Artemis III นำนักบินอวกาศ 4 นายขึ้นทดสอบระบบลงจอดในวงโคจรต่ำของโลกช่วงกลางปี 2027 ก่อนมีเป้าหมายลงจอดบนดวงจันทร์ในปี 2028 ทางหน่วยงานยังร่วมมือกับ SpaceX และ Blue Origin ในการปรับดีไซน์และรูปแบบปฏิบัติการของยานลงจอดเพื่อเร่งรัดภารกิจให้ทันกำหนดการ",
+      "title_th": "NASA ปรับแผน Artemis ส่งภารกิจทดสอบปี 2027 ก่อนลงดวงจันทร์ปี 2028",
+      "summary_th": "NASA และพันธมิตรอย่าง SpaceX และ Blue Origin ได้ปรับแนวทางการพัฒนายานลงจอดเพื่อเตรียมความพร้อมสู่การลงจอดบนดวงจันทร์ในปี 2028 โดยจะมีการส่งภารกิจ Artemis III ในปี 2027 พานักบินอวกาศขึ้นสู่วงโคจรต่ำของโลกด้วยยาน Orion เพื่อทดสอบระบบปฏิบัติการของยานลงจอด",
       "category": "สำรวจอวกาศ",
       "title_en": "NASA is Full Steam Ahead on Artemis III, IV and V",
       "image": "https://spacepolicyonline.com/wp-content/uploads/2026/10/group-300x167.jpg",
@@ -40,8 +40,8 @@
       ]
     },
     {
-      "title_th": "กล้องโทรทรรศน์อวกาศ Swift ของ NASA สิ้นสุดภารกิจหลังวงโคจรลดต่ำลง",
-      "summary_th": "NASA ประกาศยุติภารกิจของหอดูดาวอวกาศ Neil Gehrels Swift Observatory หลังตัวยานลดระดับวงโคจรลงมาเหลือไม่ถึง 275 กิโลเมตรเหนือผิวโลก แรงต้านของชั้นบรรยากาศทำให้กล้องไม่สามารถเล็งเป้าหมายทางดาราศาสตร์ได้อย่างนิ่งพอ โดยยานได้ทำการสังเกตการณ์ครั้งสุดท้ายไปเมื่อวันที่ 20 ตุลาคม",
+      "title_th": "NASA ปิดฉากภารกิจกล้องโทรทรรศน์อวกาศ Swift หลังวงโคจรลดต่ำลง",
+      "summary_th": "NASA ประกาศสิ้นสุดภารกิจของ Neil Gehrels Swift Observatory หลังตัวยานลดระดับวงโคจรลงมาต่ำกว่า 275 กิโลเมตรเหนือพื้นโลก ส่งผลให้แรงต้านของชั้นบรรยากาศรบกวนการเล็งกล้องไปยังเป้าหมายทางดาราศาสตร์ โดยกล้องได้ทำการสังเกตการณ์ครั้งสุดท้ายไปเมื่อวันที่ 20 ตุลาคมที่ผ่านมา",
       "category": "ดาราศาสตร์",
       "title_en": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
       "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/news/2026/end-of-mission/Swift_in_space_15_ac.jpg",
@@ -54,8 +54,8 @@
       ]
     },
     {
-      "title_th": "NASA ทดสอบจุดเครื่องยนต์ RS-25 นาน 500 วินาที เตรียมพร้อมจรวด SLS",
-      "summary_th": "ทีมงานศูนย์อวกาศ Stennis ของ NASA ประสบความสำเร็จในการทดสอบจุดเครื่องยนต์ RS-25 หมายเลข 10001 เป็นเวลานาน 500 วินาที ที่ระดับกำลังขับ 111% ระยะเวลาการทดสอบดังกล่าวเทียบเท่ากับเวลาจริงที่เครื่องยนต์ต้องทำงานขณะปล่อยจรวด SLS เพื่อส่งยานขึ้นสู่อวกาศ",
+      "title_th": "NASA ทดสอบจุดเครื่องยนต์ RS-25 สำหรับจรวด SLS นาน 500 วินาที",
+      "summary_th": "ทีมงาน NASA ที่ Stennis Space Center ประสบความสำเร็จในการทดสอบจุดเครื่องยนต์ RS-25 หมายเลข 10001 นาน 500 วินาทีที่ระดับกำลัง 111% ซึ่งระยะเวลานี้เทียบเท่ากับระยะเวลาจริงที่เครื่องยนต์ต้องทำงานขณะปล่อยจรวด SLS ขึ้นสู่อวกาศ",
       "category": "จรวดและการปล่อย",
       "title_en": "RS-25 Engine Tests at NASA Stennis",
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg",
@@ -68,22 +68,8 @@
       ]
     },
     {
-      "title_th": "ESA เผย จรวดนำกลับมาใช้ใหม่ Themis อาจไม่ทันบินทดสอบเที่ยวแรกปี 2026",
-      "summary_th": "ผู้อำนวยการฝ่ายขนส่งอวกาศของ ESA เปิดเผยว่ายังไม่แน่ชัดว่าจรวดทดสอบแบบนำกลับมาใช้ใหม่ได้ Themis จะสามารถทำการบินเที่ยวแรกได้ทันก่อนสิ้นปี 2026 หรือไม่ ความคืบหน้านี้ได้รับการเปิดเผยภายหลังการประชุมสภาของ ESA ครั้งที่ 350 ณ กรุงปารีส",
-      "category": "จรวดและการปล่อย",
-      "title_en": "ESA Director “Not Sure” Themis Will Make Its First Flight in 2026",
-      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/10/ESA-Director-22Not-Sure22-Themis-Will-Make-Its-First-Flight-in-2026.webp",
-      "published_at": "2026-10-23T11:06:47Z",
-      "sources": [
-        {
-          "name": "European Spaceflight",
-          "url": "https://europeanspaceflight.com/esa-director-not-sure-themis-will-make-its-first-flight-in-2026/"
-        }
-      ]
-    },
-    {
-      "title_th": "NASA จับมือรัฐเวอร์จิเนีย ใช้ข้อมูลสภาพอากาศเสริมความมั่นคงทางพลังงาน",
-      "summary_th": "ศูนย์วิจัย Langley ของ NASA ร่วมมือกับกระทรวงพลังงานแห่งรัฐเวอร์จิเนียเพื่อสนับสนุนการวางแผนระบบพลังงานระยะยาว โดย NASA จะส่งมอบชุดข้อมูลแสงอาทิตย์ อุตุนิยมวิทยา และการประเมินความเสี่ยงสภาพอากาศในอนาคตเพื่อนำไปใช้สร้างแบบจำลองการผลิตและส่งจ่ายพลังงานอย่างมีประสิทธิภาพ",
+      "title_th": "NASA ร่วมมือรัฐเวอร์จิเนีย เสริมความมั่นคงด้านพลังงานด้วยชุดข้อมูล",
+      "summary_th": "NASA Langley Research Center ร่วมมือกับกระทรวงพลังงานแห่งรัฐ Virginia เพื่อสนับสนุนการตัดสินใจด้านพลังงานอย่างมีประสิทธิภาพ โดย NASA จะสนับสนุนชุดข้อมูลพลังงานแสงอาทิตย์ อุตุนิยมวิทยา และความเสี่ยงจากสภาพอากาศในอนาคตเพื่อนำไปใช้วางแผนระบบพลังงาน",
       "category": "อื่นๆ",
       "title_en": "NASA, Virginia Launch Power Partnership for Energy Security",
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/lrc-2026-ocio-p-03524.jpg",
