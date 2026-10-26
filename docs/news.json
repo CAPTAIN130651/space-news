@@ -1,83 +1,39 @@
 {
-  "updated_at": "2026-10-25T00:34:48+00:00",
+  "updated_at": "2026-10-26T00:45:44+00:00",
   "model": "gemini:gemini-flash-latest",
   "next_launch": {
-    "name": "Long March 8A | Unknown Payload",
-    "net": "2026-10-25T01:50:00Z",
+    "name": "Long March 8A | SatNet LEO Group 28",
+    "net": "2026-10-25T02:03:00Z",
     "provider": "China Aerospace Science and Technology Corporation",
     "location": "Wenchang Space Launch Site, People's Republic of China",
-    "status": "Go"
+    "status": "Success"
   },
   "stories": [
     {
-      "title_th": "NASA ปรับแผน Artemis ส่งภารกิจทดสอบปี 2027 ก่อนลงดวงจันทร์ปี 2028",
-      "summary_th": "NASA และพันธมิตรอย่าง SpaceX และ Blue Origin ได้ปรับแนวทางการพัฒนายานลงจอดเพื่อเตรียมความพร้อมสู่การลงจอดบนดวงจันทร์ในปี 2028 โดยจะมีการส่งภารกิจ Artemis III ในปี 2027 พานักบินอวกาศขึ้นสู่วงโคจรต่ำของโลกด้วยยาน Orion เพื่อทดสอบระบบปฏิบัติการของยานลงจอด",
-      "category": "สำรวจอวกาศ",
-      "title_en": "NASA is Full Steam Ahead on Artemis III, IV and V",
-      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/10/group-300x167.jpg",
-      "published_at": "2026-10-23T22:39:54Z",
+      "title_th": "SpaceX เตรียมขยายพื้นที่ Roberts Road มุ่งหน้าสู่ Flight 16",
+      "summary_th": "SpaceX กำลังเตรียมการปล่อย Flight 15 ในเดือนพฤศจิกายน หลังประสบความสำเร็จในการทดสอบ Static Fire พร้อมกันนี้ยังมีแนวโน้มขยายพื้นที่บริเวณ Roberts Road เพื่อรองรับการทดสอบ Flight 16 ต่อไป",
+      "category": "จรวดและการปล่อย",
+      "title_en": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Gigabay-and-the-VAB-Julia-2-scaled.jpg",
+      "published_at": "2026-10-25T18:21:44Z",
       "sources": [
-        {
-          "name": "SpacePolicyOnline.com",
-          "url": "https://spacepolicyonline.com/news/nasa-is-full-steam-ahead-on-artemis-iii-iv-and-v/"
-        },
-        {
-          "name": "Arstechnica",
-          "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/"
-        },
         {
           "name": "NASASpaceflight",
-          "url": "https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/"
-        },
-        {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/"
-        },
-        {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/"
+          "url": "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/"
         }
       ]
     },
     {
-      "title_th": "NASA ปิดฉากภารกิจกล้องโทรทรรศน์อวกาศ Swift หลังวงโคจรลดต่ำลง",
-      "summary_th": "NASA ประกาศสิ้นสุดภารกิจของ Neil Gehrels Swift Observatory หลังตัวยานลดระดับวงโคจรลงมาต่ำกว่า 275 กิโลเมตรเหนือพื้นโลก ส่งผลให้แรงต้านของชั้นบรรยากาศรบกวนการเล็งกล้องไปยังเป้าหมายทางดาราศาสตร์ โดยกล้องได้ทำการสังเกตการณ์ครั้งสุดท้ายไปเมื่อวันที่ 20 ตุลาคมที่ผ่านมา",
+      "title_th": "NASA เผยภาพจำลอง Dark Matter ในเอกภพผ่านโครงการ APOD",
+      "summary_th": "โครงการ Astronomy Picture of the Day (APOD) ของ NASA นำเสนอภาพ Dark Matter ในเอกภพจำลอง ภาพนี้มาพร้อมกับคำอธิบายสั้น ๆ ทางวิทยาศาสตร์ที่เขียนขึ้นโดยนักดาราศาสตร์มืออาชีพ",
       "category": "ดาราศาสตร์",
-      "title_en": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/news/2026/end-of-mission/Swift_in_space_15_ac.jpg",
-      "published_at": "2026-10-23T21:51:19Z",
+      "title_en": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg",
+      "published_at": "2026-10-25T08:19:48Z",
       "sources": [
         {
           "name": "NASA",
-          "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/"
-        }
-      ]
-    },
-    {
-      "title_th": "NASA ทดสอบจุดเครื่องยนต์ RS-25 สำหรับจรวด SLS นาน 500 วินาที",
-      "summary_th": "ทีมงาน NASA ที่ Stennis Space Center ประสบความสำเร็จในการทดสอบจุดเครื่องยนต์ RS-25 หมายเลข 10001 นาน 500 วินาทีที่ระดับกำลัง 111% ซึ่งระยะเวลานี้เทียบเท่ากับระยะเวลาจริงที่เครื่องยนต์ต้องทำงานขณะปล่อยจรวด SLS ขึ้นสู่อวกาศ",
-      "category": "จรวดและการปล่อย",
-      "title_en": "RS-25 Engine Tests at NASA Stennis",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg",
-      "published_at": "2026-10-23T18:57:04Z",
-      "sources": [
-        {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/"
-        }
-      ]
-    },
-    {
-      "title_th": "NASA ร่วมมือรัฐเวอร์จิเนีย เสริมความมั่นคงด้านพลังงานด้วยชุดข้อมูล",
-      "summary_th": "NASA Langley Research Center ร่วมมือกับกระทรวงพลังงานแห่งรัฐ Virginia เพื่อสนับสนุนการตัดสินใจด้านพลังงานอย่างมีประสิทธิภาพ โดย NASA จะสนับสนุนชุดข้อมูลพลังงานแสงอาทิตย์ อุตุนิยมวิทยา และความเสี่ยงจากสภาพอากาศในอนาคตเพื่อนำไปใช้วางแผนระบบพลังงาน",
-      "category": "อื่นๆ",
-      "title_en": "NASA, Virginia Launch Power Partnership for Energy Security",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/lrc-2026-ocio-p-03524.jpg",
-      "published_at": "2026-10-23T17:50:21Z",
-      "sources": [
-        {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/"
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/"
         }
       ]
     }
