@@ -1,39 +1,131 @@
 {
-  "updated_at": "2026-10-26T00:45:44+00:00",
-  "model": "gemini:gemini-flash-latest",
+  "updated_at": "2026-10-28T01:45:30+00:00",
+  "model": "gemini:gemini-flash-lite-latest",
   "next_launch": {
-    "name": "Long March 8A | SatNet LEO Group 28",
-    "net": "2026-10-25T02:03:00Z",
-    "provider": "China Aerospace Science and Technology Corporation",
-    "location": "Wenchang Space Launch Site, People's Republic of China",
+    "name": "Falcon 9 Block 5 | Starlink Group 15-16",
+    "net": "2026-10-27T07:25:51Z",
+    "provider": "SpaceX",
+    "location": "Vandenberg SFB, CA, USA",
     "status": "Success"
   },
   "stories": [
     {
-      "title_th": "SpaceX เตรียมขยายพื้นที่ Roberts Road มุ่งหน้าสู่ Flight 16",
-      "summary_th": "SpaceX กำลังเตรียมการปล่อย Flight 15 ในเดือนพฤศจิกายน หลังประสบความสำเร็จในการทดสอบ Static Fire พร้อมกันนี้ยังมีแนวโน้มขยายพื้นที่บริเวณ Roberts Road เพื่อรองรับการทดสอบ Flight 16 ต่อไป",
-      "category": "จรวดและการปล่อย",
-      "title_en": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
-      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Gigabay-and-the-VAB-Julia-2-scaled.jpg",
-      "published_at": "2026-10-25T18:21:44Z",
+      "title_th": "สตาร์ทอัพยูเครนร่วมกับ GomSpace ทดสอบดาวเทียมสื่อสารเครือข่ายใหม่",
+      "summary_th": "สตาร์ทอัพของยูเครนและบริษัท GomSpace ได้ทำการทดสอบดาวเทียมทดลองที่ถูกปล่อยสู่อวกาศเมื่อวันที่ 1 ตุลาคม เพื่อปูทางไปสู่การสร้างเครือข่ายดาวเทียมภายใต้การควบคุมของยูเครนในอนาคต",
+      "category": "ดาวเทียม",
+      "title_en": "Ukrainian startup, GomSpace test satellite for future communications network",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-3.41.11-PM.png?fit=1024%2C588&ssl=1",
+      "published_at": "2026-10-27T20:21:30Z",
       "sources": [
         {
-          "name": "NASASpaceflight",
-          "url": "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/"
+          "name": "SpaceNews",
+          "url": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/"
         }
       ]
     },
     {
-      "title_th": "NASA เผยภาพจำลอง Dark Matter ในเอกภพผ่านโครงการ APOD",
-      "summary_th": "โครงการ Astronomy Picture of the Day (APOD) ของ NASA นำเสนอภาพ Dark Matter ในเอกภพจำลอง ภาพนี้มาพร้อมกับคำอธิบายสั้น ๆ ทางวิทยาศาสตร์ที่เขียนขึ้นโดยนักดาราศาสตร์มืออาชีพ",
-      "category": "ดาราศาสตร์",
-      "title_en": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg",
-      "published_at": "2026-10-25T08:19:48Z",
+      "title_th": "NASA เตรียมต้อนรับอาสาสมัครสิ้นสุดภารกิจจำลองการใช้ชีวิตบนดาวอังคาร 1 ปี",
+      "summary_th": "อาสาสมัครทั้ง 4 คนที่จะสิ้นสุดการใช้ชีวิตและทำงานในศูนย์จำลองภารกิจดาวอังคารนาน 378 วัน จะออกจากที่พักอาศัยในวันเสาร์ที่ 31 ตุลาคมนี้ ข้อมูลด้านสุขภาพที่เก็บรวบรวมจะช่วยให้ NASA พัฒนาวิธีการสำรวจในอนาคต",
+      "category": "สำรวจอวกาศ",
+      "title_en": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg",
+      "published_at": "2026-10-27T19:27:22Z",
       "sources": [
         {
           "name": "NASA",
-          "url": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/"
+          "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/"
+        }
+      ]
+    },
+    {
+      "title_th": "การตรวจสอบม่านบังแดดและแผงเซลล์แสงอาทิตย์ของกล้องโทรทรรศน์ NEO Surveyor",
+      "summary_th": "ช่างเทคนิคได้ทำการตรวจสอบม่านบังแดดขนาดใหญ่และแผงเซลล์แสงอาทิตย์ของภารกิจ NEO Surveyor จาก NASA ซึ่งออกแบบมาเพื่อช่วยรักษาความเย็นให้กับกล้องโทรทรรศน์อินฟราเรดในการค้นหาดาวเคราะห์น้อยใกล้โลก",
+      "category": "ดาราศาสตร์",
+      "title_en": "NASA’s Neo Surveyor Sunshade",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg",
+      "published_at": "2026-10-27T17:58:57Z",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/"
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/"
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/"
+        }
+      ]
+    },
+    {
+      "title_th": "ดาวฤกษ์ขนาดเล็กกำลังกลืนกินดาวแคระน้ำตาลในวงโคจรสุดกระชั้นชิด",
+      "summary_th": "ดาวฤกษ์สีแดงดวงเล็กกำลังดึงก๊าซจากดาวแคระน้ำตาลในระบบ ZTF J0440+2325 ซึ่งโคจรรอบกันทุกๆ 87 นาที กระบวนการนี้ทำให้เกิดจุดร้อนบนพื้นผิวและอาจดำเนินต่อไปอีกนานหลายพันล้านปี",
+      "category": "ดาราศาสตร์",
+      "title_en": "A small star is eating a brown dwarf so slowly that the meal could last billions of years, and the two orbit each other every 87 minutes inside a space that would fit within the Sun",
+      "image": "https://spacedaily.com/wp-content/uploads/2026/10/Keck_obervatories.jpg",
+      "published_at": "2026-10-27T16:59:00Z",
+      "sources": [
+        {
+          "name": "SpaceDaily",
+          "url": "https://spacedaily.com/a-small-star-is-eating-a-brown-dwarf-so-slowly-that-the-meal-could-last-billions-of-years-and-the-two-orbit-each-other-every-87-minutes-inside-a-space-that-would-fit-within-the-sun/"
+        }
+      ]
+    },
+    {
+      "title_th": "โครงการเครื่องบินความเร็วเหนือเสียง INVICTUS ของ ESA ผ่านการทบทวนครั้งสำคัญ",
+      "summary_th": "โครงการเครื่องบินความเร็วเหนือเสียง INVICTUS ขององค์การอวกาศยุโรป (ESA) ได้ผ่านการทบทวนข้อกำหนดของระบบครั้งแรกเรียบร้อยแล้ว และเตรียมเข้าสู่ขั้นตอนการพัฒนาในระยะต่อไป",
+      "category": "จรวดและการปล่อย",
+      "title_en": "ESA’s INVICTUS Hypersonic Programme Clears First Major Review",
+      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/10/ESAs-INVICTUS-Hypersonic-Programme-Clears-First-Design-Review.webp",
+      "published_at": "2026-10-27T14:32:07Z",
+      "sources": [
+        {
+          "name": "European Spaceflight",
+          "url": "https://europeanspaceflight.com/esas-invictus-hypersonic-programme-clears-first-major-review/"
+        }
+      ]
+    },
+    {
+      "title_th": "ยาน Hera ของ ESA แยกภาพดาวเคราะห์น้อยคู่ Didymos ได้เป็นครั้งแรก",
+      "summary_th": "ยานอวกาศ Hera สำหรับภารกิจป้องกันดาวเคราะห์ขององค์การอวกาศยุโรป สามารถแยกภาพเป้าหมายดาวเคราะห์น้อยทั้งสองดวงออกจากกันได้เป็นครั้งแรก เผยให้เห็นลักษณะดาวเคราะห์น้อยคู่ของระบบ Didymos",
+      "category": "สำรวจอวกาศ",
+      "title_en": "First light: Hera resolves two asteroids instead of one",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/hera_s_first_view_of_the_separate_didymos_and_dimorphos_asteroids/27592324-1-eng-GB/Hera_s_first_view_of_the_separate_Didymos_and_Dimorphos_asteroids_card_full.png",
+      "published_at": "2026-10-27T14:00:00Z",
+      "sources": [
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Space_Safety/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one"
+        }
+      ]
+    },
+    {
+      "title_th": "ดาวเทียมทหารรัสเซียเข้าใกล้ดาวเทียมสหรัฐฯ ที่สนับสนุนยูเครนในระยะประชิด",
+      "summary_th": "เกิดเหตุการณ์ดาวเทียมทางทหารของรัสเซียเคลื่อนที่เข้าใกล้ดาวเทียมสหรัฐฯ ที่สนับสนุนกองทัพยูเครนในระยะเพียงหนึ่งกิโลเมตร ซึ่งถือเป็นการเข้าใกล้เป้าหมายที่ไม่ได้รับความยินยอมเป็นครั้งแรก",
+      "category": "ดาวเทียม",
+      "title_en": "Russian Military Satellite Flies Within Kilometer of American Satellite Supporting Ukrainian Military",
+      "image": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/10/image-18.png",
+      "published_at": "2026-10-27T12:12:59Z",
+      "sources": [
+        {
+          "name": "Space Scout",
+          "url": "https://www.spacescout.info/2026/10/russian-military-satellite-flies-within-kilometer-of-american-satellite-supporting-ukrainian-military/"
+        }
+      ]
+    },
+    {
+      "title_th": "ESA จัดซื้อดาวเทียม Galileo Second Generation เพิ่มอีก 4 ดวง",
+      "summary_th": "องค์การอวกาศยุโรป (ESA) ได้ขยายสัญญาเพื่อสร้างดาวเทียม Galileo Second Generation (G2) เพิ่มเติมอีก 4 ดวง ส่งผลให้ฝูงดาวเทียมรุ่นใหม่นี้เพิ่มขึ้นเป็น 16 ดวง เพื่อรองรับการให้บริการในระยะยาว",
+      "category": "ดาวเทียม",
+      "title_en": "ESA procures four new Galileo Second Generation satellites",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_satellite_navigation_constellation/27537524-1-eng-GB/Galileo_satellite_navigation_constellation_card_full.jpg",
+      "published_at": "2026-10-27T10:00:00Z",
+      "sources": [
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_procures_four_new_Galileo_Second_Generation_satellites"
         }
       ]
     }
