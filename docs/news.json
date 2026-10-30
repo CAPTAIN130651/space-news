@@ -1,131 +1,147 @@
 {
-  "updated_at": "2026-10-28T01:45:30+00:00",
-  "model": "gemini:gemini-flash-lite-latest",
+  "updated_at": "2026-10-30T02:10:51+00:00",
+  "model": "gemini:gemini-flash-latest",
   "next_launch": {
-    "name": "Falcon 9 Block 5 | Starlink Group 15-16",
-    "net": "2026-10-27T07:25:51Z",
-    "provider": "SpaceX",
-    "location": "Vandenberg SFB, CA, USA",
-    "status": "Success"
+    "name": "GSLV Mk II | IRNSS-1L (NVS-03)",
+    "net": "2026-10-30T18:21:00Z",
+    "provider": "Indian Space Research Organization",
+    "location": "Satish Dhawan Space Centre, India",
+    "status": "Go"
   },
   "stories": [
     {
-      "title_th": "สตาร์ทอัพยูเครนร่วมกับ GomSpace ทดสอบดาวเทียมสื่อสารเครือข่ายใหม่",
-      "summary_th": "สตาร์ทอัพของยูเครนและบริษัท GomSpace ได้ทำการทดสอบดาวเทียมทดลองที่ถูกปล่อยสู่อวกาศเมื่อวันที่ 1 ตุลาคม เพื่อปูทางไปสู่การสร้างเครือข่ายดาวเทียมภายใต้การควบคุมของยูเครนในอนาคต",
-      "category": "ดาวเทียม",
-      "title_en": "Ukrainian startup, GomSpace test satellite for future communications network",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-3.41.11-PM.png?fit=1024%2C588&ssl=1",
-      "published_at": "2026-10-27T20:21:30Z",
+      "title_th": "นักบินอวกาศติดตั้งแผงโซลาร์เซลล์ชุดใหม่สำเร็จบน ISS",
+      "summary_th": "นักบินอวกาศ Anil Menon ของ NASA และ Joshua Kutryk จาก Canadian Space Agency ได้ทำการเดินอวกาศเพื่อติดตั้งและกางแผงโซลาร์เซลล์ iROSA แผงที่ 7 จากทั้งหมด 8 แผง การอัปเกรดระบบพลังงานนี้จะช่วยผลิตไฟฟ้าให้กับสถานีอวกาศนานาชาติต่อเนื่องไปจนถึงการปลดระวางในปี 2030",
+      "category": "สถานีอวกาศ",
+      "title_en": "Spacewalking astronauts unfurl upgraded solar array to boost space station power",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261029-IROSA-unfurls.jpg",
+      "published_at": "2026-10-29T21:57:22Z",
       "sources": [
         {
-          "name": "SpaceNews",
-          "url": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/"
+          "name": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/10/29/spacewalking-astronauts-unfurl-upgraded-solar-array-to-boost-space-station-power/"
+        },
+        {
+          "name": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/10/29/as-it-happened-spacewalkers-install-new-solar-array/"
+        },
+        {
+          "name": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/10/28/nasa-nears-end-of-space-station-solar-array-upgrade-with-oct-29-and-nov-5-spacewalks/"
         }
       ]
     },
     {
-      "title_th": "NASA เตรียมต้อนรับอาสาสมัครสิ้นสุดภารกิจจำลองการใช้ชีวิตบนดาวอังคาร 1 ปี",
-      "summary_th": "อาสาสมัครทั้ง 4 คนที่จะสิ้นสุดการใช้ชีวิตและทำงานในศูนย์จำลองภารกิจดาวอังคารนาน 378 วัน จะออกจากที่พักอาศัยในวันเสาร์ที่ 31 ตุลาคมนี้ ข้อมูลด้านสุขภาพที่เก็บรวบรวมจะช่วยให้ NASA พัฒนาวิธีการสำรวจในอนาคต",
+      "title_th": "นักวิทย์เผยข้อมูลอุกกาบาต Teghaza 001 จากดาวอังคาร",
+      "summary_th": "นักวิทยาศาสตร์ที่ได้รับทุนจาก NASA ศึกษาอุกกาบาต Teghaza 001 ที่พบในทะเลทรายซาฮาราเมื่อปี 2022 และพบว่าก่อตัวขึ้นเมื่อกว่า 4.1 พันล้านปีก่อน นับเป็นหนึ่งในอุกกาบาตดาวอังคารที่เก่าแก่ที่สุดเท่าที่เคยพบบนโลก ข้อมูลแร่ธาตุยังชี้ว่าอาจมีต้นกำเนิดมาจาก 1 ใน 13 ตำแหน่งบนที่ราบสูงทางซีกใต้ของดาวอังคาร",
       "category": "สำรวจอวกาศ",
-      "title_en": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg",
-      "published_at": "2026-10-27T19:27:22Z",
+      "title_en": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-closeup-of-teghaza-001-mars-meteorite.jpg",
+      "published_at": "2026-10-29T18:18:09Z",
       "sources": [
         {
           "name": "NASA",
-          "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/"
-        }
-      ]
-    },
-    {
-      "title_th": "การตรวจสอบม่านบังแดดและแผงเซลล์แสงอาทิตย์ของกล้องโทรทรรศน์ NEO Surveyor",
-      "summary_th": "ช่างเทคนิคได้ทำการตรวจสอบม่านบังแดดขนาดใหญ่และแผงเซลล์แสงอาทิตย์ของภารกิจ NEO Surveyor จาก NASA ซึ่งออกแบบมาเพื่อช่วยรักษาความเย็นให้กับกล้องโทรทรรศน์อินฟราเรดในการค้นหาดาวเคราะห์น้อยใกล้โลก",
-      "category": "ดาราศาสตร์",
-      "title_en": "NASA’s Neo Surveyor Sunshade",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg",
-      "published_at": "2026-10-27T17:58:57Z",
-      "sources": [
-        {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/"
+          "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/"
         },
         {
           "name": "NASA",
-          "url": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/"
+          "url": "https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/"
         },
         {
           "name": "NASA",
-          "url": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/"
+          "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/"
         }
       ]
     },
     {
-      "title_th": "ดาวฤกษ์ขนาดเล็กกำลังกลืนกินดาวแคระน้ำตาลในวงโคจรสุดกระชั้นชิด",
-      "summary_th": "ดาวฤกษ์สีแดงดวงเล็กกำลังดึงก๊าซจากดาวแคระน้ำตาลในระบบ ZTF J0440+2325 ซึ่งโคจรรอบกันทุกๆ 87 นาที กระบวนการนี้ทำให้เกิดจุดร้อนบนพื้นผิวและอาจดำเนินต่อไปอีกนานหลายพันล้านปี",
+      "title_th": "Hubble และ Webb เผยภาพเนบิวลา Cat's Head Nebula",
+      "summary_th": "กล้องโทรทรรศน์อวกาศ Hubble และ James Webb ได้ร่วมกันบันทึกภาพบริเวณกำเนิดดาวฤกษ์ใน Carina Nebula ซึ่งอยู่ห่างจากโลกประมาณ 7,500 ปีแสง ภาพจาก Hubble ในช่วงแสงที่ตามองเห็นแสดงฝุ่นหนาทึบรูปทรงคล้ายหัวแมว ขณะที่กล้อง Webb บันทึกภาพในย่านอินฟราเรดเผยให้เห็นดาวฤกษ์เกิดใหม่ที่ซ่อนอยู่ภายใน",
       "category": "ดาราศาสตร์",
-      "title_en": "A small star is eating a brown dwarf so slowly that the meal could last billions of years, and the two orbit each other every 87 minutes inside a space that would fit within the Sun",
-      "image": "https://spacedaily.com/wp-content/uploads/2026/10/Keck_obervatories.jpg",
-      "published_at": "2026-10-27T16:59:00Z",
+      "title_en": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/cat_s_head_nebula_hubble_wfc3_webb_nircam_and_webb_miri_images/27592599-1-eng-GB/Cat_s_Head_Nebula_Hubble_WFC3_Webb_NIRCam_and_Webb_MIRI_images_card_full.jpg",
+      "published_at": "2026-10-29T14:00:00Z",
       "sources": [
         {
-          "name": "SpaceDaily",
-          "url": "https://spacedaily.com/a-small-star-is-eating-a-brown-dwarf-so-slowly-that-the-meal-could-last-billions-of-years-and-the-two-orbit-each-other-every-87-minutes-inside-a-space-that-would-fit-within-the-sun/"
+          "name": "ESA",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb"
+        },
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/"
         }
       ]
     },
     {
-      "title_th": "โครงการเครื่องบินความเร็วเหนือเสียง INVICTUS ของ ESA ผ่านการทบทวนครั้งสำคัญ",
-      "summary_th": "โครงการเครื่องบินความเร็วเหนือเสียง INVICTUS ขององค์การอวกาศยุโรป (ESA) ได้ผ่านการทบทวนข้อกำหนดของระบบครั้งแรกเรียบร้อยแล้ว และเตรียมเข้าสู่ขั้นตอนการพัฒนาในระยะต่อไป",
+      "title_th": "NASA ชวนประชาชนส่งชื่อไปเยือนดวงจันทร์ Titan กับ Dragonfly",
+      "summary_th": "NASA เชิญชวนประชาชนทั่วโลกร่วมส่งชื่อเพื่อนำติดไปกับอากาศยานไร้คนขับ Dragonfly ซึ่งจะออกเดินทางไปสำรวจดวงจันทร์ Titan ของดาวเสาร์ ภารกิจนี้จะเป็นภารกิจทางวิทยาศาสตร์ภารกิจแรกที่จะบินสำรวจเหนือพื้นผิวของวัตถุในระบบสุริยะอื่น",
+      "category": "สำรวจอวกาศ",
+      "title_en": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01a-hero-image-16-9-v02.jpg",
+      "published_at": "2026-10-29T15:10:18Z",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/"
+        },
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/"
+        }
+      ]
+    },
+    {
+      "title_th": "NASA ประกอบชิ้นส่วนหลักจรวด SLS สำหรับภารกิจ Artemis III",
+      "summary_th": "ชิ้นส่วนแกนหลัก (Core Stage) ของจรวด SLS สำหรับภารกิจ Artemis III ความสูง 212 ฟุต ได้รับการยกติดตั้งเข้ากับบูสเตอร์เชื้อเพลิงแข็งคู่เรียบร้อยแล้ว การประกอบดำเนินขึ้นภายในอาคาร Vehicle Assembly Building ที่ NASA's Kennedy Space Center ในรัฐฟลอริดา",
       "category": "จรวดและการปล่อย",
-      "title_en": "ESA’s INVICTUS Hypersonic Programme Clears First Major Review",
-      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/10/ESAs-INVICTUS-Hypersonic-Programme-Clears-First-Design-Review.webp",
-      "published_at": "2026-10-27T14:32:07Z",
+      "title_en": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
+      "image": "https://images-assets.nasa.gov/image/KSC-20261022-PH-SNC01_0001/KSC-20261022-PH-SNC01_0001~large.jpg",
+      "published_at": "2026-10-28T18:59:44Z",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/"
+        }
+      ]
+    },
+    {
+      "title_th": "ULA กำหนดการปล่อยจรวด Vulcan อีกครั้งกลางเดือนพฤศจิกายน",
+      "summary_th": "United Launch Alliance ประกาศเตรียมนำจรวดบรรทุกหนัก Vulcan กลับมาปล่อยเที่ยวบินใหม่อีกครั้งในช่วงกลางเดือนพฤศจิกายน การปล่อยครั้งนี้นับเป็นครั้งแรกหลังเหตุขัดข้องของหัวฉีดบูสเตอร์เชื้อเพลิงแข็งในเที่ยวบินก่อนหน้า โดยมีภารกิจส่งดาวเทียม Amazon Leo จำนวน 40 ดวงขึ้นสู่วงโคจร",
+      "category": "จรวดและการปล่อย",
+      "title_en": "United Launch Alliance announces mid-November return to flight for Vulcan rocket",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261028-Vulcan-Leo-1-Fairing.jpg",
+      "published_at": "2026-10-28T22:46:41Z",
+      "sources": [
+        {
+          "name": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/"
+        }
+      ]
+    },
+    {
+      "title_th": "เวียดนามลงนามในข้อตกลง Artemis Accords เป็นประเทศที่ 78",
+      "summary_th": "ประเทศเวียดนามได้เข้าร่วมลงนามในข้อตกลง Artemis Accords อย่างเป็นทางการ นับเป็นสมาชิกลำดับที่ 78 ของกลุ่มพันธมิตรที่มุ่งมั่นในการสำรวจอวกาศอย่างสันติและโปร่งใส โดย NASA ระบุว่าการเข้าร่วมนี้เกิดขึ้นในช่วงเวลาสำคัญของการพัฒนาโครงการอวกาศของเวียดนาม",
+      "category": "สำรวจอวกาศ",
+      "title_en": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/artemis-accords-vietnam-78-102826.jpg",
+      "published_at": "2026-10-28T21:50:01Z",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/"
+        }
+      ]
+    },
+    {
+      "title_th": "กลาโหมสหราชอาณาจักรว่าจ้าง Astroscale ในโครงการ Project LEDA",
+      "summary_th": "บริษัท Astroscale สาขาสหราชอาณาจักร ได้รับสัญญาจ้างมูลค่า 15 ล้านปอนด์จากกระทรวงกลาโหมสหราชอาณาจักรสำหรับดำเนินงานใน Project LEDA โครงการดังกล่าวจะเข้ามาเป็นส่วนหนึ่งของแนวทางการพัฒนาและเสริมสร้างความเข้าใจด้านสงครามในวงโคจร (Orbital Warfare) ให้กับสหราชอาณาจักร",
+      "category": "ธุรกิจอวกาศ",
+      "title_en": "UK MOD Awards £15 Million Orbital Warfare Project to Astroscale",
+      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/10/UK-MOD-Awards-15-million-Orbital-Warfare-Project-to-Astroscale-.webp",
+      "published_at": "2026-10-29T07:31:25Z",
       "sources": [
         {
           "name": "European Spaceflight",
-          "url": "https://europeanspaceflight.com/esas-invictus-hypersonic-programme-clears-first-major-review/"
-        }
-      ]
-    },
-    {
-      "title_th": "ยาน Hera ของ ESA แยกภาพดาวเคราะห์น้อยคู่ Didymos ได้เป็นครั้งแรก",
-      "summary_th": "ยานอวกาศ Hera สำหรับภารกิจป้องกันดาวเคราะห์ขององค์การอวกาศยุโรป สามารถแยกภาพเป้าหมายดาวเคราะห์น้อยทั้งสองดวงออกจากกันได้เป็นครั้งแรก เผยให้เห็นลักษณะดาวเคราะห์น้อยคู่ของระบบ Didymos",
-      "category": "สำรวจอวกาศ",
-      "title_en": "First light: Hera resolves two asteroids instead of one",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/hera_s_first_view_of_the_separate_didymos_and_dimorphos_asteroids/27592324-1-eng-GB/Hera_s_first_view_of_the_separate_Didymos_and_Dimorphos_asteroids_card_full.png",
-      "published_at": "2026-10-27T14:00:00Z",
-      "sources": [
-        {
-          "name": "ESA",
-          "url": "https://www.esa.int/Space_Safety/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one"
-        }
-      ]
-    },
-    {
-      "title_th": "ดาวเทียมทหารรัสเซียเข้าใกล้ดาวเทียมสหรัฐฯ ที่สนับสนุนยูเครนในระยะประชิด",
-      "summary_th": "เกิดเหตุการณ์ดาวเทียมทางทหารของรัสเซียเคลื่อนที่เข้าใกล้ดาวเทียมสหรัฐฯ ที่สนับสนุนกองทัพยูเครนในระยะเพียงหนึ่งกิโลเมตร ซึ่งถือเป็นการเข้าใกล้เป้าหมายที่ไม่ได้รับความยินยอมเป็นครั้งแรก",
-      "category": "ดาวเทียม",
-      "title_en": "Russian Military Satellite Flies Within Kilometer of American Satellite Supporting Ukrainian Military",
-      "image": "https://i0.wp.com/www.spacescout.info/wp-content/uploads/2026/10/image-18.png",
-      "published_at": "2026-10-27T12:12:59Z",
-      "sources": [
-        {
-          "name": "Space Scout",
-          "url": "https://www.spacescout.info/2026/10/russian-military-satellite-flies-within-kilometer-of-american-satellite-supporting-ukrainian-military/"
-        }
-      ]
-    },
-    {
-      "title_th": "ESA จัดซื้อดาวเทียม Galileo Second Generation เพิ่มอีก 4 ดวง",
-      "summary_th": "องค์การอวกาศยุโรป (ESA) ได้ขยายสัญญาเพื่อสร้างดาวเทียม Galileo Second Generation (G2) เพิ่มเติมอีก 4 ดวง ส่งผลให้ฝูงดาวเทียมรุ่นใหม่นี้เพิ่มขึ้นเป็น 16 ดวง เพื่อรองรับการให้บริการในระยะยาว",
-      "category": "ดาวเทียม",
-      "title_en": "ESA procures four new Galileo Second Generation satellites",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_satellite_navigation_constellation/27537524-1-eng-GB/Galileo_satellite_navigation_constellation_card_full.jpg",
-      "published_at": "2026-10-27T10:00:00Z",
-      "sources": [
-        {
-          "name": "ESA",
-          "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_procures_four_new_Galileo_Second_Generation_satellites"
+          "url": "https://europeanspaceflight.com/uk-mod-awards-15-million-orbital-warfare-project-to-astroscale/"
         }
       ]
     }
