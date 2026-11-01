@@ -1,147 +1,123 @@
 {
-  "updated_at": "2026-10-30T02:10:51+00:00",
-  "model": "gemini:gemini-flash-latest",
+  "updated_at": "2026-11-01T01:29:27+00:00",
+  "model": "gemini:gemini-flash-lite-latest",
   "next_launch": {
-    "name": "GSLV Mk II | IRNSS-1L (NVS-03)",
-    "net": "2026-10-30T18:21:00Z",
-    "provider": "Indian Space Research Organization",
-    "location": "Satish Dhawan Space Centre, India",
-    "status": "Go"
+    "name": "Falcon 9 Block 5 | Starlink Group 15-18",
+    "net": "2026-10-31T04:04:34Z",
+    "provider": "SpaceX",
+    "location": "Vandenberg SFB, CA, USA",
+    "status": "Success"
   },
   "stories": [
     {
-      "title_th": "นักบินอวกาศติดตั้งแผงโซลาร์เซลล์ชุดใหม่สำเร็จบน ISS",
-      "summary_th": "นักบินอวกาศ Anil Menon ของ NASA และ Joshua Kutryk จาก Canadian Space Agency ได้ทำการเดินอวกาศเพื่อติดตั้งและกางแผงโซลาร์เซลล์ iROSA แผงที่ 7 จากทั้งหมด 8 แผง การอัปเกรดระบบพลังงานนี้จะช่วยผลิตไฟฟ้าให้กับสถานีอวกาศนานาชาติต่อเนื่องไปจนถึงการปลดระวางในปี 2030",
-      "category": "สถานีอวกาศ",
-      "title_en": "Spacewalking astronauts unfurl upgraded solar array to boost space station power",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261029-IROSA-unfurls.jpg",
-      "published_at": "2026-10-29T21:57:22Z",
+      "title_th": "SpaceX เตรียมปล่อยภารกิจ Starlink ส่งท้ายเดือนตุลาคม",
+      "summary_th": "SpaceX มีกำหนดปล่อยจรวด Falcon 9 ส่งดาวเทียม Starlink V2 Mini อีก 27 ดวง จากฐานทัพอวกาศ Vandenberg เพื่อเสริมความแข็งแกร่งให้แก่กลุ่มดาวเทียมในวงโคจร",
+      "category": "จรวดและการปล่อย",
+      "title_en": "Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg",
+      "published_at": "2026-10-30T22:46:02Z",
       "sources": [
         {
           "name": "Spaceflight Now",
-          "url": "https://spaceflightnow.com/2026/10/29/spacewalking-astronauts-unfurl-upgraded-solar-array-to-boost-space-station-power/"
-        },
-        {
-          "name": "Spaceflight Now",
-          "url": "https://spaceflightnow.com/2026/10/29/as-it-happened-spacewalkers-install-new-solar-array/"
-        },
-        {
-          "name": "Spaceflight Now",
-          "url": "https://spaceflightnow.com/2026/10/28/nasa-nears-end-of-space-station-solar-array-upgrade-with-oct-29-and-nov-5-spacewalks/"
+          "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/"
         }
       ]
     },
     {
-      "title_th": "นักวิทย์เผยข้อมูลอุกกาบาต Teghaza 001 จากดาวอังคาร",
-      "summary_th": "นักวิทยาศาสตร์ที่ได้รับทุนจาก NASA ศึกษาอุกกาบาต Teghaza 001 ที่พบในทะเลทรายซาฮาราเมื่อปี 2022 และพบว่าก่อตัวขึ้นเมื่อกว่า 4.1 พันล้านปีก่อน นับเป็นหนึ่งในอุกกาบาตดาวอังคารที่เก่าแก่ที่สุดเท่าที่เคยพบบนโลก ข้อมูลแร่ธาตุยังชี้ว่าอาจมีต้นกำเนิดมาจาก 1 ใน 13 ตำแหน่งบนที่ราบสูงทางซีกใต้ของดาวอังคาร",
-      "category": "สำรวจอวกาศ",
-      "title_en": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-closeup-of-teghaza-001-mars-meteorite.jpg",
-      "published_at": "2026-10-29T18:18:09Z",
+      "title_th": "SpaceX ทดสอบเครื่องยนต์สำเร็จสำหรับเที่ยวบิน Starship Flight 15",
+      "summary_th": "SpaceX ดำเนินการทดสอบจุดระเบิดเครื่องยนต์แบบ Static Fire สามครั้งในเวลาสามวันสำเร็จลุล่วง พร้อมสำหรับการทดสอบในขั้นตอนต่อไปของ Flight 15",
+      "category": "จรวดและการปล่อย",
+      "title_en": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Booster-22-Static-fire-scaled.jpg",
+      "published_at": "2026-10-30T21:53:38Z",
       "sources": [
         {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/"
-        },
-        {
-          "name": "NASA",
-          "url": "https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/"
-        },
-        {
-          "name": "NASA",
-          "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/"
+          "name": "NASASpaceflight",
+          "url": "https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/"
         }
       ]
     },
     {
-      "title_th": "Hubble และ Webb เผยภาพเนบิวลา Cat's Head Nebula",
-      "summary_th": "กล้องโทรทรรศน์อวกาศ Hubble และ James Webb ได้ร่วมกันบันทึกภาพบริเวณกำเนิดดาวฤกษ์ใน Carina Nebula ซึ่งอยู่ห่างจากโลกประมาณ 7,500 ปีแสง ภาพจาก Hubble ในช่วงแสงที่ตามองเห็นแสดงฝุ่นหนาทึบรูปทรงคล้ายหัวแมว ขณะที่กล้อง Webb บันทึกภาพในย่านอินฟราเรดเผยให้เห็นดาวฤกษ์เกิดใหม่ที่ซ่อนอยู่ภายใน",
+      "title_th": "กล้อง James Webb เผยภาพเนบิวลา Cat’s Head สุดน่าทึ่ง",
+      "summary_th": "กล้องโทรทรรศน์อวกาศ James Webb ของ NASA บันทึกภาพย่านโครงสร้างซับซ้อนภายใน Cat’s Head Nebula ด้วยแสงอินฟราเรดกลาง ซึ่งเกิดจากการแผ่รังสีและลมจากดาวฤกษ์มวลมาก",
       "category": "ดาราศาสตร์",
-      "title_en": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/cat_s_head_nebula_hubble_wfc3_webb_nircam_and_webb_miri_images/27592599-1-eng-GB/Cat_s_Head_Nebula_Hubble_WFC3_Webb_NIRCam_and_Webb_MIRI_images_card_full.jpg",
-      "published_at": "2026-10-29T14:00:00Z",
+      "title_en": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png",
+      "published_at": "2026-10-30T15:56:26Z",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/"
+        }
+      ]
+    },
+    {
+      "title_th": "ตุรกีตั้งเป้าส่งภารกิจสู่วงโคจรรอบดวงจันทร์ครั้งแรกในปี 2027",
+      "summary_th": "ตุรกีวางแผนส่งภารกิจสำรวจดวงจันทร์ลำแรกที่เป็นยานโคจรติดตั้งเครื่องมือวิทยาศาสตร์ และมีแผนต่อเนื่องสำหรับภารกิจลงจอดในอนาคต",
+      "category": "สำรวจอวกาศ",
+      "title_en": "Turkey aims for first Moon-orbiting mission in 2027",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261007_TLM-1_1-1.jpeg",
+      "published_at": "2026-10-30T15:50:37Z",
+      "sources": [
+        {
+          "name": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/10/30/turkey-aims-for-first-moon-orbiting-mission-in-2027/"
+        }
+      ]
+    },
+    {
+      "title_th": "สรุปภารกิจเด่นของ ESA ประจำเดือนตุลาคม 2026",
+      "summary_th": "ESA เผยความคืบหน้าภารกิจสำคัญ เช่น ทีมสำรวจดาวอังคารฝึกซ้อมโรเวอร์ Rosalind Franklin ในสเปน, ยาน Smile ถ่ายภาพแสงเหนือ และนักบินอวกาศ Sophie Adenot เดินทางกลับสู่โลก",
+      "category": "สำรวจอวกาศ",
+      "title_en": "What happened this month at the European Space Agency? (October 2026)",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/what_happened_this_month_at_the_european_space_agency_october_2026/27595875-1-eng-GB/What_happened_this_month_at_the_European_Space_Agency_October_2026_card_full.png",
+      "published_at": "2026-10-30T15:00:00Z",
       "sources": [
         {
           "name": "ESA",
-          "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb"
-        },
-        {
-          "name": "NASA",
-          "url": "https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/"
+          "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_October_2026"
         }
       ]
     },
     {
-      "title_th": "NASA ชวนประชาชนส่งชื่อไปเยือนดวงจันทร์ Titan กับ Dragonfly",
-      "summary_th": "NASA เชิญชวนประชาชนทั่วโลกร่วมส่งชื่อเพื่อนำติดไปกับอากาศยานไร้คนขับ Dragonfly ซึ่งจะออกเดินทางไปสำรวจดวงจันทร์ Titan ของดาวเสาร์ ภารกิจนี้จะเป็นภารกิจทางวิทยาศาสตร์ภารกิจแรกที่จะบินสำรวจเหนือพื้นผิวของวัตถุในระบบสุริยะอื่น",
-      "category": "สำรวจอวกาศ",
-      "title_en": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01a-hero-image-16-9-v02.jpg",
-      "published_at": "2026-10-29T15:10:18Z",
+      "title_th": "NASA สำรวจความเป็นไปได้ในการจ้างบริษัทเอกชนดูแลรักษา Hubble Space Telescope",
+      "summary_th": "NASA ออกประกาศขอข้อมูล (RFI) เพื่อศึกษาความสามารถของภาคอุตสาหกรรมเอกชนในการให้บริการซ่อมบำรุงและดูแลรักษากล้องโทรทรรศน์อวกาศ Hubble ในอวกาศ",
+      "category": "สถานีอวกาศ",
+      "title_en": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/2/27946391011_d40ff10573_h.jpg",
+      "published_at": "2026-10-30T14:51:21Z",
       "sources": [
         {
           "name": "NASA",
-          "url": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/"
-        },
-        {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/"
+          "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
         }
       ]
     },
     {
-      "title_th": "NASA ประกอบชิ้นส่วนหลักจรวด SLS สำหรับภารกิจ Artemis III",
-      "summary_th": "ชิ้นส่วนแกนหลัก (Core Stage) ของจรวด SLS สำหรับภารกิจ Artemis III ความสูง 212 ฟุต ได้รับการยกติดตั้งเข้ากับบูสเตอร์เชื้อเพลิงแข็งคู่เรียบร้อยแล้ว การประกอบดำเนินขึ้นภายในอาคาร Vehicle Assembly Building ที่ NASA's Kennedy Space Center ในรัฐฟลอริดา",
-      "category": "จรวดและการปล่อย",
-      "title_en": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
-      "image": "https://images-assets.nasa.gov/image/KSC-20261022-PH-SNC01_0001/KSC-20261022-PH-SNC01_0001~large.jpg",
-      "published_at": "2026-10-28T18:59:44Z",
-      "sources": [
-        {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/"
-        }
-      ]
-    },
-    {
-      "title_th": "ULA กำหนดการปล่อยจรวด Vulcan อีกครั้งกลางเดือนพฤศจิกายน",
-      "summary_th": "United Launch Alliance ประกาศเตรียมนำจรวดบรรทุกหนัก Vulcan กลับมาปล่อยเที่ยวบินใหม่อีกครั้งในช่วงกลางเดือนพฤศจิกายน การปล่อยครั้งนี้นับเป็นครั้งแรกหลังเหตุขัดข้องของหัวฉีดบูสเตอร์เชื้อเพลิงแข็งในเที่ยวบินก่อนหน้า โดยมีภารกิจส่งดาวเทียม Amazon Leo จำนวน 40 ดวงขึ้นสู่วงโคจร",
-      "category": "จรวดและการปล่อย",
-      "title_en": "United Launch Alliance announces mid-November return to flight for Vulcan rocket",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261028-Vulcan-Leo-1-Fairing.jpg",
-      "published_at": "2026-10-28T22:46:41Z",
-      "sources": [
-        {
-          "name": "Spaceflight Now",
-          "url": "https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/"
-        }
-      ]
-    },
-    {
-      "title_th": "เวียดนามลงนามในข้อตกลง Artemis Accords เป็นประเทศที่ 78",
-      "summary_th": "ประเทศเวียดนามได้เข้าร่วมลงนามในข้อตกลง Artemis Accords อย่างเป็นทางการ นับเป็นสมาชิกลำดับที่ 78 ของกลุ่มพันธมิตรที่มุ่งมั่นในการสำรวจอวกาศอย่างสันติและโปร่งใส โดย NASA ระบุว่าการเข้าร่วมนี้เกิดขึ้นในช่วงเวลาสำคัญของการพัฒนาโครงการอวกาศของเวียดนาม",
-      "category": "สำรวจอวกาศ",
-      "title_en": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/artemis-accords-vietnam-78-102826.jpg",
-      "published_at": "2026-10-28T21:50:01Z",
-      "sources": [
-        {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/"
-        }
-      ]
-    },
-    {
-      "title_th": "กลาโหมสหราชอาณาจักรว่าจ้าง Astroscale ในโครงการ Project LEDA",
-      "summary_th": "บริษัท Astroscale สาขาสหราชอาณาจักร ได้รับสัญญาจ้างมูลค่า 15 ล้านปอนด์จากกระทรวงกลาโหมสหราชอาณาจักรสำหรับดำเนินงานใน Project LEDA โครงการดังกล่าวจะเข้ามาเป็นส่วนหนึ่งของแนวทางการพัฒนาและเสริมสร้างความเข้าใจด้านสงครามในวงโคจร (Orbital Warfare) ให้กับสหราชอาณาจักร",
+      "title_th": "งบประมาณภาครัฐสหรัฐฯ ด้านกิจการอวกาศพลเรือนทะยานสู่ 4.2 หมื่นล้านดอลลาร์",
+      "summary_th": "รายงานใหม่จาก Aerospace Corporation ระบุว่า งบประมาณที่จัดสรรให้กับกิจการอวกาศพลเรือนในปีงบประมาณ 2026 สูงถึง 42,600 ล้านดอลลาร์สหรัฐฯ",
       "category": "ธุรกิจอวกาศ",
-      "title_en": "UK MOD Awards £15 Million Orbital Warfare Project to Astroscale",
-      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/10/UK-MOD-Awards-15-million-Orbital-Warfare-Project-to-Astroscale-.webp",
-      "published_at": "2026-10-29T07:31:25Z",
+      "title_en": "Government Spending on Civil Space Topped $42 Billion in FY2026",
+      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/10/Lindsay-1-300x256.jpg",
+      "published_at": "2026-10-30T18:46:54Z",
       "sources": [
         {
-          "name": "European Spaceflight",
-          "url": "https://europeanspaceflight.com/uk-mod-awards-15-million-orbital-warfare-project-to-astroscale/"
+          "name": "SpacePolicyOnline.com",
+          "url": "https://spacepolicyonline.com/news/government-spending-on-civil-space-topped-42-billion-in-fy2026/"
+        }
+      ]
+    },
+    {
+      "title_th": "ESI ส่งมอบชิ้นส่วนแผงโซลาร์เซลล์ให้โครงการป้องกันขีปนาวุธ",
+      "summary_th": "บริษัท ESI Motion ประกาศว่าเป็นผู้จัดส่งอุปกรณ์อิเล็กทรอนิกส์ขับเคลื่อนแผงโซลาร์เซลล์ (SADE) ให้แก่ Lockheed Martin สำหรับโครงการด้านอวกาศและการป้องกันประเทศ",
+      "category": "ดาวเทียม",
+      "title_en": "ESI supplying solar array components to missile defense programs",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/ESI-Motion-Square-Logo-Blue-PNG.png?fit=969%2C1024&ssl=1",
+      "published_at": "2026-10-30T18:54:34Z",
+      "sources": [
+        {
+          "name": "SpaceNews",
+          "url": "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/"
         }
       ]
     }
