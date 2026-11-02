@@ -1,123 +1,67 @@
 {
-  "updated_at": "2026-11-01T01:29:27+00:00",
+  "updated_at": "2026-11-02T01:50:27+00:00",
   "model": "gemini:gemini-flash-lite-latest",
   "next_launch": {
-    "name": "Falcon 9 Block 5 | Starlink Group 15-18",
-    "net": "2026-10-31T04:04:34Z",
-    "provider": "SpaceX",
-    "location": "Vandenberg SFB, CA, USA",
-    "status": "Success"
+    "name": "Electron | The Sea God Surveys (iQPS Launch 9)",
+    "net": "2026-11-02T16:41:00Z",
+    "provider": "Rocket Lab",
+    "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+    "status": "Go"
   },
   "stories": [
     {
-      "title_th": "SpaceX เตรียมปล่อยภารกิจ Starlink ส่งท้ายเดือนตุลาคม",
-      "summary_th": "SpaceX มีกำหนดปล่อยจรวด Falcon 9 ส่งดาวเทียม Starlink V2 Mini อีก 27 ดวง จากฐานทัพอวกาศ Vandenberg เพื่อเสริมความแข็งแกร่งให้แก่กลุ่มดาวเทียมในวงโคจร",
-      "category": "จรวดและการปล่อย",
-      "title_en": "Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/03/20260326-Vandy-Starlink-File-Photo.jpg",
-      "published_at": "2026-10-30T22:46:02Z",
+      "title_th": "MDA Space คว้าสัญญาเสาอากาศ IRIS2 มูลค่า 64 ล้านยูโร",
+      "summary_th": "บริษัทเทคโนโลยีอวกาศของแคนาดา MDA Space ได้ลงนามข้อตกลงกับ Thales Alenia Space เพื่อเริ่มงานเสาอากาศดิจิทัลสำหรับดาวเทียม 66 ดวงแรกในกลุ่มดาวดาวเทียมสื่อสารปลอดภัย IRIS2 ของสหภาพยุโรป ข้อตกลงนี้เกิดขึ้นในขณะที่แคนาดาและสหภาพยุโรปประกาศแผนสำรวจการเข้าร่วมโครงการดังกล่าวของแคนาดา",
+      "category": "ธุรกิจอวกาศ",
+      "title_en": "Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement",
+      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Canadian-MDA-Space-Secures-64-Million-Euros-IRIS2-Antenna-Agreement.webp",
+      "published_at": "2026-11-01T08:16:51Z",
       "sources": [
         {
-          "name": "Spaceflight Now",
-          "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/"
+          "name": "European Spaceflight",
+          "url": "https://europeanspaceflight.com/canadian-mda-space-secures-e64-million-iris2-antenna-agreement/"
         }
       ]
     },
     {
-      "title_th": "SpaceX ทดสอบเครื่องยนต์สำเร็จสำหรับเที่ยวบิน Starship Flight 15",
-      "summary_th": "SpaceX ดำเนินการทดสอบจุดระเบิดเครื่องยนต์แบบ Static Fire สามครั้งในเวลาสามวันสำเร็จลุล่วง พร้อมสำหรับการทดสอบในขั้นตอนต่อไปของ Flight 15",
-      "category": "จรวดและการปล่อย",
-      "title_en": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
-      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/Booster-22-Static-fire-scaled.jpg",
-      "published_at": "2026-10-30T21:53:38Z",
+      "title_th": "Isaacman เผยลำดับการตรวจสอบและภารกิจ Artemis III",
+      "summary_th": "NASA Administrator Jared Isaacman ได้กล่าวถึงสถาปัตยกรรมและแผนสำรองที่วางไว้สำหรับภารกิจ Artemis รวมถึงลำดับการตรวจสอบการปล่อยหลายครั้งและความสำคัญของ Blue Origin",
+      "category": "สำรวจอวกาศ",
+      "title_en": "Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-11-01-03-15-37-109-wmarked.jpg",
+      "published_at": "2026-11-01T03:36:55Z",
       "sources": [
         {
           "name": "NASASpaceflight",
-          "url": "https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/"
+          "url": "https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/"
         }
       ]
     },
     {
-      "title_th": "กล้อง James Webb เผยภาพเนบิวลา Cat’s Head สุดน่าทึ่ง",
-      "summary_th": "กล้องโทรทรรศน์อวกาศ James Webb ของ NASA บันทึกภาพย่านโครงสร้างซับซ้อนภายใน Cat’s Head Nebula ด้วยแสงอินฟราเรดกลาง ซึ่งเกิดจากการแผ่รังสีและลมจากดาวฤกษ์มวลมาก",
+      "title_th": "ภาพดาราศาสตร์ประจำวัน: สีสันของดวงจันทร์",
+      "summary_th": "ภาพดาราศาสตร์ประจำวันของ NASA (APOD) นำเสนอภาพถ่ายสีสันของดวงจันทร์ พร้อมคำอธิบายสั้นๆ จากนักดาราศาสตร์มืออาชีพเพื่อให้ผู้สนใจได้ร่วมสำรวจจักรวาล",
       "category": "ดาราศาสตร์",
-      "title_en": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png",
-      "published_at": "2026-10-30T15:56:26Z",
+      "title_en": "APOD: 2026 November 1 – Colors of the Moon",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg",
+      "published_at": "2026-11-01T04:05:00Z",
       "sources": [
         {
           "name": "NASA",
-          "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/"
+          "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/"
         }
       ]
     },
     {
-      "title_th": "ตุรกีตั้งเป้าส่งภารกิจสู่วงโคจรรอบดวงจันทร์ครั้งแรกในปี 2027",
-      "summary_th": "ตุรกีวางแผนส่งภารกิจสำรวจดวงจันทร์ลำแรกที่เป็นยานโคจรติดตั้งเครื่องมือวิทยาศาสตร์ และมีแผนต่อเนื่องสำหรับภารกิจลงจอดในอนาคต",
-      "category": "สำรวจอวกาศ",
-      "title_en": "Turkey aims for first Moon-orbiting mission in 2027",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261007_TLM-1_1-1.jpeg",
-      "published_at": "2026-10-30T15:50:37Z",
-      "sources": [
-        {
-          "name": "Spaceflight Now",
-          "url": "https://spaceflightnow.com/2026/10/30/turkey-aims-for-first-moon-orbiting-mission-in-2027/"
-        }
-      ]
-    },
-    {
-      "title_th": "สรุปภารกิจเด่นของ ESA ประจำเดือนตุลาคม 2026",
-      "summary_th": "ESA เผยความคืบหน้าภารกิจสำคัญ เช่น ทีมสำรวจดาวอังคารฝึกซ้อมโรเวอร์ Rosalind Franklin ในสเปน, ยาน Smile ถ่ายภาพแสงเหนือ และนักบินอวกาศ Sophie Adenot เดินทางกลับสู่โลก",
-      "category": "สำรวจอวกาศ",
-      "title_en": "What happened this month at the European Space Agency? (October 2026)",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/what_happened_this_month_at_the_european_space_agency_october_2026/27595875-1-eng-GB/What_happened_this_month_at_the_European_Space_Agency_October_2026_card_full.png",
-      "published_at": "2026-10-30T15:00:00Z",
-      "sources": [
-        {
-          "name": "ESA",
-          "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_October_2026"
-        }
-      ]
-    },
-    {
-      "title_th": "NASA สำรวจความเป็นไปได้ในการจ้างบริษัทเอกชนดูแลรักษา Hubble Space Telescope",
-      "summary_th": "NASA ออกประกาศขอข้อมูล (RFI) เพื่อศึกษาความสามารถของภาคอุตสาหกรรมเอกชนในการให้บริการซ่อมบำรุงและดูแลรักษากล้องโทรทรรศน์อวกาศ Hubble ในอวกาศ",
-      "category": "สถานีอวกาศ",
-      "title_en": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/2/27946391011_d40ff10573_h.jpg",
-      "published_at": "2026-10-30T14:51:21Z",
-      "sources": [
-        {
-          "name": "NASA",
-          "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
-        }
-      ]
-    },
-    {
-      "title_th": "งบประมาณภาครัฐสหรัฐฯ ด้านกิจการอวกาศพลเรือนทะยานสู่ 4.2 หมื่นล้านดอลลาร์",
-      "summary_th": "รายงานใหม่จาก Aerospace Corporation ระบุว่า งบประมาณที่จัดสรรให้กับกิจการอวกาศพลเรือนในปีงบประมาณ 2026 สูงถึง 42,600 ล้านดอลลาร์สหรัฐฯ",
-      "category": "ธุรกิจอวกาศ",
-      "title_en": "Government Spending on Civil Space Topped $42 Billion in FY2026",
-      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/10/Lindsay-1-300x256.jpg",
-      "published_at": "2026-10-30T18:46:54Z",
+      "title_th": "สรุปกำหนดการและเหตุการณ์นโยบายอวกาศ 1-8 พ.ย. 2026",
+      "summary_th": "SpacePolicyOnline.com ได้เผยแพร่รายการเหตุการณ์และนโยบายด้านอวกาศประจำสัปดาห์ ระหว่างวันที่ 1-8 พฤศจิกายน 2026 พร้อมมุมมองเชิงลึกเกี่ยวกับความเคลื่อนไหวของสภาผู้แทนราษฎรและวุฒิสภา",
+      "category": "อื่นๆ",
+      "title_en": "What’s Happening in Space Policy November 1-8, 2026",
+      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/11/max-power-aircraft-300x120.jpg",
+      "published_at": "2026-11-01T22:31:25Z",
       "sources": [
         {
           "name": "SpacePolicyOnline.com",
-          "url": "https://spacepolicyonline.com/news/government-spending-on-civil-space-topped-42-billion-in-fy2026/"
-        }
-      ]
-    },
-    {
-      "title_th": "ESI ส่งมอบชิ้นส่วนแผงโซลาร์เซลล์ให้โครงการป้องกันขีปนาวุธ",
-      "summary_th": "บริษัท ESI Motion ประกาศว่าเป็นผู้จัดส่งอุปกรณ์อิเล็กทรอนิกส์ขับเคลื่อนแผงโซลาร์เซลล์ (SADE) ให้แก่ Lockheed Martin สำหรับโครงการด้านอวกาศและการป้องกันประเทศ",
-      "category": "ดาวเทียม",
-      "title_en": "ESI supplying solar array components to missile defense programs",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/ESI-Motion-Square-Logo-Blue-PNG.png?fit=969%2C1024&ssl=1",
-      "published_at": "2026-10-30T18:54:34Z",
-      "sources": [
-        {
-          "name": "SpaceNews",
-          "url": "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/"
+          "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-1-8-2026/"
         }
       ]
     }
