@@ -1,67 +1,127 @@
 {
-  "updated_at": "2026-11-02T01:50:27+00:00",
-  "model": "gemini:gemini-flash-lite-latest",
+  "updated_at": "2026-11-05T02:50:36+00:00",
+  "model": "gemini:gemini-3.1-flash-lite",
   "next_launch": {
-    "name": "Electron | The Sea God Surveys (iQPS Launch 9)",
-    "net": "2026-11-02T16:41:00Z",
-    "provider": "Rocket Lab",
-    "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+    "name": "Long March 2C | Unknown Payload",
+    "net": "2026-11-05T16:00:00Z",
+    "provider": "China Aerospace Science and Technology Corporation",
+    "location": "Xichang Satellite Launch Center, People's Republic of China",
     "status": "Go"
   },
   "stories": [
     {
-      "title_th": "MDA Space คว้าสัญญาเสาอากาศ IRIS2 มูลค่า 64 ล้านยูโร",
-      "summary_th": "บริษัทเทคโนโลยีอวกาศของแคนาดา MDA Space ได้ลงนามข้อตกลงกับ Thales Alenia Space เพื่อเริ่มงานเสาอากาศดิจิทัลสำหรับดาวเทียม 66 ดวงแรกในกลุ่มดาวดาวเทียมสื่อสารปลอดภัย IRIS2 ของสหภาพยุโรป ข้อตกลงนี้เกิดขึ้นในขณะที่แคนาดาและสหภาพยุโรปประกาศแผนสำรวจการเข้าร่วมโครงการดังกล่าวของแคนาดา",
-      "category": "ธุรกิจอวกาศ",
-      "title_en": "Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement",
-      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Canadian-MDA-Space-Secures-64-Million-Euros-IRIS2-Antenna-Agreement.webp",
-      "published_at": "2026-11-01T08:16:51Z",
-      "sources": [
-        {
-          "name": "European Spaceflight",
-          "url": "https://europeanspaceflight.com/canadian-mda-space-secures-e64-million-iris2-antenna-agreement/"
-        }
-      ]
-    },
-    {
-      "title_th": "Isaacman เผยลำดับการตรวจสอบและภารกิจ Artemis III",
-      "summary_th": "NASA Administrator Jared Isaacman ได้กล่าวถึงสถาปัตยกรรมและแผนสำรองที่วางไว้สำหรับภารกิจ Artemis รวมถึงลำดับการตรวจสอบการปล่อยหลายครั้งและความสำคัญของ Blue Origin",
+      "title_th": "NASA เร่งแผนโครงการ Artemis หวังส่งมนุษย์กลับสู่ดวงจันทร์ปี 2028",
+      "summary_th": "NASA ประกาศอัปเดตความคืบหน้าโครงการ Artemis โดยตั้งเป้าหมายส่งมนุษย์กลับไปเหยียบพื้นผิวดวงจันทร์ในปี 2028 พร้อมเดินหน้าภารกิจทดสอบ Artemis III ในปี 2027 และ Artemis IV ต่อเนื่อง",
       "category": "สำรวจอวกาศ",
-      "title_en": "Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority",
-      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/10/NSF-2026-11-01-03-15-37-109-wmarked.jpg",
-      "published_at": "2026-11-01T03:36:55Z",
-      "sources": [
-        {
-          "name": "NASASpaceflight",
-          "url": "https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/"
-        }
-      ]
-    },
-    {
-      "title_th": "ภาพดาราศาสตร์ประจำวัน: สีสันของดวงจันทร์",
-      "summary_th": "ภาพดาราศาสตร์ประจำวันของ NASA (APOD) นำเสนอภาพถ่ายสีสันของดวงจันทร์ พร้อมคำอธิบายสั้นๆ จากนักดาราศาสตร์มืออาชีพเพื่อให้ผู้สนใจได้ร่วมสำรวจจักรวาล",
-      "category": "ดาราศาสตร์",
-      "title_en": "APOD: 2026 November 1 – Colors of the Moon",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg",
-      "published_at": "2026-11-01T04:05:00Z",
+      "title_en": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+      "image": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
+      "published_at": "2026-11-04T20:17:07Z",
       "sources": [
         {
           "name": "NASA",
-          "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/"
+          "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/"
         }
       ]
     },
     {
-      "title_th": "สรุปกำหนดการและเหตุการณ์นโยบายอวกาศ 1-8 พ.ย. 2026",
-      "summary_th": "SpacePolicyOnline.com ได้เผยแพร่รายการเหตุการณ์และนโยบายด้านอวกาศประจำสัปดาห์ ระหว่างวันที่ 1-8 พฤศจิกายน 2026 พร้อมมุมมองเชิงลึกเกี่ยวกับความเคลื่อนไหวของสภาผู้แทนราษฎรและวุฒิสภา",
-      "category": "อื่นๆ",
-      "title_en": "What’s Happening in Space Policy November 1-8, 2026",
-      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/11/max-power-aircraft-300x120.jpg",
-      "published_at": "2026-11-01T22:31:25Z",
+      "title_th": "ปิดฉากภารกิจ 22 ปี กล้องโทรทรรศน์อวกาศ Neil Gehrels Swift กลับสู่โลก",
+      "summary_th": "กล้องโทรทรรศน์อวกาศ Neil Gehrels Swift ของ NASA ได้เข้าสู่ชั้นบรรยากาศโลกและสิ้นสุดภารกิจการสำรวจรังสีแกมมาที่ดำเนินมานานกว่า 22 ปี หลังความพยายามในการกู้คืนระบบไม่ประสบความสำเร็จ",
+      "category": "ดาราศาสตร์",
+      "title_en": "NASA’s Neil Gehrels Swift Observatory reenters over Western Indonesia",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/trajectory-swift@2x-300x220.jpg",
+      "published_at": "2026-11-04T20:14:59Z",
       "sources": [
         {
+          "name": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/"
+        },
+        {
           "name": "SpacePolicyOnline.com",
-          "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-1-8-2026/"
+          "url": "https://spacepolicyonline.com/news/farewell-swift/"
+        }
+      ]
+    },
+    {
+      "title_th": "Trace Gas Orbiter พบหลักฐานกิจกรรมภูเขาไฟบนดาวอังคาร",
+      "summary_th": "ข้อมูลจากยาน Trace Gas Orbiter ของโครงการ ExoMars บ่งชี้ถึงหลักฐานใหม่ที่อาจเป็นกิจกรรมทางภูเขาไฟบนดาวอังคาร จากการสังเกตการณ์ชั้นบรรยากาศของดาวเคราะห์",
+      "category": "สำรวจอวกาศ",
+      "title_en": "Trace Gas Orbiter discovers potential evidence of volcanic activity on Mars via atmospheric observations",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/exomars-trace-gas-orbiter-1-scaled.webp",
+      "published_at": "2026-11-04T19:06:36Z",
+      "sources": [
+        {
+          "name": "NASASpaceflight",
+          "url": "https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/"
+        }
+      ]
+    },
+    {
+      "title_th": "PLD Space ทดสอบระบบทำลายจรวด MIURA 5 สำเร็จ เตรียมบินครั้งแรกปี 2027",
+      "summary_th": "บริษัท PLD Space จากสเปนประสบความสำเร็จในการทดสอบระบบ Flight Termination System ของจรวด MIURA 5 เพื่อเตรียมความพร้อมสำหรับการปล่อยจรวดครั้งแรกในช่วงครึ่งแรกของปี 2027",
+      "category": "จรวดและการปล่อย",
+      "title_en": "PLD Space Completes MIURA 5 Flight Termination System Test",
+      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/PLD-Space-Completes-MIURA-5-Flight-Termination-System-Test.webp",
+      "published_at": "2026-11-04T10:04:11Z",
+      "sources": [
+        {
+          "name": "European Spaceflight",
+          "url": "https://europeanspaceflight.com/pld-space-completes-miura-5-flight-termination-system-test/"
+        }
+      ]
+    },
+    {
+      "title_th": "NASA ทดสอบระบบนำทางอัตโนมัติเพื่อการลงจอดบนดวงจันทร์และดาวเคราะห์",
+      "summary_th": "NASA ประสบความสำเร็จในการทดสอบเทคโนโลยี SPLICE บนโดรน Alta-X ซึ่งเป็นระบบนำทางอัตโนมัติที่ช่วยให้ยานอวกาศสามารถลงจอดในพื้นที่ปลอดภัยบนดวงจันทร์และดาวเคราะห์ดวงอื่นได้อย่างแม่นยำ",
+      "category": "สำรวจอวกาศ",
+      "title_en": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+      "image": "https://images-assets.nasa.gov/image/AFRC2026-0152-30/AFRC2026-0152-30~large.jpg",
+      "published_at": "2026-11-04T16:52:43Z",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/"
+        }
+      ]
+    },
+    {
+      "title_th": "สตาร์ทอัพสวิสเปิดตัวยานลงจอดดวงจันทร์ใช้เครื่องยนต์จุดระเบิดหมุน",
+      "summary_th": "บริษัท Stellar Alpina จากสวิตเซอร์แลนด์เผยแผนพัฒนายานลงจอดดวงจันทร์ Morpho และยานขนส่งวงโคจร Monarch โดยใช้เทคโนโลยีเครื่องยนต์จรวดแบบ Rotating Detonation Engine",
+      "category": "ธุรกิจอวกาศ",
+      "title_en": "Swiss Startup Plans Lunar Lander Powered by Rotating Detonation Engine",
+      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Swiss-Startup-Plans-Lunar-Lander-Powered-by-Rotating-Detonation-Engine.webp",
+      "published_at": "2026-11-03T15:26:46Z",
+      "sources": [
+        {
+          "name": "European Spaceflight",
+          "url": "https://europeanspaceflight.com/swiss-startup-plans-lunar-lander-powered-by-rotating-detonation-engine/"
+        }
+      ]
+    },
+    {
+      "title_th": "พบหลุมดำยักษ์คู่ในกาแล็กซี อาจรวมตัวกันในอีก 100 ปีข้างหน้า",
+      "summary_th": "นักดาราศาสตร์พบหลุมดำยักษ์สองแห่งที่ใจกลางกาแล็กซีซึ่งโคจรรอบกันทุกๆ 121-146 วัน โดยคาดการณ์ว่าพวกมันอาจรวมตัวกันภายในเวลาเพียง 100 ปีข้างหน้า",
+      "category": "ดาราศาสตร์",
+      "title_en": "Two giant black holes at the heart of one galaxy may circle each other every 121 to 146 days and could merge in as little as 100 years",
+      "image": "https://spacedaily.com/wp-content/uploads/2026/10/Artists-impression-of-the-core-of-Markarian-501-scaled.png",
+      "published_at": "2026-11-05T02:06:07Z",
+      "sources": [
+        {
+          "name": "SpaceDaily",
+          "url": "https://spacedaily.com/two-giant-black-holes-at-the-heart-of-one-galaxy-may-circle-each-other-every-121-to-146-days-and-could-merge-in-as-little-as-100-years/"
+        }
+      ]
+    },
+    {
+      "title_th": "Simera Sense และ Spacemanic จับมือพัฒนาโซลูชันดาวเทียมขนาดเล็ก",
+      "summary_th": "บริษัท Simera Sense และ Spacemanic ร่วมมือกันพัฒนาโซลูชันดาวเทียมแบบ Dual-use เพื่อเพิ่มขีดความสามารถในการแข่งขันกับดาวเทียมขนาดใหญ่และหนักในตลาดอวกาศ",
+      "category": "ดาวเทียม",
+      "title_en": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/simera-space.png?fit=1024%2C1024&ssl=1",
+      "published_at": "2026-11-03T16:59:43Z",
+      "sources": [
+        {
+          "name": "SpaceNews",
+          "url": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/"
         }
       ]
     }
