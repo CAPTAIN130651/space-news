@@ -1,105 +1,103 @@
 {
-  "updated_at": "2026-11-05T02:50:36+00:00",
-  "model": "gemini:gemini-3.1-flash-lite",
+  "updated_at": "2026-11-06T02:50:45+00:00",
+  "model": "gemini:gemini-flash-lite-latest",
   "next_launch": {
-    "name": "Long March 2C | Unknown Payload",
-    "net": "2026-11-05T16:00:00Z",
+    "name": "Long March 2C | Yaogan 51-07 to 09",
+    "net": "2026-11-05T15:58:00Z",
     "provider": "China Aerospace Science and Technology Corporation",
     "location": "Xichang Satellite Launch Center, People's Republic of China",
-    "status": "Go"
+    "status": "Success"
   },
   "stories": [
     {
-      "title_th": "NASA เร่งแผนโครงการ Artemis หวังส่งมนุษย์กลับสู่ดวงจันทร์ปี 2028",
-      "summary_th": "NASA ประกาศอัปเดตความคืบหน้าโครงการ Artemis โดยตั้งเป้าหมายส่งมนุษย์กลับไปเหยียบพื้นผิวดวงจันทร์ในปี 2028 พร้อมเดินหน้าภารกิจทดสอบ Artemis III ในปี 2027 และ Artemis IV ต่อเนื่อง",
-      "category": "สำรวจอวกาศ",
-      "title_en": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
-      "image": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
-      "published_at": "2026-11-04T20:17:07Z",
-      "sources": [
-        {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/"
-        }
-      ]
-    },
-    {
-      "title_th": "ปิดฉากภารกิจ 22 ปี กล้องโทรทรรศน์อวกาศ Neil Gehrels Swift กลับสู่โลก",
-      "summary_th": "กล้องโทรทรรศน์อวกาศ Neil Gehrels Swift ของ NASA ได้เข้าสู่ชั้นบรรยากาศโลกและสิ้นสุดภารกิจการสำรวจรังสีแกมมาที่ดำเนินมานานกว่า 22 ปี หลังความพยายามในการกู้คืนระบบไม่ประสบความสำเร็จ",
-      "category": "ดาราศาสตร์",
-      "title_en": "NASA’s Neil Gehrels Swift Observatory reenters over Western Indonesia",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/trajectory-swift@2x-300x220.jpg",
-      "published_at": "2026-11-04T20:14:59Z",
-      "sources": [
-        {
-          "name": "Spaceflight Now",
-          "url": "https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/"
-        },
-        {
-          "name": "SpacePolicyOnline.com",
-          "url": "https://spacepolicyonline.com/news/farewell-swift/"
-        }
-      ]
-    },
-    {
-      "title_th": "Trace Gas Orbiter พบหลักฐานกิจกรรมภูเขาไฟบนดาวอังคาร",
-      "summary_th": "ข้อมูลจากยาน Trace Gas Orbiter ของโครงการ ExoMars บ่งชี้ถึงหลักฐานใหม่ที่อาจเป็นกิจกรรมทางภูเขาไฟบนดาวอังคาร จากการสังเกตการณ์ชั้นบรรยากาศของดาวเคราะห์",
-      "category": "สำรวจอวกาศ",
-      "title_en": "Trace Gas Orbiter discovers potential evidence of volcanic activity on Mars via atmospheric observations",
-      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/exomars-trace-gas-orbiter-1-scaled.webp",
-      "published_at": "2026-11-04T19:06:36Z",
+      "title_th": "นักบินอวกาศติดตั้งแผงโซลาร์เซลล์ iROSA บน ISS ครบ 8 ชุดสำเร็จ",
+      "summary_th": "นักบินอวกาศบน International Space Station ทำภารกิจติดตั้งแผงโซลาร์เซลล์ iROSA ชุดที่ 8 และเป็นชุดสุดท้ายสำเร็จเสร็จสิ้น เพื่ออัปเกรดระบบพลังงานของสถานีให้อยู่รอดได้จนถึงปี 2030 หลังจากใช้เวลาดำเนินงานนานถึง 5 ปี",
+      "category": "สถานีอวกาศ",
+      "title_en": "ISS astronauts install final iROSA solar panel to augment aging ISS power systems",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_9798.jpeg",
+      "published_at": "2026-11-06T01:15:08Z",
       "sources": [
         {
           "name": "NASASpaceflight",
-          "url": "https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/"
-        }
-      ]
-    },
-    {
-      "title_th": "PLD Space ทดสอบระบบทำลายจรวด MIURA 5 สำเร็จ เตรียมบินครั้งแรกปี 2027",
-      "summary_th": "บริษัท PLD Space จากสเปนประสบความสำเร็จในการทดสอบระบบ Flight Termination System ของจรวด MIURA 5 เพื่อเตรียมความพร้อมสำหรับการปล่อยจรวดครั้งแรกในช่วงครึ่งแรกของปี 2027",
-      "category": "จรวดและการปล่อย",
-      "title_en": "PLD Space Completes MIURA 5 Flight Termination System Test",
-      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/PLD-Space-Completes-MIURA-5-Flight-Termination-System-Test.webp",
-      "published_at": "2026-11-04T10:04:11Z",
-      "sources": [
+          "url": "https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/"
+        },
         {
-          "name": "European Spaceflight",
-          "url": "https://europeanspaceflight.com/pld-space-completes-miura-5-flight-termination-system-test/"
-        }
-      ]
-    },
-    {
-      "title_th": "NASA ทดสอบระบบนำทางอัตโนมัติเพื่อการลงจอดบนดวงจันทร์และดาวเคราะห์",
-      "summary_th": "NASA ประสบความสำเร็จในการทดสอบเทคโนโลยี SPLICE บนโดรน Alta-X ซึ่งเป็นระบบนำทางอัตโนมัติที่ช่วยให้ยานอวกาศสามารถลงจอดในพื้นที่ปลอดภัยบนดวงจันทร์และดาวเคราะห์ดวงอื่นได้อย่างแม่นยำ",
-      "category": "สำรวจอวกาศ",
-      "title_en": "NASA Navigation Experiment Shows Promise for Planetary Landings",
-      "image": "https://images-assets.nasa.gov/image/AFRC2026-0152-30/AFRC2026-0152-30~large.jpg",
-      "published_at": "2026-11-04T16:52:43Z",
-      "sources": [
+          "name": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/"
+        },
         {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/"
+          "name": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/"
         }
       ]
     },
     {
-      "title_th": "สตาร์ทอัพสวิสเปิดตัวยานลงจอดดวงจันทร์ใช้เครื่องยนต์จุดระเบิดหมุน",
-      "summary_th": "บริษัท Stellar Alpina จากสวิตเซอร์แลนด์เผยแผนพัฒนายานลงจอดดวงจันทร์ Morpho และยานขนส่งวงโคจร Monarch โดยใช้เทคโนโลยีเครื่องยนต์จรวดแบบ Rotating Detonation Engine",
+      "title_th": "Blue Origin เผยโฉมการอัปเกรดจรวด New Glenn และเครื่องยนต์ใหม่",
+      "summary_th": "บริษัท Blue Origin ประกาศเปิดตัวเครื่องยนต์ Northstar และส่วนขับเคลื่อนขั้นที่สาม GS3 สำหรับจรวด New Glenn พร้อมการอัปเกรดเพื่อลดต้นทุนและเพิ่มประสิทธิภาพในการทำงาน",
       "category": "ธุรกิจอวกาศ",
-      "title_en": "Swiss Startup Plans Lunar Lander Powered by Rotating Detonation Engine",
-      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Swiss-Startup-Plans-Lunar-Lander-Powered-by-Rotating-Detonation-Engine.webp",
-      "published_at": "2026-11-03T15:26:46Z",
+      "title_en": "Blue Origin announces rocket upgrades aimed at lower costs, more performance",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine.webp",
+      "published_at": "2026-11-06T00:17:06Z",
       "sources": [
         {
-          "name": "European Spaceflight",
-          "url": "https://europeanspaceflight.com/swiss-startup-plans-lunar-lander-powered-by-rotating-detonation-engine/"
+          "name": "Arstechnica",
+          "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/"
+        },
+        {
+          "name": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/"
+        },
+        {
+          "name": "NASASpaceflight",
+          "url": "https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/"
         }
       ]
     },
     {
-      "title_th": "พบหลุมดำยักษ์คู่ในกาแล็กซี อาจรวมตัวกันในอีก 100 ปีข้างหน้า",
-      "summary_th": "นักดาราศาสตร์พบหลุมดำยักษ์สองแห่งที่ใจกลางกาแล็กซีซึ่งโคจรรอบกันทุกๆ 121-146 วัน โดยคาดการณ์ว่าพวกมันอาจรวมตัวกันภายในเวลาเพียง 100 ปีข้างหน้า",
+      "title_th": "CesiumAstro ระดมทุน 730 ล้านดอลลาร์ พร้อมเปิดตัวดาวเทียมกลุ่มใหม่",
+      "summary_th": "บริษัท CesiumAstro ปิดดีลเงินลงทุน Series D มูลค่า 730 ล้านดอลลาร์ ส่งผลให้บริษัทมีมูลค่าเกิน 4.5 พันล้านดอลลาร์ พร้อมเปิดตัวกลุ่มดาวเทียม Synchronicity หลังความสำเร็จของภารกิจ Element-1",
+      "category": "ธุรกิจอวกาศ",
+      "title_en": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/cesiumastro-logo-square.png?fit=1024%2C976&ssl=1",
+      "published_at": "2026-11-05T21:45:00Z",
+      "sources": [
+        {
+          "name": "SpaceNews",
+          "url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/"
+        }
+      ]
+    },
+    {
+      "title_th": "OHB คว้าสัญญา 554 ล้านยูโรพัฒนาสัญญารุ่นใหม่ Sentinel-3",
+      "summary_th": "ผู้ผลิตดาวเทียมสัญชาติเยอรมัน OHB ได้รับสัญญาจาก European Space Agency มูลค่า 554 ล้านยูโร เพื่อพัฒนาและสร้างดาวเทียม Sentinel-3 Next Generation Topography ดวงแรกให้กับโครงการ Copernicus ของสหภาพยุโรป",
+      "category": "ดาวเทียม",
+      "title_en": "OHB Awarded €554 Million Contract for Next-Gen Sentinel-3 Satellite",
+      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/OHB-Wins-554-Million-Euros-ESA-Contract-for-Next-Gen-Sentinel-3-Satellite.webp",
+      "published_at": "2026-11-05T13:52:57Z",
+      "sources": [
+        {
+          "name": "European Spaceflight",
+          "url": "https://europeanspaceflight.com/ohb-awarded-e554-million-contract-for-next-gen-sentinel-3-satellite/"
+        }
+      ]
+    },
+    {
+      "title_th": "แต่งตั้ง Alexander MacDonald นั่งตำแหน่งหัวหน้าองค์การอวกาศแคนาดา",
+      "summary_th": "รัฐบาลแคนาดาประกาศแต่งตั้ง Alexander MacDonald อดีตหัวหน้านักเศรษฐศาสตร์ของ NASA ให้ดำรงตำแหน่งประธานคนใหม่ของ Canadian Space Agency โดยเข้ามารับตำแหน่งต่อจากผู้บริหารคนเดิม",
+      "category": "สำรวจอวกาศ",
+      "title_en": "Former NASA Chief Economist is New Head of Canadian Space Agency",
+      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Alex-MacDonald-300x300.jpg",
+      "published_at": "2026-11-05T02:53:28Z",
+      "sources": [
+        {
+          "name": "SpacePolicyOnline.com",
+          "url": "https://spacepolicyonline.com/news/former-nasa-chief-economist-is-new-head-of-canadian-space-agency/"
+        }
+      ]
+    },
+    {
+      "title_th": "นักดาราศาสตร์พบหลุมดำยักษ์คู่ใจกลางกาแล็กซี่อาจรวมตัวกันในร้อยปี",
+      "summary_th": "ข้อมูลชี้ให้เห็นหลุมดำขนาดยักษ์สองหลุมใจกลางกาแล็กซี่แห่งหนึ่ง โคจรรอบกันทุกๆ 121 ถึง 146 วัน และมีแนวโน้มอาจจะพุ่งชนและรวมตัวกันภายในเวลาเพียง 100 ปีข้างหน้า",
       "category": "ดาราศาสตร์",
       "title_en": "Two giant black holes at the heart of one galaxy may circle each other every 121 to 146 days and could merge in as little as 100 years",
       "image": "https://spacedaily.com/wp-content/uploads/2026/10/Artists-impression-of-the-core-of-Markarian-501-scaled.png",
@@ -112,16 +110,34 @@
       ]
     },
     {
-      "title_th": "Simera Sense และ Spacemanic จับมือพัฒนาโซลูชันดาวเทียมขนาดเล็ก",
-      "summary_th": "บริษัท Simera Sense และ Spacemanic ร่วมมือกันพัฒนาโซลูชันดาวเทียมแบบ Dual-use เพื่อเพิ่มขีดความสามารถในการแข่งขันกับดาวเทียมขนาดใหญ่และหนักในตลาดอวกาศ",
-      "category": "ดาวเทียม",
-      "title_en": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/simera-space.png?fit=1024%2C1024&ssl=1",
-      "published_at": "2026-11-03T16:59:43Z",
+      "title_th": "กล้องโทรทรรศน์ Neil Gehrels Swift กลับสู่ชั้นบรรยากาศโลก",
+      "summary_th": "กล้องโทรทรรศน์อวกาศ Neil Gehrels Swift ของ NASA ได้ตกลงสู่ชั้นบรรยากาศโลกเหนือประเทศอินโดนีเซียตะวันตก ปิดฉากภารกิจศึกษาการระเบิดของรังสีแกมมาที่ดำเนินมานานเกือบ 22 ปี",
+      "category": "ดาราศาสตร์",
+      "title_en": "Farewell Swift",
+      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Katalyst-LINK-Pegasus-300x203.jpg",
+      "published_at": "2026-11-05T00:16:40Z",
       "sources": [
         {
-          "name": "SpaceNews",
-          "url": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/"
+          "name": "SpacePolicyOnline.com",
+          "url": "https://spacepolicyonline.com/news/farewell-swift/"
+        },
+        {
+          "name": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/"
+        }
+      ]
+    },
+    {
+      "title_th": "Trace Gas Orbiter พบหลักฐานกิจกรรมภูเขาไฟบนดาวอังคาร",
+      "summary_th": "ยานสำรวจ ExoMars Trace Gas Orbiter ของยุโรปและรัสเซีย ค้นพบหลักฐานที่อาจบ่งชี้ถึงกิจกรรมของภูเขาไฟบนดาวอังคาร จากการสังเกตการณ์ชั้นบรรยากาศของดาวเคราะห์",
+      "category": "สำรวจอวกาศ",
+      "title_en": "Trace Gas Orbiter discovers potential evidence of volcanic activity on Mars via atmospheric observations",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/exomars-trace-gas-orbiter-1-scaled.webp",
+      "published_at": "2026-11-04T19:06:36Z",
+      "sources": [
+        {
+          "name": "NASASpaceflight",
+          "url": "https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/"
         }
       ]
     }
