@@ -1,17 +1,77 @@
 {
-  "updated_at": "2026-11-06T02:50:45+00:00",
+  "updated_at": "2026-11-07T02:24:58+00:00",
   "model": "gemini:gemini-flash-lite-latest",
   "next_launch": {
-    "name": "Long March 2C | Yaogan 51-07 to 09",
-    "net": "2026-11-05T15:58:00Z",
-    "provider": "China Aerospace Science and Technology Corporation",
-    "location": "Xichang Satellite Launch Center, People's Republic of China",
+    "name": "Ceres-2 | 4 satellites",
+    "net": "2026-11-06T23:37:00Z",
+    "provider": "Galactic Energy",
+    "location": "Jiuquan Satellite Launch Center, People's Republic of China",
     "status": "Success"
   },
   "stories": [
     {
-      "title_th": "นักบินอวกาศติดตั้งแผงโซลาร์เซลล์ iROSA บน ISS ครบ 8 ชุดสำเร็จ",
-      "summary_th": "นักบินอวกาศบน International Space Station ทำภารกิจติดตั้งแผงโซลาร์เซลล์ iROSA ชุดที่ 8 และเป็นชุดสุดท้ายสำเร็จเสร็จสิ้น เพื่ออัปเกรดระบบพลังงานของสถานีให้อยู่รอดได้จนถึงปี 2030 หลังจากใช้เวลาดำเนินงานนานถึง 5 ปี",
+      "title_th": "AST SpaceMobile ทุ่มงบสร้างจรวดและดีลเครื่องยนต์พัฒนา Blacklift",
+      "summary_th": "AST SpaceMobile บริษัทเบื้องหลังกลุ่มดาวเทียม Bluebird ได้ประกาศข้อตกลงเครื่องยนต์มูลค่า 1.3 พันล้านดอลลาร์กับ Firefly Aerospace และเตรียมสร้างจรวดหนักของตัวเองเพื่อขยายตลาด",
+      "category": "ธุรกิจอวกาศ",
+      "title_en": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106_AST_rocket_rendering.jpg",
+      "published_at": "2026-11-07T02:18:04Z",
+      "sources": [
+        {
+          "name": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/"
+        },
+        {
+          "name": "Arstechnica",
+          "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/"
+        }
+      ]
+    },
+    {
+      "title_th": "Falcon 9 เตรียมปล่อยภารกิจลับให้ U.S. Space Force จากแคลิฟอร์เนีย",
+      "summary_th": "SpaceX มีกำหนดปล่อยจรวด Falcon 9 จากฐานทัพอวกาศ Vandenberg ฐาน 4E โดยคาดว่าจะบรรทุกดาวเทียมที่ใช้แพลตฟอร์ม Starshield",
+      "category": "จรวดและการปล่อย",
+      "title_en": "Falcon 9 to launch from California on classified mission for U.S. Space Force",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106-F9-File-Feature-Image.jpg",
+      "published_at": "2026-11-06T22:00:39Z",
+      "sources": [
+        {
+          "name": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/"
+        }
+      ]
+    },
+    {
+      "title_th": "กล้องฮับเบิลเผยภาพกระจุกดาว Messier 30",
+      "summary_th": "กล้องโทรทรรศน์อวกาศ NASA/ESA Hubble เผยแพร่ภาพถ่ายของ Messier 30 ซึ่งเป็นกลุ่มดาวระยิบระยับที่ช่วยให้เรียนรู้ประวัติศาสตร์ดาราศาสตร์",
+      "category": "ดาราศาสตร์",
+      "title_en": "M30’s Sparkling Stars",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg",
+      "published_at": "2026-11-06T16:23:41Z",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/"
+        }
+      ]
+    },
+    {
+      "title_th": "Starship Flight 15 รอไฟเขียว FAA ทดสอบการจับคู่",
+      "summary_th": "Booster 22 และ Ship 42 ของ Starship Flight 15 อยู่ระหว่างการตรวจสอบขั้นสุดท้ายเพื่อรอการอนุมัติจาก FAA สำหรับการปล่อยไม่เร็วกว่า 13 พฤศจิกายน",
+      "category": "จรวดและการปล่อย",
+      "title_en": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-15-16-17-030.jpg",
+      "published_at": "2026-11-06T15:31:51Z",
+      "sources": [
+        {
+          "name": "NASASpaceflight",
+          "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/"
+        }
+      ]
+    },
+    {
+      "title_th": "นักบินอวกาศติดตั้งแผงโซลาร์เซลล์ iROSA ชิ้นสุดท้ายบน ISS สำเร็จ",
+      "summary_th": "นักบินอวกาศได้ติดตั้งแผงโซลาร์เซลล์ iROSA ชุดที่ 8 และเป็นชุดสุดท้ายภายนอกสถานีอวกาศนานาชาติ (ISS) เสร็จสิ้นความพยายามยาวนาน 5 ปีในการอัปเกรดระบบพลังงาน",
       "category": "สถานีอวกาศ",
       "title_en": "ISS astronauts install final iROSA solar panel to augment aging ISS power systems",
       "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_9798.jpeg",
@@ -32,9 +92,9 @@
       ]
     },
     {
-      "title_th": "Blue Origin เผยโฉมการอัปเกรดจรวด New Glenn และเครื่องยนต์ใหม่",
-      "summary_th": "บริษัท Blue Origin ประกาศเปิดตัวเครื่องยนต์ Northstar และส่วนขับเคลื่อนขั้นที่สาม GS3 สำหรับจรวด New Glenn พร้อมการอัปเกรดเพื่อลดต้นทุนและเพิ่มประสิทธิภาพในการทำงาน",
-      "category": "ธุรกิจอวกาศ",
+      "title_th": "Blue Origin เผยโฉมขั้นจรวดและเครื่องยนต์ใหม่สำหรับ New Glenn",
+      "summary_th": "Blue Origin เปิดตัวขั้นที่สาม New Glenn GS3 และเครื่องยนต์ Northstar รวมถึงการอัปเกรดจรวดเพื่อลดต้นทุนและเพิ่มประสิทธิภาพในการทำงาน",
+      "category": "จรวดและการปล่อย",
       "title_en": "Blue Origin announces rocket upgrades aimed at lower costs, more performance",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine.webp",
       "published_at": "2026-11-06T00:17:06Z",
@@ -54,8 +114,8 @@
       ]
     },
     {
-      "title_th": "CesiumAstro ระดมทุน 730 ล้านดอลลาร์ พร้อมเปิดตัวดาวเทียมกลุ่มใหม่",
-      "summary_th": "บริษัท CesiumAstro ปิดดีลเงินลงทุน Series D มูลค่า 730 ล้านดอลลาร์ ส่งผลให้บริษัทมีมูลค่าเกิน 4.5 พันล้านดอลลาร์ พร้อมเปิดตัวกลุ่มดาวเทียม Synchronicity หลังความสำเร็จของภารกิจ Element-1",
+      "title_th": "CesiumAstro ระดมทุน Series D ได้ 730 ล้านดอลลาร์",
+      "summary_th": "CesiumAstro ปิดการระดมทุน Series D มูลค่า 730 ล้านดอลลาร์ นำโดย Janus Henderson ทำให้บริษัทมีมูลค่าเกิน 4.5 พันล้านดอลลาร์ พร้อมเปิดตัวกลุ่มดาวเทียม Synchronicity",
       "category": "ธุรกิจอวกาศ",
       "title_en": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
       "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/cesiumastro-logo-square.png?fit=1024%2C976&ssl=1",
@@ -68,76 +128,16 @@
       ]
     },
     {
-      "title_th": "OHB คว้าสัญญา 554 ล้านยูโรพัฒนาสัญญารุ่นใหม่ Sentinel-3",
-      "summary_th": "ผู้ผลิตดาวเทียมสัญชาติเยอรมัน OHB ได้รับสัญญาจาก European Space Agency มูลค่า 554 ล้านยูโร เพื่อพัฒนาและสร้างดาวเทียม Sentinel-3 Next Generation Topography ดวงแรกให้กับโครงการ Copernicus ของสหภาพยุโรป",
-      "category": "ดาวเทียม",
-      "title_en": "OHB Awarded €554 Million Contract for Next-Gen Sentinel-3 Satellite",
-      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/OHB-Wins-554-Million-Euros-ESA-Contract-for-Next-Gen-Sentinel-3-Satellite.webp",
-      "published_at": "2026-11-05T13:52:57Z",
-      "sources": [
-        {
-          "name": "European Spaceflight",
-          "url": "https://europeanspaceflight.com/ohb-awarded-e554-million-contract-for-next-gen-sentinel-3-satellite/"
-        }
-      ]
-    },
-    {
-      "title_th": "แต่งตั้ง Alexander MacDonald นั่งตำแหน่งหัวหน้าองค์การอวกาศแคนาดา",
-      "summary_th": "รัฐบาลแคนาดาประกาศแต่งตั้ง Alexander MacDonald อดีตหัวหน้านักเศรษฐศาสตร์ของ NASA ให้ดำรงตำแหน่งประธานคนใหม่ของ Canadian Space Agency โดยเข้ามารับตำแหน่งต่อจากผู้บริหารคนเดิม",
+      "title_th": "วัสดุตรกอร์กช่วยปกป้องข้อมูลภารกิจ DRACO ของ ESA",
+      "summary_th": "Amorim Cork Solutions นำวัสดุป้องกันความร้อนจากไม้ก๊อกรุ่น P50 มาใช้กับภารกิจ DRACO ขององค์การอวกาศยุโรป (ESA) เพื่อช่วยปกป้องข้อมูลระหว่างการบิน",
       "category": "สำรวจอวกาศ",
-      "title_en": "Former NASA Chief Economist is New Head of Canadian Space Agency",
-      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Alex-MacDonald-300x300.jpg",
-      "published_at": "2026-11-05T02:53:28Z",
+      "title_en": "Cork Takes the Heat So DRACO’s Data Can Survive",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/2019-99-Amorim-Logos-UN-Vertical-Cork-Solutions-Green-scaled.png?fit=1024%2C500&ssl=1",
+      "published_at": "2026-11-05T17:05:59Z",
       "sources": [
         {
-          "name": "SpacePolicyOnline.com",
-          "url": "https://spacepolicyonline.com/news/former-nasa-chief-economist-is-new-head-of-canadian-space-agency/"
-        }
-      ]
-    },
-    {
-      "title_th": "นักดาราศาสตร์พบหลุมดำยักษ์คู่ใจกลางกาแล็กซี่อาจรวมตัวกันในร้อยปี",
-      "summary_th": "ข้อมูลชี้ให้เห็นหลุมดำขนาดยักษ์สองหลุมใจกลางกาแล็กซี่แห่งหนึ่ง โคจรรอบกันทุกๆ 121 ถึง 146 วัน และมีแนวโน้มอาจจะพุ่งชนและรวมตัวกันภายในเวลาเพียง 100 ปีข้างหน้า",
-      "category": "ดาราศาสตร์",
-      "title_en": "Two giant black holes at the heart of one galaxy may circle each other every 121 to 146 days and could merge in as little as 100 years",
-      "image": "https://spacedaily.com/wp-content/uploads/2026/10/Artists-impression-of-the-core-of-Markarian-501-scaled.png",
-      "published_at": "2026-11-05T02:06:07Z",
-      "sources": [
-        {
-          "name": "SpaceDaily",
-          "url": "https://spacedaily.com/two-giant-black-holes-at-the-heart-of-one-galaxy-may-circle-each-other-every-121-to-146-days-and-could-merge-in-as-little-as-100-years/"
-        }
-      ]
-    },
-    {
-      "title_th": "กล้องโทรทรรศน์ Neil Gehrels Swift กลับสู่ชั้นบรรยากาศโลก",
-      "summary_th": "กล้องโทรทรรศน์อวกาศ Neil Gehrels Swift ของ NASA ได้ตกลงสู่ชั้นบรรยากาศโลกเหนือประเทศอินโดนีเซียตะวันตก ปิดฉากภารกิจศึกษาการระเบิดของรังสีแกมมาที่ดำเนินมานานเกือบ 22 ปี",
-      "category": "ดาราศาสตร์",
-      "title_en": "Farewell Swift",
-      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/07/Katalyst-LINK-Pegasus-300x203.jpg",
-      "published_at": "2026-11-05T00:16:40Z",
-      "sources": [
-        {
-          "name": "SpacePolicyOnline.com",
-          "url": "https://spacepolicyonline.com/news/farewell-swift/"
-        },
-        {
-          "name": "Spaceflight Now",
-          "url": "https://spaceflightnow.com/2026/11/04/nasas-neil-gehrels-swift-observatory-reenters-over-western-indonesia/"
-        }
-      ]
-    },
-    {
-      "title_th": "Trace Gas Orbiter พบหลักฐานกิจกรรมภูเขาไฟบนดาวอังคาร",
-      "summary_th": "ยานสำรวจ ExoMars Trace Gas Orbiter ของยุโรปและรัสเซีย ค้นพบหลักฐานที่อาจบ่งชี้ถึงกิจกรรมของภูเขาไฟบนดาวอังคาร จากการสังเกตการณ์ชั้นบรรยากาศของดาวเคราะห์",
-      "category": "สำรวจอวกาศ",
-      "title_en": "Trace Gas Orbiter discovers potential evidence of volcanic activity on Mars via atmospheric observations",
-      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/exomars-trace-gas-orbiter-1-scaled.webp",
-      "published_at": "2026-11-04T19:06:36Z",
-      "sources": [
-        {
-          "name": "NASASpaceflight",
-          "url": "https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/"
+          "name": "SpaceNews",
+          "url": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/"
         }
       ]
     }
