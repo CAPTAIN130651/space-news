@@ -1,17 +1,49 @@
 {
-  "updated_at": "2026-11-07T02:24:58+00:00",
+  "updated_at": "2026-11-08T01:51:26+00:00",
   "model": "gemini:gemini-flash-lite-latest",
   "next_launch": {
-    "name": "Ceres-2 | 4 satellites",
-    "net": "2026-11-06T23:37:00Z",
-    "provider": "Galactic Energy",
-    "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+    "name": "Soyuz 2.1b/Fregat | Glonass-K1? (Kosmos 2621?)",
+    "net": "2026-11-07T13:30:00Z",
+    "provider": "Russian Space Forces",
+    "location": "Plesetsk Cosmodrome, Russian Federation",
     "status": "Success"
   },
   "stories": [
     {
-      "title_th": "AST SpaceMobile ทุ่มงบสร้างจรวดและดีลเครื่องยนต์พัฒนา Blacklift",
-      "summary_th": "AST SpaceMobile บริษัทเบื้องหลังกลุ่มดาวเทียม Bluebird ได้ประกาศข้อตกลงเครื่องยนต์มูลค่า 1.3 พันล้านดอลลาร์กับ Firefly Aerospace และเตรียมสร้างจรวดหนักของตัวเองเพื่อขยายตลาด",
+      "title_th": "NASA ประกาศทุนสนับสนุนโครงการฐานบนดวงจันทร์และเทคโนโลยีอวกาศ",
+      "summary_th": "NASA ประกาศให้ทุนสนับสนุนเพื่อขยายขีดความสามารถด้านการสำรวจ วิทยาศาสตร์ และโครงสร้างพื้นฐานสำหรับ Moon Base การลงทุนครั้งนี้ครอบคลุมการขนส่งเชิงพาณิชย์ รถสำรวจพลังงานนิวเคลียร์ PROMISE และบริการส่งสู่อวกาศ เพื่อสร้างการpresence ที่ยั่งยืนบนดวงจันทร์ร่วมกับอุตสาหกรรมอเมริกา",
+      "category": "สำรวจอวกาศ",
+      "title_en": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg",
+      "published_at": "2026-11-07T22:47:03Z",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
+        }
+      ]
+    },
+    {
+      "title_th": "NASA เปิดรับสมัครนักบินอวกาศรุ่นใหม่เตรียมความพร้อมสู่ดวงจันทร์และดาวอังคาร",
+      "summary_th": "NASA เปิดรับสมัครนักบินอวกาศรุ่นใหม่เพื่อเข้าร่วมเป็นส่วนหนึ่งของคณะนักบินอวกาศในการสำรวจบทบาทใหม่ของมนุษยชาติ ผู้สมัครที่ได้รับการคัดเลือกจะได้ร่วมภารกิจกลับสู่ดวงจันทร์ สร้าง Moon Base และปูทางสู่ภารกิจที่มีมนุษย์ควบคุมไปยังดาวอังคาร",
+      "category": "สำรวจอวกาศ",
+      "title_en": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg",
+      "published_at": "2026-11-07T18:11:57Z",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/"
+        },
+        {
+          "name": "NASASpaceflight",
+          "url": "https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/"
+        }
+      ]
+    },
+    {
+      "title_th": "AST SpaceMobile ทุ่มงบ 1.3 พันล้านดอลลาร์จับมือ Firefly สร้างจรวดหนัก",
+      "summary_th": "AST SpaceMobile บริษัทเบื้องหลังดาวเทียม Bluebird ได้ทำข้อตกลงเครื่องยนต์มูลค่า 1.3 พันล้านดอลลาร์กับ Firefly Aerospace เพื่อขับเคลื่อนจรวดheavy-lift ใหม่ ซึ่งเป็นส่วนสำคัญในการสร้างการบูรณาการในแนวดิ่งและขยายตลาดของบริษัท",
       "category": "ธุรกิจอวกาศ",
       "title_en": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106_AST_rocket_rendering.jpg",
@@ -28,8 +60,8 @@
       ]
     },
     {
-      "title_th": "Falcon 9 เตรียมปล่อยภารกิจลับให้ U.S. Space Force จากแคลิฟอร์เนีย",
-      "summary_th": "SpaceX มีกำหนดปล่อยจรวด Falcon 9 จากฐานทัพอวกาศ Vandenberg ฐาน 4E โดยคาดว่าจะบรรทุกดาวเทียมที่ใช้แพลตฟอร์ม Starshield",
+      "title_th": "Falcon 9 เตรียมปล่อยภารกิจลับให้กองทัพอวกาศสหรัฐฯ จากแคลิฟอร์เนีย",
+      "summary_th": "จรวด Falcon 9 มีกำหนดปล่อยตัวจากฐาน 4E ที่ Vandenberg Space Force Base สำหรับภารกิจลับของ U.S. Space Force โดยคาดว่าจะบรรทุกดาวเทียมที่ใช้แพลตฟอร์ม Starshield ของ SpaceX",
       "category": "จรวดและการปล่อย",
       "title_en": "Falcon 9 to launch from California on classified mission for U.S. Space Force",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106-F9-File-Feature-Image.jpg",
@@ -42,8 +74,22 @@
       ]
     },
     {
-      "title_th": "กล้องฮับเบิลเผยภาพกระจุกดาว Messier 30",
-      "summary_th": "กล้องโทรทรรศน์อวกาศ NASA/ESA Hubble เผยแพร่ภาพถ่ายของ Messier 30 ซึ่งเป็นกลุ่มดาวระยิบระยับที่ช่วยให้เรียนรู้ประวัติศาสตร์ดาราศาสตร์",
+      "title_th": "Stoke Space ประเมินขยายพื้นที่ Cape Canaveral เพื่อสร้างฐานยิง Nova แห่งที่สอง",
+      "summary_th": "Stoke Space ได้รับสิทธิ์เข้าพื้นที่ (Right of Entry) จาก Space Launch Delta 45 เพื่อประเมินการขยายพื้นที่บริเวณ Cape สำหรับสร้างฐานยิง Nova แห่งที่สอง",
+      "category": "ธุรกิจอวกาศ",
+      "title_en": "Stoke Space evaluating expansion of Cape site for second Nova pad",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-20-58-09-237.jpg",
+      "published_at": "2026-11-06T21:19:28Z",
+      "sources": [
+        {
+          "name": "NASASpaceflight",
+          "url": "https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/"
+        }
+      ]
+    },
+    {
+      "title_th": "กล้อง Hubble เผยภาพกระจุกดาว Messier 30 อันงดงาม",
+      "summary_th": "ภาพถ่ายจากกล้องโทรทรรศน์อวกาศ NASA/ESA Hubble แสดงให้เห็นกลุ่มดาวที่ส่องประกายระยิบระยับชื่อ Messier 30 (M30) ซึ่งตั้งชื่อตามนักดาราศาสตร์ชาวฝรั่งเศส Charles Messier ผู้จัดทำแคตตาล็อกวัตถุท้องฟ้าเหล่านี้",
       "category": "ดาราศาสตร์",
       "title_en": "M30’s Sparkling Stars",
       "image": "https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg",
@@ -56,8 +102,8 @@
       ]
     },
     {
-      "title_th": "Starship Flight 15 รอไฟเขียว FAA ทดสอบการจับคู่",
-      "summary_th": "Booster 22 และ Ship 42 ของ Starship Flight 15 อยู่ระหว่างการตรวจสอบขั้นสุดท้ายเพื่อรอการอนุมัติจาก FAA สำหรับการปล่อยไม่เร็วกว่า 13 พฤศจิกายน",
+      "title_th": "Starship Flight 15 รออนุมัติจาก FAA เตรียมทดสอบจับจรวดคู่",
+      "summary_th": "Booster 22 และ Ship 42 อยู่ระหว่างการตรวจสอบขั้นสุดท้ายสำหรับภารกิจ Starship Flight 15 โดยมีแผนปล่อยไม่เร็วกว่าวันที่ 13 พฤศจิกายน และรอไฟเขียวจาก FAA สำหรับความพยายามในการจับจรวดแบบคู่",
       "category": "จรวดและการปล่อย",
       "title_en": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
       "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-15-16-17-030.jpg",
@@ -66,78 +112,6 @@
         {
           "name": "NASASpaceflight",
           "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/"
-        }
-      ]
-    },
-    {
-      "title_th": "นักบินอวกาศติดตั้งแผงโซลาร์เซลล์ iROSA ชิ้นสุดท้ายบน ISS สำเร็จ",
-      "summary_th": "นักบินอวกาศได้ติดตั้งแผงโซลาร์เซลล์ iROSA ชุดที่ 8 และเป็นชุดสุดท้ายภายนอกสถานีอวกาศนานาชาติ (ISS) เสร็จสิ้นความพยายามยาวนาน 5 ปีในการอัปเกรดระบบพลังงาน",
-      "category": "สถานีอวกาศ",
-      "title_en": "ISS astronauts install final iROSA solar panel to augment aging ISS power systems",
-      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/IMG_9798.jpeg",
-      "published_at": "2026-11-06T01:15:08Z",
-      "sources": [
-        {
-          "name": "NASASpaceflight",
-          "url": "https://www.nasaspaceflight.com/2026/11/final-irosa-install-iss/"
-        },
-        {
-          "name": "Spaceflight Now",
-          "url": "https://spaceflightnow.com/2026/11/05/as-it-happened-spacewalkers-install-space-stations-eighth-and-final-upgraded-solar-array/"
-        },
-        {
-          "name": "Spaceflight Now",
-          "url": "https://spaceflightnow.com/2026/11/05/spacewalkers-complete-five-year-effort-to-upgrade-space-station-power-supply/"
-        }
-      ]
-    },
-    {
-      "title_th": "Blue Origin เผยโฉมขั้นจรวดและเครื่องยนต์ใหม่สำหรับ New Glenn",
-      "summary_th": "Blue Origin เปิดตัวขั้นที่สาม New Glenn GS3 และเครื่องยนต์ Northstar รวมถึงการอัปเกรดจรวดเพื่อลดต้นทุนและเพิ่มประสิทธิภาพในการทำงาน",
-      "category": "จรวดและการปล่อย",
-      "title_en": "Blue Origin announces rocket upgrades aimed at lower costs, more performance",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine.webp",
-      "published_at": "2026-11-06T00:17:06Z",
-      "sources": [
-        {
-          "name": "Arstechnica",
-          "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/"
-        },
-        {
-          "name": "Spaceflight Now",
-          "url": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets/"
-        },
-        {
-          "name": "NASASpaceflight",
-          "url": "https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/"
-        }
-      ]
-    },
-    {
-      "title_th": "CesiumAstro ระดมทุน Series D ได้ 730 ล้านดอลลาร์",
-      "summary_th": "CesiumAstro ปิดการระดมทุน Series D มูลค่า 730 ล้านดอลลาร์ นำโดย Janus Henderson ทำให้บริษัทมีมูลค่าเกิน 4.5 พันล้านดอลลาร์ พร้อมเปิดตัวกลุ่มดาวเทียม Synchronicity",
-      "category": "ธุรกิจอวกาศ",
-      "title_en": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/cesiumastro-logo-square.png?fit=1024%2C976&ssl=1",
-      "published_at": "2026-11-05T21:45:00Z",
-      "sources": [
-        {
-          "name": "SpaceNews",
-          "url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/"
-        }
-      ]
-    },
-    {
-      "title_th": "วัสดุตรกอร์กช่วยปกป้องข้อมูลภารกิจ DRACO ของ ESA",
-      "summary_th": "Amorim Cork Solutions นำวัสดุป้องกันความร้อนจากไม้ก๊อกรุ่น P50 มาใช้กับภารกิจ DRACO ขององค์การอวกาศยุโรป (ESA) เพื่อช่วยปกป้องข้อมูลระหว่างการบิน",
-      "category": "สำรวจอวกาศ",
-      "title_en": "Cork Takes the Heat So DRACO’s Data Can Survive",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/2019-99-Amorim-Logos-UN-Vertical-Cork-Solutions-Green-scaled.png?fit=1024%2C500&ssl=1",
-      "published_at": "2026-11-05T17:05:59Z",
-      "sources": [
-        {
-          "name": "SpaceNews",
-          "url": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/"
         }
       ]
     }
