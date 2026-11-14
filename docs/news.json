@@ -1,117 +1,147 @@
 {
-  "updated_at": "2026-11-08T01:51:26+00:00",
+  "updated_at": "2026-11-14T02:41:44+00:00",
   "model": "gemini:gemini-flash-lite-latest",
   "next_launch": {
-    "name": "Soyuz 2.1b/Fregat | Glonass-K1? (Kosmos 2621?)",
-    "net": "2026-11-07T13:30:00Z",
-    "provider": "Russian Space Forces",
-    "location": "Plesetsk Cosmodrome, Russian Federation",
-    "status": "Success"
+    "name": "Starship | Starlink Group 31-2 (Starship Flight 15)",
+    "net": "2026-11-13T22:47:36Z",
+    "provider": "SpaceX",
+    "location": "SpaceX Starbase, TX, USA",
+    "status": "Deployed"
   },
   "stories": [
     {
-      "title_th": "NASA ประกาศทุนสนับสนุนโครงการฐานบนดวงจันทร์และเทคโนโลยีอวกาศ",
-      "summary_th": "NASA ประกาศให้ทุนสนับสนุนเพื่อขยายขีดความสามารถด้านการสำรวจ วิทยาศาสตร์ และโครงสร้างพื้นฐานสำหรับ Moon Base การลงทุนครั้งนี้ครอบคลุมการขนส่งเชิงพาณิชย์ รถสำรวจพลังงานนิวเคลียร์ PROMISE และบริการส่งสู่อวกาศ เพื่อสร้างการpresence ที่ยั่งยืนบนดวงจันทร์ร่วมกับอุตสาหกรรมอเมริกา",
-      "category": "สำรวจอวกาศ",
-      "title_en": "NASA Awards Moon Base Transportation, Technology, Science Projects",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg",
-      "published_at": "2026-11-07T22:47:03Z",
+      "title_th": "SpaceX ปล่อย Starship Flight 15 สู่วงโคจร ลุ้นจับจรวดทั้งสองท่อ",
+      "summary_th": "SpaceX ทำการปล่อย Starship Integrated Flight Test (IFT-15) จาก Starbase ในรัฐเท็กซัส สู่วงโคจรสำเร็จ พร้อมแผนการทดสอบครั้งสำคัญในการนำตัวบูสเตอร์และยานกลับมาจับที่หอปล่อยตัว",
+      "category": "จรวดและการปล่อย",
+      "title_en": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954.jpg",
+      "published_at": "2026-11-14T00:49:13Z",
       "sources": [
         {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
-        }
-      ]
-    },
-    {
-      "title_th": "NASA เปิดรับสมัครนักบินอวกาศรุ่นใหม่เตรียมความพร้อมสู่ดวงจันทร์และดาวอังคาร",
-      "summary_th": "NASA เปิดรับสมัครนักบินอวกาศรุ่นใหม่เพื่อเข้าร่วมเป็นส่วนหนึ่งของคณะนักบินอวกาศในการสำรวจบทบาทใหม่ของมนุษยชาติ ผู้สมัครที่ได้รับการคัดเลือกจะได้ร่วมภารกิจกลับสู่ดวงจันทร์ สร้าง Moon Base และปูทางสู่ภารกิจที่มีมนุษย์ควบคุมไปยังดาวอังคาร",
-      "category": "สำรวจอวกาศ",
-      "title_en": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg",
-      "published_at": "2026-11-07T18:11:57Z",
-      "sources": [
+          "name": "Arstechnica",
+          "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
+        },
         {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/"
+          "name": "SpacePolicyOnline.com",
+          "url": "https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth/"
+        },
+        {
+          "name": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/"
         },
         {
           "name": "NASASpaceflight",
-          "url": "https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/"
-        }
-      ]
-    },
-    {
-      "title_th": "AST SpaceMobile ทุ่มงบ 1.3 พันล้านดอลลาร์จับมือ Firefly สร้างจรวดหนัก",
-      "summary_th": "AST SpaceMobile บริษัทเบื้องหลังดาวเทียม Bluebird ได้ทำข้อตกลงเครื่องยนต์มูลค่า 1.3 พันล้านดอลลาร์กับ Firefly Aerospace เพื่อขับเคลื่อนจรวดheavy-lift ใหม่ ซึ่งเป็นส่วนสำคัญในการสร้างการบูรณาการในแนวดิ่งและขยายตลาดของบริษัท",
-      "category": "ธุรกิจอวกาศ",
-      "title_en": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106_AST_rocket_rendering.jpg",
-      "published_at": "2026-11-07T02:18:04Z",
-      "sources": [
-        {
-          "name": "Spaceflight Now",
-          "url": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/"
+          "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/"
         },
         {
           "name": "Arstechnica",
-          "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/"
+          "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/"
         }
       ]
     },
     {
-      "title_th": "Falcon 9 เตรียมปล่อยภารกิจลับให้กองทัพอวกาศสหรัฐฯ จากแคลิฟอร์เนีย",
-      "summary_th": "จรวด Falcon 9 มีกำหนดปล่อยตัวจากฐาน 4E ที่ Vandenberg Space Force Base สำหรับภารกิจลับของ U.S. Space Force โดยคาดว่าจะบรรทุกดาวเทียมที่ใช้แพลตฟอร์ม Starshield ของ SpaceX",
+      "title_th": "ULA เตรียมส่งจรวด Vulcan กลับมาบินอีกครั้งเพื่อปล่อยดาวเทียม Amazon",
+      "summary_th": "จรวด Vulcan ของ United Launch Alliance มีกำหนดการกลับมาบินสู่อวกาศอีกครั้งจาก Space Launch Complex 41 เพื่อส่งดาวเทียม 40 ดวงให้กับโครงการ Leo ของ Amazon",
       "category": "จรวดและการปล่อย",
-      "title_en": "Falcon 9 to launch from California on classified mission for U.S. Space Force",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261106-F9-File-Feature-Image.jpg",
-      "published_at": "2026-11-06T22:00:39Z",
+      "title_en": "ULA’s Vulcan rocket plans return to flight with launch of 40 Leo satellites for Amazon",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261113-Vulcan-LV-01-Pad-logos.jpg",
+      "published_at": "2026-11-13T12:25:06Z",
       "sources": [
         {
           "name": "Spaceflight Now",
-          "url": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/"
-        }
-      ]
-    },
-    {
-      "title_th": "Stoke Space ประเมินขยายพื้นที่ Cape Canaveral เพื่อสร้างฐานยิง Nova แห่งที่สอง",
-      "summary_th": "Stoke Space ได้รับสิทธิ์เข้าพื้นที่ (Right of Entry) จาก Space Launch Delta 45 เพื่อประเมินการขยายพื้นที่บริเวณ Cape สำหรับสร้างฐานยิง Nova แห่งที่สอง",
-      "category": "ธุรกิจอวกาศ",
-      "title_en": "Stoke Space evaluating expansion of Cape site for second Nova pad",
-      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-20-58-09-237.jpg",
-      "published_at": "2026-11-06T21:19:28Z",
-      "sources": [
+          "url": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/"
+        },
         {
           "name": "NASASpaceflight",
-          "url": "https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/"
+          "url": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/"
         }
       ]
     },
     {
-      "title_th": "กล้อง Hubble เผยภาพกระจุกดาว Messier 30 อันงดงาม",
-      "summary_th": "ภาพถ่ายจากกล้องโทรทรรศน์อวกาศ NASA/ESA Hubble แสดงให้เห็นกลุ่มดาวที่ส่องประกายระยิบระยับชื่อ Messier 30 (M30) ซึ่งตั้งชื่อตามนักดาราศาสตร์ชาวฝรั่งเศส Charles Messier ผู้จัดทำแคตตาล็อกวัตถุท้องฟ้าเหล่านี้",
+      "title_th": "นักดาราศาสตร์ค้นพบสาเหตุการปะทุของดาวฤกษ์มวลมาก AT 2016blu",
+      "summary_th": "ด้วยความช่วยเหลือจากกล้องโทรทรรศน์อวกาศ Chandra X-ray ของ NASA นักดาราศาสตร์ค้นพบกลไกที่กระตุ้นให้เกิดการปะทุซ้ำๆ ของดาวฤกษ์มวลมากที่ไร้เสถียรภาพ AT 2016blu ซึ่งตั้งอยู่ในกาแล็กซี NGC 4559",
       "category": "ดาราศาสตร์",
-      "title_en": "M30’s Sparkling Stars",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg",
-      "published_at": "2026-11-06T16:23:41Z",
+      "title_en": "Outbursts from a Massive Star",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/at2016blu.jpg",
+      "published_at": "2026-11-13T16:39:33Z",
       "sources": [
         {
           "name": "NASA",
-          "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/"
+          "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/"
         }
       ]
     },
     {
-      "title_th": "Starship Flight 15 รออนุมัติจาก FAA เตรียมทดสอบจับจรวดคู่",
-      "summary_th": "Booster 22 และ Ship 42 อยู่ระหว่างการตรวจสอบขั้นสุดท้ายสำหรับภารกิจ Starship Flight 15 โดยมีแผนปล่อยไม่เร็วกว่าวันที่ 13 พฤศจิกายน และรอไฟเขียวจาก FAA สำหรับความพยายามในการจับจรวดแบบคู่",
-      "category": "จรวดและการปล่อย",
-      "title_en": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
-      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-06-15-16-17-030.jpg",
-      "published_at": "2026-11-06T15:31:51Z",
+      "title_th": "NASA เริ่มประเมินกลยุทธ์ใหม่ในการนำตัวอย่างจากดาวอังคารกลับโลก",
+      "summary_th": "ในเดือนมกราคมนี้ NASA จะเริ่มประเมินกลยุทธ์และแนวทางใหม่ๆ เพื่อนำตัวอย่างที่ถูกเก็บสะสมไว้โดยยานสำรวจ Perseverance กลับมายังโลก หลังจากการดำเนินงานโครงการเดิมสิ้นสุดลง",
+      "category": "สำรวจอวกาศ",
+      "title_en": "NASA Looking for New Ways to Return Perseverance Samples From Mars",
+      "image": "https://spacepolicyonline.com/wp-content/uploads/2025/05/MSR-architecture-April-30-25-300x160.png",
+      "published_at": "2026-11-13T02:48:46Z",
       "sources": [
         {
-          "name": "NASASpaceflight",
-          "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/"
+          "name": "SpacePolicyOnline.com",
+          "url": "https://spacepolicyonline.com/news/nasa-looking-for-new-ways-to-return-perseverance-samples-from-mars/"
+        }
+      ]
+    },
+    {
+      "title_th": "AST SpaceMobile มั่นใจพัฒนาจรวดรีไซเคิลของตนเองสำเร็จในสองปี",
+      "summary_th": "ผู้บริหารของ AST SpaceMobile แสดงความเชื่อมั่นในศักยภาพของบริษัทที่จะสร้างยานพาหนะปล่อยตัวแบบรีไซเคิลได้ภายในระยะเวลาเพียงสองปี แม้ว่าจะเผชิญกับความเคลือบคลายสงสัยจากอุตสาหกรรม",
+      "category": "ธุรกิจอวกาศ",
+      "title_en": "AST SpaceMobile presses case for developing own launch vehicle",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/blacklift2.jpeg?fit=1024%2C577&ssl=1",
+      "published_at": "2026-11-13T01:15:21Z",
+      "sources": [
+        {
+          "name": "SpaceNews",
+          "url": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/"
+        },
+        {
+          "name": "Arstechnica",
+          "url": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/"
+        }
+      ]
+    },
+    {
+      "title_th": "ESA ยืนยันการทดสอบเครื่องยนต์ Prometheus ไม่เกี่ยวกับ Themis",
+      "summary_th": "องค์การอวกาศยุโรป (ESA) และ ArianeGroup ยืนยันว่าการทดสอบเครื่องยนต์ Prometheus ที่ Lampoldshausen ในเดือนตุลาคม ดำเนินการแยกต่างหากจากการเตรียมการบินทดสอบของบูสเตอร์ Themis",
+      "category": "จรวดและการปล่อย",
+      "title_en": "ESA Confirms Latest Prometheus Tests Not Connected to Themis Hop Preparations",
+      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ESA-Confirms-Latest-Prometheus-Tests-Not-Connected-to-Themis-Hop-Preparations.webp",
+      "published_at": "2026-11-13T07:57:07Z",
+      "sources": [
+        {
+          "name": "European Spaceflight",
+          "url": "https://europeanspaceflight.com/esa-confirms-latest-prometheus-tests-not-connected-to-themis-hop-preparations/"
+        }
+      ]
+    },
+    {
+      "title_th": "คณะอนุกรรมการวุฒิสภาเสนอทุนงบประมาณ 2.49 หมื่นล้านดอลลาร์ให้ NASA",
+      "summary_th": "คณะอนุกรรมการจัดสรรงบประมาณวุฒิสภาสหรัฐฯ ได้เสนอวงเงินงบประมาณจำนวน 24,874 ล้านดอลลาร์สำหรับ NASA ในปีงบประมาณ 2027 ซึ่งสูงกว่าปีที่ผ่านมาเล็กน้อย",
+      "category": "อื่นๆ",
+      "title_en": "Senate Appropriations CJS Subcommittee Proposes $24.9 Billion for NASA in FY2027",
+      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/11/Senate-CJS-table-230x300.jpg",
+      "published_at": "2026-11-13T04:55:42Z",
+      "sources": [
+        {
+          "name": "SpacePolicyOnline.com",
+          "url": "https://spacepolicyonline.com/news/senate-appropriations-cjs-subcommittee-proposes-24-9-billion-for-nasa-in-fy2027/"
+        }
+      ]
+    },
+    {
+      "title_th": "UARX Space ปล่อย OSSIE-D ความสำเร็จครั้งสำคัญของอุตสาหกรรมสเปน",
+      "summary_th": "UARX Space บรรลุไมล์สโตนสำคัญด้วยการปล่อย OSSIE-D ยานส่งสู่วงโคจรที่ออกแบบโดยสเปน ซึ่งติดตั้งระบบจ่ายไฟสมบูรณ์จาก DHV Technology",
+      "category": "ดาวเทียม",
+      "title_en": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/Logos.png?fit=1024%2C1024&ssl=1",
+      "published_at": "2026-11-12T20:00:00Z",
+      "sources": [
+        {
+          "name": "SpaceNews",
+          "url": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/"
         }
       ]
     }
