@@ -1,97 +1,51 @@
 {
-  "updated_at": "2026-11-15T02:09:07+00:00",
-  "model": "gemini:gemini-flash-lite-latest",
+  "updated_at": "2026-11-16T02:24:33+00:00",
+  "model": "gemini:gemini-flash-latest",
   "next_launch": {
-    "name": "Electron | The Mountain God Rises (iQPS Launch 10)",
-    "net": "2026-11-14T05:30:00Z",
-    "provider": "Rocket Lab",
-    "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-    "status": "Success"
+    "name": "Vulcan VC6L | Amazon Leo (LV-01)",
+    "net": "2026-11-15T17:40:30Z",
+    "provider": "United Launch Alliance",
+    "location": "Cape Canaveral SFS, FL, USA",
+    "status": "Failure"
   },
   "stories": [
     {
-      "title_th": "SpaceX ประสบความสำเร็จในการจับจรวด Starship ด้วยหอปล่อย",
-      "summary_th": "SpaceX ปล่อยจรวด Starship ในภารกิจ Integrated Flight Test (IFT-15) ขึ้นสู่อวกาศ และสามารถนำยานกลับมาลงจอดด้วยการ \"จับ\" กลับที่หอปล่อยได้สำเร็จ ถือเป็นความสำเร็จครั้งประวัติศาสตร์ของบริษัท",
+      "title_th": "จรวด Vulcan ของ ULA ล้มเหลว สูญเสียดาวเทียม Amazon Leo 40 ดวง",
+      "summary_th": "จรวด Vulcan ของ United Launch Alliance ประสบความล้มเหลวในการกลับมาบินอีกครั้ง หลังเกิดความผิดปกติในนาทีที่ 10 ระหว่างการทะยานขึ้นสู่อวกาศ เหตุการณ์ดังกล่าวส่งผลให้ดาวเทียมอินเทอร์เน็ต Amazon Leo จำนวน 40 ดวงสูญหายทั้งหมด และสร้างความเสียหายต่อแผนการปล่อยภารกิจของทั้งสองบริษัท",
       "category": "จรวดและการปล่อย",
-      "title_en": "With Starship catch, SpaceX still shows it can dazzle the world",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389.jpg",
-      "published_at": "2026-11-15T00:40:59Z",
+      "title_en": "ULA suffers first total mission failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261114-Vulcan-LV-01-launch.jpg",
+      "published_at": "2026-11-15T19:16:59Z",
       "sources": [
         {
-          "name": "Arstechnica",
-          "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
+          "name": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/"
         },
+        {
+          "name": "SpacePolicyOnline.com",
+          "url": "https://spacepolicyonline.com/news/vulcans-return-to-flight-fails/"
+        }
+      ]
+    },
+    {
+      "title_th": "SpaceX สร้างประวัติศาสตร์ คว้าจับยาน Starship จากวงโคจรสำเร็จ",
+      "summary_th": "ยาน Starship ของ SpaceX ประสบความสำเร็จในเที่ยวบินทดสอบ IFT-15 โดยสามารถนำ Ship 42 กลับมาให้หอปล่อยคว้าจับไว้ได้เป็นครั้งแรกหลังโคจรรอบโลก 14 รอบ ความสำเร็จครั้งสำคัญนี้นับเป็นอีกก้าวในการพัฒนาระบบจรวดที่สร้างความตื่นตาตื่นใจให้กับวงการอวกาศ",
+      "category": "จรวดและการปล่อย",
+      "title_en": "SpaceX Catches a Starship",
+      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/11/IFT-15-before-launch-3-278x300.jpg",
+      "published_at": "2026-11-14T21:53:18Z",
+      "sources": [
         {
           "name": "SpacePolicyOnline.com",
           "url": "https://spacepolicyonline.com/news/spacex-catches-a-starship/"
         },
         {
           "name": "Arstechnica",
-          "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
+          "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
         },
         {
-          "name": "SpacePolicyOnline.com",
-          "url": "https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth/"
-        },
-        {
-          "name": "Spaceflight Now",
-          "url": "https://spaceflightnow.com/2026/11/13/live-coverage-starship-flight-15-attempts-to-recover-full-vehicle-in-double-launch-pad-catch/"
-        }
-      ]
-    },
-    {
-      "title_th": "การปล่อยจรวด Vega C เลื่อนไปช่วงวันคริสต์มาส",
-      "summary_th": "บริษัท Avio เผยว่าการปล่อยจรวด Vega C ครั้งที่สามของปี 2026 ซึ่งบรรทุกดาวเทียม 6 ดวง จำเป็นต้องเลื่อนออกไปใกล้ช่วงวันคริสต์มาส เนื่องจากความล่าช้าในการส่งมอบดาวเทียมของลูกค้า",
-      "category": "จรวดและการปล่อย",
-      "title_en": "Next Vega C Launch Edges Closer to Christmas Day as Satellites Arrive Late",
-      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Next-Vega-C-Launch-Edges-Closer-to-Christmas-Day-as-Satellites-Arrive-Late.webp",
-      "published_at": "2026-11-14T06:00:41Z",
-      "sources": [
-        {
-          "name": "European Spaceflight",
-          "url": "https://europeanspaceflight.com/next-vega-c-launch-edges-closer-to-christmas-day-as-satellites-arrive-late/"
-        }
-      ]
-    },
-    {
-      "title_th": "Commercial Space Federation ยินดีต้อนรับ CesiumAstro",
-      "summary_th": "Commercial Space Federation (CSF) ประกาศต้อนรับ CesiumAstro เข้าเป็นสมาชิกสมทบใหม่ ซึ่งเป็นผู้นำระดับโลกด้านโซลูชันการเชื่อมต่อขั้นสูงสำหรับกิจการอวกาศ",
-      "category": "ธุรกิจอวกาศ",
-      "title_en": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Anniversary-Logo.jpg?fit=1024%2C883&ssl=1",
-      "published_at": "2026-11-13T18:00:00Z",
-      "sources": [
-        {
-          "name": "SpaceNews",
-          "url": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/"
-        }
-      ]
-    },
-    {
-      "title_th": "นักดาราศาสตร์ไขปริศนาการปะทุของดาวฤกษ์มวลมาก",
-      "summary_th": "นักดาราศาสตร์ใช้กล้องโทรทรรศน์อวกาศ Chandra X-ray Observatory ของ NASA ค้นพบสาเหตุของการปะทุซ้ำๆ ในดาวฤกษ์มวลมากที่ไม่เสถียร AT 2016blu ซึ่งอยู่ในดาราจักร NGC 4559",
-      "category": "ดาราศาสตร์",
-      "title_en": "Outbursts from a Massive Star",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/at2016blu.jpg",
-      "published_at": "2026-11-13T16:39:33Z",
-      "sources": [
-        {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/"
-        }
-      ]
-    },
-    {
-      "title_th": "ย้อนรำลึกภารกิจ Gemini XII และจุดเริ่มต้นการสังเกตการณ์โลก",
-      "summary_th": "ภารกิจ Gemini XII ของ NASA ซึ่งนำโดยนักบินอวกาศ James A. Lovell Jr. และ Edwin E. \"Buzz\" Aldrin Jr. เมื่อเดือนพฤศจิกายน 1966 ไม่เพียงสำเร็จลุล่วงด้วยดี แต่ภาพถ่ายของพวกเขายังเป็นแรงบันดาลใจให้เกิดโครงการสังเกตการณ์โลกยุคแรกอีกด้วย",
-      "category": "สำรวจอวกาศ",
-      "title_en": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/s66-63535-f.png",
-      "published_at": "2026-11-13T16:05:54Z",
-      "sources": [
-        {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/"
+          "name": "Space Scout",
+          "url": "https://www.spacescout.info/2026/11/starship-returns-to-its-launch-pad-from-orbit/"
         }
       ]
     }
