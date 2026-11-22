@@ -1,121 +1,99 @@
 {
-  "updated_at": "2026-11-18T03:53:50+00:00",
-  "model": "gemini:gemini-flash-lite-latest",
-  "next_launch": null,
+  "updated_at": "2026-11-22T02:41:12+00:00",
+  "model": "gemini:gemini-flash-latest",
+  "next_launch": {
+    "name": "Falcon 9 Block 5 | USSF-317",
+    "net": "2026-11-21T04:20:35Z",
+    "provider": "SpaceX",
+    "location": "Vandenberg SFB, CA, USA",
+    "status": "Success"
+  },
   "stories": [
     {
-      "title_th": "Rocket Lab ฉลองภารกิจ Electron ครบ 100 ครั้ง",
-      "summary_th": "จรวด Electron ของ Rocket Lab ได้เสร็จสิ้นภารกิจที่ 100 อย่างเป็นทางการเมื่อช่วงสุดสัปดาห์ที่ผ่านมา พร้อมทั้งมีความคืบหน้าในการพัฒนาจรวด Neutron สำหรับภารกิจเปิดตัวครั้งแรก",
+      "title_th": "SpaceX เตรียมปล่อยดาวเทียมสอดแนม NROL-136 ขึ้นสู่วงโคจรต่ำ",
+      "summary_th": "SpaceX มีกำหนดปล่อยดาวเทียมรวบรวมข่าวกรองในภารกิจ NROL-136 จากฐานทัพ Vandenberg Space Force Base ภารกิจนี้นับเป็นครั้งที่สี่ของปีในการเสริมเครือข่ายดาวเทียมวงโคจรต่ำของ National Reconnaissance Office",
       "category": "จรวดและการปล่อย",
-      "title_en": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
-      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/04020AD5-BE6D-4D2C-A1B6-15A4C73131D8-1.jpeg",
-      "published_at": "2026-11-17T22:24:58Z",
+      "title_en": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
+      "published_at": "2026-11-21T16:50:51Z",
+      "sources": [
+        {
+          "name": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/"
+        }
+      ]
+    },
+    {
+      "title_th": "GomSpace คว้าสัญญา 8 ล้านยูโร พัฒนายานสำรวจดวงจันทร์ให้ Blue Origin",
+      "summary_th": "GomSpace ผู้ผลิตดาวเทียมสัญชาติเดนมาร์กได้รับสัญญาจ้างมูลค่า 8 ล้านยูโร เพื่อเดินหน้าพัฒนายานอวกาศสองลำในระยะที่สอง ยานทั้งสองลำจะถูกนำไปใช้ในภารกิจสำรวจทรัพยากรบนดวงจันทร์ของ Blue Origin",
+      "category": "ธุรกิจอวกาศ",
+      "title_en": "Denmark’s GomSpace Secures €8M Contract for Blue Origin Moon Mission",
+      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Denmarks-GomSpace-Secures-8-Million-Euro-Contract-for-Blue-Origin-Moon-Mission.webp",
+      "published_at": "2026-11-21T06:00:35Z",
+      "sources": [
+        {
+          "name": "European Spaceflight",
+          "url": "https://europeanspaceflight.com/denmarks-gomspace-secures-e8m-contract-for-blue-origin-moon-mission/"
+        }
+      ]
+    },
+    {
+      "title_th": "SpaceX วางแผนสู่อนาคตหลังสร้างประวัติศาสตร์ดักจับ Ship 42",
+      "summary_th": "SpaceX สร้างประวัติศาสตร์หน้าใหม่ด้านการบินอวกาศหลังประสบความสำเร็จในการนำ Ship 42 กลับมาและทำการดักจับได้สำเร็จ ความสำเร็จในครั้งนี้ทำให้ทีมงานพร้อมเดินหน้าต่อไปสู่อนาคตของโครงการ",
+      "category": "จรวดและการปล่อย",
+      "title_en": "Following Ship 42’s catch, SpaceX looks to the future",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-20-19-36-16-464.jpg",
+      "published_at": "2026-11-20T19:49:06Z",
       "sources": [
         {
           "name": "NASASpaceflight",
-          "url": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/"
+          "url": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/"
         }
       ]
     },
     {
-      "title_th": "การสืบสวนความผิดปกติของจรวด Vulcan ยังมีความซับซ้อน",
-      "summary_th": "ข้อมูลเกี่ยวกับความล้มเหลวของจรวด Vulcan ถูกเก็บเป็นความลับอย่างใกล้ชิดโดย ULA และ Blue Origin ข้อมูลเบื้องต้นบ่งชี้ว่าปัญหาอาจไม่ได้มาจากเครื่องยนต์ BE-4",
-      "category": "จรวดและการปล่อย",
-      "title_en": "Sources: Vulcan launch anomaly investigation is complex",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790493.jpg",
-      "published_at": "2026-11-17T18:00:51Z",
+      "title_th": "ประธานกรรมาธิการสภาฯ สหรัฐฯ ขู่ตัดงบ SpaceX ปมบริการ Starshield",
+      "summary_th": "ว่าที่ประธานกรรมาธิการสภาผู้แทนราษฎรสหรัฐฯ ออกโรงขู่ตัดงบประมาณของ SpaceX จากกรณีความขัดแย้งเกี่ยวกับยูเครน พร้อมเรียกร้องให้ชี้แจงการปรับเปลี่ยนการให้บริการ Starshield ที่เกิดขึ้นในช่วงเดือนตุลาคม",
+      "category": "ธุรกิจอวกาศ",
+      "title_en": "Incoming House chair threatens SpaceX funding over Ukraine controversy",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757.jpg",
+      "published_at": "2026-11-20T22:16:51Z",
       "sources": [
         {
           "name": "Arstechnica",
-          "url": "https://arstechnica.com/space/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/"
+          "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/"
+        }
+      ]
+    },
+    {
+      "title_th": "NASA อัดฉีด 171 ล้านดอลลาร์ หนุนธุรกิจขนาดเล็กพัฒนาเทคโนโลยีอวกาศ",
+      "summary_th": "โครงการ SBIR/STTR ของ NASA ประกาศคัดเลือก 302 โครงการนวัตกรรม พร้อมมอบทุนสนับสนุนรวมสูงสุด 171 ล้านดอลลาร์ เงินทุนนี้จะช่วยให้ธุรกิจขนาดเล็กพัฒนาเทคโนโลยีที่จำเป็นต่อการสำรวจดวงจันทร์และดาวอังคาร พร้อมกระตุ้นเศรษฐกิจอวกาศของสหรัฐฯ",
+      "category": "ธุรกิจอวกาศ",
+      "title_en": "New NASA Seed Funding Primes Small Businesses for Innovation",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/elementium-illustration.png",
+      "published_at": "2026-11-20T20:46:14Z",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/"
+        }
+      ]
+    },
+    {
+      "title_th": "Curiosity เผยภาพเมฆยามสนธยาและประมวลผลงานเจาะหินบนดาวอังคาร",
+      "summary_th": "ยานสำรวจ Curiosity ของ NASA บันทึกภาพก้อนเมฆยามสนธยาที่ลอยผ่านเหนือ Gale Crater ในช่วงฤดูใบไม้ร่วงของดาวอังคาร นอกจากนี้ NASA ยังเผยภาพรวมหลุมเจาะ 49 หลุมที่ยานใช้เก็บตัวอย่างหินส่งเข้าเครื่องวิเคราะห์องค์ประกอบภายในยานตลอดภารกิจที่ผ่านมา",
+      "category": "สำรวจอวกาศ",
+      "title_en": "Curiosity Spots Drifting Twilight Clouds",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26805/PIA26805.jpg",
+      "published_at": "2026-11-20T22:27:05Z",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/"
         },
         {
-          "name": "Arstechnica",
-          "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/"
-        }
-      ]
-    },
-    {
-      "title_th": "ICEYE ยื่นข้อเสนอซื้อกิจการ Avio ด้วยมูลค่า 2.05 พันล้านยูโร",
-      "summary_th": "ICEYE บริษัทสร้างและให้บริการดาวเทียมจากฟินแลนด์ ได้ยื่นข้อเสนอเทคโอเวอร์ Avio ผู้สร้างจรวดสัญชาติอิตาลี เพื่อมุ่งสร้างความเป็นผู้นำด้านอวกาศและการป้องกันประเทศของยุโรป",
-      "category": "ธุรกิจอวกาศ",
-      "title_en": "ICEYE Launches €2.05B Takeover Bid for Italian Rocket Builder Avio",
-      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/ICEYE-Launches-2.05B-Euros-Takeover-Bid-for-Italian-Rocket-Builder-Avio.webp",
-      "published_at": "2026-11-17T08:08:40Z",
-      "sources": [
-        {
-          "name": "European Spaceflight",
-          "url": "https://europeanspaceflight.com/iceye-launches-e2-05b-takeover-bid-for-italian-rocket-builder-avio/"
-        }
-      ]
-    },
-    {
-      "title_th": "NASA แปลงข้อมูลเสียงดาวฤกษ์เกิดใหม่ออกมาเป็นอัลบั้มเพลง",
-      "summary_th": "หอดังรังสีเอกซ์ Chandra ของ NASA รวบรวมภาพถ่ายของดาวฤกษ์เกิดใหม่ทั่วกาแล็กซี และแปลงข้อมูลดังกล่าวออกมาเป็นเสียงในอัลบั้มชุดใหม่ ซึ่งบันทึกโดยกล้องโทรทรรศน์ของ NASA",
-      "category": "ดาราศาสตร์",
-      "title_en": "New Album of Baby Star Sounds Shared by NASA’s Chandra",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/sonify12_rho.jpg",
-      "published_at": "2026-11-17T20:26:17Z",
-      "sources": [
-        {
           "name": "NASA",
-          "url": "https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/"
-        }
-      ]
-    },
-    {
-      "title_th": "NASA เตรียมเผยภาพแรกจากกล้องโทรทรรศน์ Roman",
-      "summary_th": "NASA จะถ่ายทอดสดการเปิดเผยภาพถ่ายกลุ่มแรกจากกล้องโทรทรรศน์อวกาศ Nancy Grace Roman ในงานประชุมประจำปี AGU ที่ซานฟรานซิสโก เพื่อแสดงความสามารถทางวิทยาศาสตร์อันเป็นเอกลักษณ์",
-      "category": "ดาราศาสตร์",
-      "title_en": "NASA Invites Media, Public to View Roman Telescope’s First Images",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/54963457618-23b91802ea-k-1.jpg",
-      "published_at": "2026-11-17T17:00:29Z",
-      "sources": [
-        {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/"
-        }
-      ]
-    },
-    {
-      "title_th": "นักบินอวกาศ NASA เผยภาพเซลฟี่ระหว่างเดินอวกาศ",
-      "summary_th": "Anil Menon นักบินอวกาศของ NASA ถ่ายภาพเซลฟี่ขณะปฏิบัติภารกิจเดินอวกาศร่วมกับ Joshua Kutryk จาก CSA เพื่อติดตั้งแผงโซลาร์เซลล์รุ่นใหม่บนสถานีอวกาศนานาชาติ",
-      "category": "สถานีอวกาศ",
-      "title_en": "Space Selfie",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253155orig.jpg",
-      "published_at": "2026-11-17T16:51:14Z",
-      "sources": [
-        {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/image-article/space-selfie-2/"
-        }
-      ]
-    },
-    {
-      "title_th": "SpaceNukes เปิดโรงงานพัฒนาวัสดุสร้างเครื่องปฏิกรณ์อวกาศ",
-      "summary_th": "Space Nuclear Power Corp. (SpaceNukes) ได้เปิดโรงงานผลิตและพัฒนาวัสดุในเมืองลอสอาลอส เพื่อสร้างเครื่องปฏิกรณ์อวกาศรุ่นต่อไปของบริษัท",
-      "category": "ธุรกิจอวกาศ",
-      "title_en": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
-      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/spacenukes-logo-scaled.png?fit=1024%2C1021&ssl=1",
-      "published_at": "2026-11-16T20:00:00Z",
-      "sources": [
-        {
-          "name": "SpaceNews",
-          "url": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/"
-        }
-      ]
-    },
-    {
-      "title_th": "กระทรวงกลาโหมอังกฤษแจงความยืดหยุ่นระบบสื่อสารผ่านดาวเทียม",
-      "summary_th": "รัฐบาลสหราชอาณาจักรระบุว่า แม้จะใช้บริการ Starshield ของ SpaceX แต่ระบบสื่อสารทางทหารไม่ได้พึ่งพาผู้ให้บริการเชิงพาณิชย์เพียงรายเดียว ท่ามกลางความกังวลเรื่องการจำกัดการเข้าถึง",
-      "category": "ดาวเทียม",
-      "title_en": "UK MOD Defends Satcom Resilience Amid SpaceX Starshield Concerns",
-      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/UK-MOD-Defends-Satcom-Resilience-Amid-SpaceX-Starshield-Concerns.webp",
-      "published_at": "2026-11-16T17:50:24Z",
-      "sources": [
-        {
-          "name": "European Spaceflight",
-          "url": "https://europeanspaceflight.com/uk-mod-defends-satcom-resilience-amid-spacex-starshield-concerns/"
+          "url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/"
         }
       ]
     }
