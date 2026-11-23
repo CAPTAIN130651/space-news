@@ -1,17 +1,31 @@
 {
-  "updated_at": "2026-11-22T02:41:12+00:00",
-  "model": "gemini:gemini-flash-latest",
+  "updated_at": "2026-11-23T03:09:35+00:00",
+  "model": "gemini:gemini-flash-lite-latest",
   "next_launch": {
-    "name": "Falcon 9 Block 5 | USSF-317",
-    "net": "2026-11-21T04:20:35Z",
+    "name": "Falcon 9 Block 5 | NROL-136",
+    "net": "2026-11-22T12:23:56Z",
     "provider": "SpaceX",
     "location": "Vandenberg SFB, CA, USA",
     "status": "Success"
   },
   "stories": [
     {
-      "title_th": "SpaceX เตรียมปล่อยดาวเทียมสอดแนม NROL-136 ขึ้นสู่วงโคจรต่ำ",
-      "summary_th": "SpaceX มีกำหนดปล่อยดาวเทียมรวบรวมข่าวกรองในภารกิจ NROL-136 จากฐานทัพ Vandenberg Space Force Base ภารกิจนี้นับเป็นครั้งที่สี่ของปีในการเสริมเครือข่ายดาวเทียมวงโคจรต่ำของ National Reconnaissance Office",
+      "title_th": "จีนเผยแผนรายละเอียดส่งนักบินอวกาศลงจอดบนดวงจันทร์ก่อนปี 2030",
+      "summary_th": "จีนได้เปิดเผยแผนงานและโรดแมปที่มีรายละเอียดมากที่สุดในการส่งมนุษย์ไปเหยียบดวงจันทร์ก่อนปี 2030 โดยมุ่งเน้นการพัฒนาเทคโนโลยีและยานอวกาศที่จำเป็นสำหรับภารกิจนี้",
+      "category": "สำรวจอวกาศ",
+      "title_en": "China details its path to a crewed Moon landing before 2030",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/Mengzhou-and-Lanyue-docking-in-orbit-render-3-Hero-CCTV.png",
+      "published_at": "2026-11-22T22:31:24Z",
+      "sources": [
+        {
+          "name": "NASASpaceflight",
+          "url": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/"
+        }
+      ]
+    },
+    {
+      "title_th": "SpaceX เตรียมปล่อยดาวเทียมสอดแนมให้ National Reconnaissance Office",
+      "summary_th": "SpaceX มีกำหนดการปล่อยภารกิจ NROL-136 เพื่อส่งดาวเทียมรวบรวมข่าวกรองวงโคจรต่ำโลกจากฐานทัพอวกาศ Vandenberg ซึ่งนับเป็นการสนับสนุนเครือข่ายดาวเทียมของหน่วยงานเป็นครั้งที่ 4 ของปีนี้",
       "category": "จรวดและการปล่อย",
       "title_en": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
       "image": "https://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
@@ -24,76 +38,44 @@
       ]
     },
     {
-      "title_th": "GomSpace คว้าสัญญา 8 ล้านยูโร พัฒนายานสำรวจดวงจันทร์ให้ Blue Origin",
-      "summary_th": "GomSpace ผู้ผลิตดาวเทียมสัญชาติเดนมาร์กได้รับสัญญาจ้างมูลค่า 8 ล้านยูโร เพื่อเดินหน้าพัฒนายานอวกาศสองลำในระยะที่สอง ยานทั้งสองลำจะถูกนำไปใช้ในภารกิจสำรวจทรัพยากรบนดวงจันทร์ของ Blue Origin",
-      "category": "ธุรกิจอวกาศ",
-      "title_en": "Denmark’s GomSpace Secures €8M Contract for Blue Origin Moon Mission",
-      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Denmarks-GomSpace-Secures-8-Million-Euro-Contract-for-Blue-Origin-Moon-Mission.webp",
-      "published_at": "2026-11-21T06:00:35Z",
-      "sources": [
-        {
-          "name": "European Spaceflight",
-          "url": "https://europeanspaceflight.com/denmarks-gomspace-secures-e8m-contract-for-blue-origin-moon-mission/"
-        }
-      ]
-    },
-    {
-      "title_th": "SpaceX วางแผนสู่อนาคตหลังสร้างประวัติศาสตร์ดักจับ Ship 42",
-      "summary_th": "SpaceX สร้างประวัติศาสตร์หน้าใหม่ด้านการบินอวกาศหลังประสบความสำเร็จในการนำ Ship 42 กลับมาและทำการดักจับได้สำเร็จ ความสำเร็จในครั้งนี้ทำให้ทีมงานพร้อมเดินหน้าต่อไปสู่อนาคตของโครงการ",
-      "category": "จรวดและการปล่อย",
-      "title_en": "Following Ship 42’s catch, SpaceX looks to the future",
-      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-20-19-36-16-464.jpg",
-      "published_at": "2026-11-20T19:49:06Z",
-      "sources": [
-        {
-          "name": "NASASpaceflight",
-          "url": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/"
-        }
-      ]
-    },
-    {
-      "title_th": "ประธานกรรมาธิการสภาฯ สหรัฐฯ ขู่ตัดงบ SpaceX ปมบริการ Starshield",
-      "summary_th": "ว่าที่ประธานกรรมาธิการสภาผู้แทนราษฎรสหรัฐฯ ออกโรงขู่ตัดงบประมาณของ SpaceX จากกรณีความขัดแย้งเกี่ยวกับยูเครน พร้อมเรียกร้องให้ชี้แจงการปรับเปลี่ยนการให้บริการ Starshield ที่เกิดขึ้นในช่วงเดือนตุลาคม",
-      "category": "ธุรกิจอวกาศ",
-      "title_en": "Incoming House chair threatens SpaceX funding over Ukraine controversy",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757.jpg",
-      "published_at": "2026-11-20T22:16:51Z",
-      "sources": [
-        {
-          "name": "Arstechnica",
-          "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/"
-        }
-      ]
-    },
-    {
-      "title_th": "NASA อัดฉีด 171 ล้านดอลลาร์ หนุนธุรกิจขนาดเล็กพัฒนาเทคโนโลยีอวกาศ",
-      "summary_th": "โครงการ SBIR/STTR ของ NASA ประกาศคัดเลือก 302 โครงการนวัตกรรม พร้อมมอบทุนสนับสนุนรวมสูงสุด 171 ล้านดอลลาร์ เงินทุนนี้จะช่วยให้ธุรกิจขนาดเล็กพัฒนาเทคโนโลยีที่จำเป็นต่อการสำรวจดวงจันทร์และดาวอังคาร พร้อมกระตุ้นเศรษฐกิจอวกาศของสหรัฐฯ",
-      "category": "ธุรกิจอวกาศ",
-      "title_en": "New NASA Seed Funding Primes Small Businesses for Innovation",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/elementium-illustration.png",
-      "published_at": "2026-11-20T20:46:14Z",
+      "title_th": "ภาพถ่ายดาวพฤหัสบดีเผยลวดลายและสีสันอันน่าทึ่งจากยาน Juno",
+      "summary_th": "ภาพถ่ายทางดาราศาสตร์ประจำวันแสดงให้เห็นลวดลายกระแสลมวนและสีสันบนดาวพฤหัสบดี ซึ่งบันทึกไว้ได้โดยยานอวกาศ Juno ของ NASA พร้อมคำอธิบายจากนักดาราศาสตร์มืออาชีพ",
+      "category": "ดาราศาสตร์",
+      "title_en": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/JupiterSwirls_JunoBrealey_3709.jpg",
+      "published_at": "2026-11-22T05:05:00Z",
       "sources": [
         {
           "name": "NASA",
-          "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/"
+          "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/"
         }
       ]
     },
     {
-      "title_th": "Curiosity เผยภาพเมฆยามสนธยาและประมวลผลงานเจาะหินบนดาวอังคาร",
-      "summary_th": "ยานสำรวจ Curiosity ของ NASA บันทึกภาพก้อนเมฆยามสนธยาที่ลอยผ่านเหนือ Gale Crater ในช่วงฤดูใบไม้ร่วงของดาวอังคาร นอกจากนี้ NASA ยังเผยภาพรวมหลุมเจาะ 49 หลุมที่ยานใช้เก็บตัวอย่างหินส่งเข้าเครื่องวิเคราะห์องค์ประกอบภายในยานตลอดภารกิจที่ผ่านมา",
-      "category": "สำรวจอวกาศ",
-      "title_en": "Curiosity Spots Drifting Twilight Clouds",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26805/PIA26805.jpg",
-      "published_at": "2026-11-20T22:27:05Z",
+      "title_th": "NASA Johnson ฉลองครบรอบ 65 ปีแห่งการขับเคลื่อนการบินอวกาศที่มีมนุษย์",
+      "summary_th": "ศูนย์อวกาศ Johnson ของ NASA ในฮิวสตันเฉลิมฉลองครบรอบ 65 ปีในการมีบทบาทสำคัญต่อภารกิจอวกาศ ตั้งแต่โครงการ Gemini, Apollo จนถึงการสนับสนุนการปฏิบัติงานบน International Space Station อย่างต่อเนื่อง",
+      "category": "สถานีอวกาศ",
+      "title_en": "65 Years of Human Spaceflight at NASA Johnson",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/20261106-artemiscelebrationgala-sl1-4202.jpg",
+      "published_at": "2026-11-22T19:13:25Z",
       "sources": [
         {
           "name": "NASA",
-          "url": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/"
-        },
+          "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/"
+        }
+      ]
+    },
+    {
+      "title_th": "สรุปประเด็นและกำหนดการนโยบายอวกาศช่วงปลายเดือนพฤศจิกายน 2026",
+      "summary_th": "การรวบรวมเหตุการณ์และกิจกรรมสำคัญเกี่ยวกับนโยบายอวกาศของสหรัฐฯ ทั้งในส่วนของสภาผู้แทนราษฎรและวุฒิสภา ระหว่างวันที่ 22-29 พฤศจิกายน 2026 พร้อมข้อมูลเชิงลึกที่น่าสนใจ",
+      "category": "อื่นๆ",
+      "title_en": "What’s Happening in Space Policy November 22-29, 2026",
+      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/11/ESA-BepiColombo-300x169.jpg",
+      "published_at": "2026-11-22T21:50:55Z",
+      "sources": [
         {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/"
+          "name": "SpacePolicyOnline.com",
+          "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-22-29-2026/"
         }
       ]
     }
