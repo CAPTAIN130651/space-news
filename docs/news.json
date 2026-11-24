@@ -1,81 +1,127 @@
 {
-  "updated_at": "2026-11-23T03:09:35+00:00",
+  "updated_at": "2026-11-24T06:26:41+00:00",
   "model": "gemini:gemini-flash-lite-latest",
   "next_launch": {
-    "name": "Falcon 9 Block 5 | NROL-136",
-    "net": "2026-11-22T12:23:56Z",
-    "provider": "SpaceX",
-    "location": "Vandenberg SFB, CA, USA",
-    "status": "Success"
+    "name": "Soyuz 2.1b | Progress MS-36 (97P)",
+    "net": "2026-11-24T10:17:00Z",
+    "provider": "Russian Federal Space Agency (ROSCOSMOS)",
+    "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+    "status": "TBC"
   },
   "stories": [
     {
-      "title_th": "จีนเผยแผนรายละเอียดส่งนักบินอวกาศลงจอดบนดวงจันทร์ก่อนปี 2030",
-      "summary_th": "จีนได้เปิดเผยแผนงานและโรดแมปที่มีรายละเอียดมากที่สุดในการส่งมนุษย์ไปเหยียบดวงจันทร์ก่อนปี 2030 โดยมุ่งเน้นการพัฒนาเทคโนโลยีและยานอวกาศที่จำเป็นสำหรับภารกิจนี้",
-      "category": "สำรวจอวกาศ",
-      "title_en": "China details its path to a crewed Moon landing before 2030",
-      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/Mengzhou-and-Lanyue-docking-in-orbit-render-3-Hero-CCTV.png",
-      "published_at": "2026-11-22T22:31:24Z",
+      "title_th": "Northrop Grumman จองจรวด Falcon 9 เพิ่มสำหรับภารกิจ Cygnus",
+      "summary_th": "Northrop Grumman ได้ทำสัญญาใช้จรวด Falcon 9 เป็นครั้งที่หกสำหรับยานอرسالเสบียง Cygnus ระหว่างที่รอจรวด Antares 330 ในการเตรียมพร้อมสำหรับการปล่อยตัว",
+      "category": "จรวดและการปล่อย",
+      "title_en": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-23-23-17-33-712.jpg",
+      "published_at": "2026-11-23T23:28:00Z",
       "sources": [
         {
           "name": "NASASpaceflight",
-          "url": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/"
+          "url": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/"
         }
       ]
     },
     {
-      "title_th": "SpaceX เตรียมปล่อยดาวเทียมสอดแนมให้ National Reconnaissance Office",
-      "summary_th": "SpaceX มีกำหนดการปล่อยภารกิจ NROL-136 เพื่อส่งดาวเทียมรวบรวมข่าวกรองวงโคจรต่ำโลกจากฐานทัพอวกาศ Vandenberg ซึ่งนับเป็นการสนับสนุนเครือข่ายดาวเทียมของหน่วยงานเป็นครั้งที่ 4 ของปีนี้",
-      "category": "จรวดและการปล่อย",
-      "title_en": "Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/04/20260414-Falcon-9-File.jpg",
-      "published_at": "2026-11-21T16:50:51Z",
+      "title_th": "ยานขนส่ง Progress MS-36 เตรียมปล่อยสู่วงโคจร ISS",
+      "summary_th": "ยานขนส่งสินค้า Progress MS-36 ซึ่งเป็นภารกิจส่งเสบียงลำที่สี่และลำสุดท้ายไปยังสถานีอวกาศ ISS มีกำหนดการปล่อยตัวจากฐานปล่อยใน Baikonur",
+      "category": "สถานีอวกาศ",
+      "title_en": "Progress MS-36 set to launch to ISS from Baikonur",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/IMG_9490.png",
+      "published_at": "2026-11-23T21:32:11Z",
+      "sources": [
+        {
+          "name": "NASASpaceflight",
+          "url": "https://www.nasaspaceflight.com/2026/11/progress-ms-36/"
+        },
+        {
+          "name": "Arstechnica",
+          "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/"
+        }
+      ]
+    },
+    {
+      "title_th": "Arianespace เตรียมปล่อยดาวเทียม Amazon Leo",
+      "summary_th": "ภารกิจ Leo Europe 4 เป็นการปล่อยดาวเทียม Amazon Leo ชุดที่สี่ด้วยจรวด Ariane 6 และนับเป็นการปล่อยครั้งที่ 16 ของกลุ่มดาวเทียมนี้จากท่าอวกาศยุโรปในเฟรนช์เกียนา",
+      "category": "ดาวเทียม",
+      "title_en": "Live coverage: Arianespace to launch Amazon Leo sats amid rocket crunch",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261122_LE-04_fairing.jpeg",
+      "published_at": "2026-11-23T22:14:49Z",
       "sources": [
         {
           "name": "Spaceflight Now",
-          "url": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/"
+          "url": "https://spaceflightnow.com/2026/11/23/live-coverage-arianespaces-launches-amazon-leo-sats-amid-rocket-crunch/"
         }
       ]
     },
     {
-      "title_th": "ภาพถ่ายดาวพฤหัสบดีเผยลวดลายและสีสันอันน่าทึ่งจากยาน Juno",
-      "summary_th": "ภาพถ่ายทางดาราศาสตร์ประจำวันแสดงให้เห็นลวดลายกระแสลมวนและสีสันบนดาวพฤหัสบดี ซึ่งบันทึกไว้ได้โดยยานอวกาศ Juno ของ NASA พร้อมคำอธิบายจากนักดาราศาสตร์มืออาชีพ",
-      "category": "ดาราศาสตร์",
-      "title_en": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/JupiterSwirls_JunoBrealey_3709.jpg",
-      "published_at": "2026-11-22T05:05:00Z",
+      "title_th": "NASA ทุ่มงบซื้อจรวดและยานพาหนะวงโคจรเพื่อสร้างเครือข่ายขนส่งดวงจันทร์",
+      "summary_th": "NASA ประกาศซื้อหายนะการขนส่งหลายรูปแบบสูพื้นผิวดวงจันทร์และอวกาศรอบดวงจันทร์มูลค่า 1.3 พันล้านดอลลาร์ เพื่อช่วยสนับสนุนโครงการฐานบนดวงจันทร์",
+      "category": "สำรวจอวกาศ",
+      "title_en": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles",
+      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261109_Impulse_Space_Moon_Base.jpeg",
+      "published_at": "2026-11-23T21:49:16Z",
+      "sources": [
+        {
+          "name": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/11/23/nasa-seeks-to-begin-intergalactic-freight-network-with-1-3-billion-block-purchase-of-rockets-orbital-transfer-vehicles/"
+        }
+      ]
+    },
+    {
+      "title_th": "NASA เปิดหาพาร์ทเนอร์ออกแบบเครื่องปฏิกรณ์นิวเคลียร์บนดวงจันทร์",
+      "summary_th": "NASA กำลังมองหาพาร์ทเนอร์ในภาคอุตสาหกรรมเพื่อพัฒนาและทดสอบเครื่องปฏิกรณ์นิวเคลียร์ Lunar Reactor-1 (LR-1) ซึ่งเป็นระบบฟิชชันขนาดเล็กที่ผลิตไฟฟ้า 20 กิโลวัตต์สำหรับดวงจันทร์",
+      "category": "สำรวจอวกาศ",
+      "title_en": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/srd-fsp-isru02b.jpg",
+      "published_at": "2026-11-23T17:23:50Z",
       "sources": [
         {
           "name": "NASA",
-          "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/"
+          "url": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/"
         }
       ]
     },
     {
-      "title_th": "NASA Johnson ฉลองครบรอบ 65 ปีแห่งการขับเคลื่อนการบินอวกาศที่มีมนุษย์",
-      "summary_th": "ศูนย์อวกาศ Johnson ของ NASA ในฮิวสตันเฉลิมฉลองครบรอบ 65 ปีในการมีบทบาทสำคัญต่อภารกิจอวกาศ ตั้งแต่โครงการ Gemini, Apollo จนถึงการสนับสนุนการปฏิบัติงานบน International Space Station อย่างต่อเนื่อง",
+      "title_th": "การศึกษาเซลล์มะเร็งในสภาพไร้น้ำหนักบน ISS",
+      "summary_th": "การทดลอง Encapsulate-1 บนสถานีอวกาศ International Space Station กำลังศึกษาตัวอย่างเนื้องอกของผู้ป่วยในสภาพไร้น้ำหนัก เพื่อทำความเข้าใจการเคลื่อนที่ของเซลล์มะเร็งและสนับสนุนการแพทย์เฉพาะบุคคล",
       "category": "สถานีอวกาศ",
-      "title_en": "65 Years of Human Spaceflight at NASA Johnson",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/20261106-artemiscelebrationgala-sl1-4202.jpg",
-      "published_at": "2026-11-22T19:13:25Z",
+      "title_en": "Studying Cancer Cells in Microgravity",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e426880orig.jpg",
+      "published_at": "2026-11-23T17:28:37Z",
       "sources": [
         {
           "name": "NASA",
-          "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/"
+          "url": "https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/"
         }
       ]
     },
     {
-      "title_th": "สรุปประเด็นและกำหนดการนโยบายอวกาศช่วงปลายเดือนพฤศจิกายน 2026",
-      "summary_th": "การรวบรวมเหตุการณ์และกิจกรรมสำคัญเกี่ยวกับนโยบายอวกาศของสหรัฐฯ ทั้งในส่วนของสภาผู้แทนราษฎรและวุฒิสภา ระหว่างวันที่ 22-29 พฤศจิกายน 2026 พร้อมข้อมูลเชิงลึกที่น่าสนใจ",
-      "category": "อื่นๆ",
-      "title_en": "What’s Happening in Space Policy November 22-29, 2026",
-      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/11/ESA-BepiColombo-300x169.jpg",
-      "published_at": "2026-11-22T21:50:55Z",
+      "title_th": "Eutelsat คว้าสัญญา 60 ล้านดอลลาร์จากกองทัพอวกาศสหรัฐฯ",
+      "summary_th": "บริษัท Eutelsat สาขาในสหรัฐฯ ได้รับสัญญาบริการสื่อสารผ่านดาวเทียมวงโคจรต่ำ OneWeb มูลค่ากว่า 60 ล้านดอลลาร์ เป็นเวลาสองปีเพื่อให้บริการแก่กองทัพสหรัฐฯ",
+      "category": "ธุรกิจอวกาศ",
+      "title_en": "Eutelsat Wins $60 Million US Space Force Contract",
+      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Eutelsat-Wins-60-Million-Dollar-US-Space-Force-Contract.webp",
+      "published_at": "2026-11-23T15:02:19Z",
       "sources": [
         {
-          "name": "SpacePolicyOnline.com",
-          "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-22-29-2026/"
+          "name": "European Spaceflight",
+          "url": "https://europeanspaceflight.com/eutelsat-wins-60-million-us-space-force-contract/"
+        }
+      ]
+    },
+    {
+      "title_th": "กล้อง James Webb เผยภาพซากซูเปอร์โนวา Cassiopeia A",
+      "summary_th": "กล้องโทรทรรศน์อวกาศ James Webb ได้บันทึกภาพความละเอียดสูงในย่านอินฟราเรดกลางของซากซูเปอร์โนวา Cassiopeia A เพื่อศึกษาการกระจายตัวของก๊าซและฝุ่นที่หลงเหลือจากการระเบิดของดาวฤกษ์",
+      "category": "ดาราศาสตร์",
+      "title_en": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/11/STScI-01M6PRXJ9A7S81CH1C9SJP1MB0.jpg",
+      "published_at": "2026-11-23T15:00:00Z",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/"
         }
       ]
     }
