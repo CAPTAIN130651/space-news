@@ -1,54 +1,62 @@
 {
-  "updated_at": "2026-11-24T06:26:41+00:00",
+  "updated_at": "2026-11-25T05:03:02+00:00",
   "model": "gemini:gemini-flash-lite-latest",
   "next_launch": {
     "name": "Soyuz 2.1b | Progress MS-36 (97P)",
-    "net": "2026-11-24T10:17:00Z",
+    "net": "2026-11-24T10:17:46Z",
     "provider": "Russian Federal Space Agency (ROSCOSMOS)",
     "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-    "status": "TBC"
+    "status": "Success"
   },
   "stories": [
     {
-      "title_th": "Northrop Grumman จองจรวด Falcon 9 เพิ่มสำหรับภารกิจ Cygnus",
-      "summary_th": "Northrop Grumman ได้ทำสัญญาใช้จรวด Falcon 9 เป็นครั้งที่หกสำหรับยานอرسالเสบียง Cygnus ระหว่างที่รอจรวด Antares 330 ในการเตรียมพร้อมสำหรับการปล่อยตัว",
-      "category": "จรวดและการปล่อย",
-      "title_en": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
-      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-23-23-17-33-712.jpg",
-      "published_at": "2026-11-23T23:28:00Z",
+      "title_th": "BepiColombo เข้าสู่วงโคจรดาวพุธสำเร็จแม้เจอข้อผิดพลาดซอฟต์แวร์",
+      "summary_th": "ภารกิจ BepiColombo ขององค์การอวกาศยุโรปและญี่ปุ่นสามารถเข้าสู่วงโคจรดาวพุธได้สำเร็จ แม้จะประสบปัญหาข้อผิดพลาดทางซอฟต์แวร์ที่ส่งผลให้การจุดเครื่องยนต์สั้นกว่าแผนที่กำหนดไว้",
+      "category": "สำรวจอวกาศ",
+      "title_en": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/HXkRNVOXsAAjwYz-scaled.jpeg",
+      "published_at": "2026-11-24T20:38:54Z",
       "sources": [
         {
           "name": "NASASpaceflight",
-          "url": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/"
-        }
-      ]
-    },
-    {
-      "title_th": "ยานขนส่ง Progress MS-36 เตรียมปล่อยสู่วงโคจร ISS",
-      "summary_th": "ยานขนส่งสินค้า Progress MS-36 ซึ่งเป็นภารกิจส่งเสบียงลำที่สี่และลำสุดท้ายไปยังสถานีอวกาศ ISS มีกำหนดการปล่อยตัวจากฐานปล่อยใน Baikonur",
-      "category": "สถานีอวกาศ",
-      "title_en": "Progress MS-36 set to launch to ISS from Baikonur",
-      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/04/IMG_9490.png",
-      "published_at": "2026-11-23T21:32:11Z",
-      "sources": [
-        {
-          "name": "NASASpaceflight",
-          "url": "https://www.nasaspaceflight.com/2026/11/progress-ms-36/"
+          "url": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/"
         },
         {
-          "name": "Arstechnica",
-          "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/"
+          "name": "European Spaceflight",
+          "url": "https://europeanspaceflight.com/bepicolombo-enters-orbit-around-mercury-despite-software-glitch/"
         }
       ]
     },
     {
-      "title_th": "Arianespace เตรียมปล่อยดาวเทียม Amazon Leo",
-      "summary_th": "ภารกิจ Leo Europe 4 เป็นการปล่อยดาวเทียม Amazon Leo ชุดที่สี่ด้วยจรวด Ariane 6 และนับเป็นการปล่อยครั้งที่ 16 ของกลุ่มดาวเทียมนี้จากท่าอวกาศยุโรปในเฟรนช์เกียนา",
-      "category": "ดาวเทียม",
-      "title_en": "Live coverage: Arianespace to launch Amazon Leo sats amid rocket crunch",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261122_LE-04_fairing.jpeg",
-      "published_at": "2026-11-23T22:14:49Z",
+      "title_th": "จีนส่งนักบินอวกาศปากีสถานเดินทางสู่สถานีอวกาศ Tiangong",
+      "summary_th": "จีนได้ส่งลูกเรือชุดใหม่ไปยังสถานีอวกาศ Tiangong ซึ่งรวมถึง Muhammad Zeeshan Ali นักบินอวกาศคนแรกจากปากีสถาน ร่วมเดินทางไปกับนักบินอวกาศจีนอีกสองคนในเที่ยวบินนี้",
+      "category": "สถานีอวกาศ",
+      "title_en": "First Pakistani Astronaut Enroute to Tiangong",
+      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/11/shenzhou-24-liftoff-300x135.jpg",
+      "published_at": "2026-11-25T00:58:29Z",
       "sources": [
+        {
+          "name": "SpacePolicyOnline.com",
+          "url": "https://spacepolicyonline.com/news/first-pakistani-astronaut-enroute-to-tiangong/"
+        },
+        {
+          "name": "NASASpaceflight",
+          "url": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/"
+        }
+      ]
+    },
+    {
+      "title_th": "Arianespace ปล่อยจรวด Ariane 6 ส่งดาวเทียม Amazon Leo",
+      "summary_th": "Arianespace ประสบความสำเร็จในการปล่อยจรวด Ariane 6 เป็นครั้งที่ 10 เพื่อนำดาวเทียม Amazon Leo จำนวน 36 ดวงขึ้นสู่วงโคจร โดยมีการเตรียมความพร้อมสำหรับภารกิจถัดไปในเดือนธันวาคม",
+      "category": "จรวดและการปล่อย",
+      "title_en": "Arianespace Completes 10th Ariane 6 Flight With Next Expected on 17 December",
+      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Arianespace-Completes-10th-Ariane-6-Flight-With-Next-Expected-on-17-December.webp",
+      "published_at": "2026-11-24T19:55:08Z",
+      "sources": [
+        {
+          "name": "European Spaceflight",
+          "url": "https://europeanspaceflight.com/arianespace-completes-10th-ariane-6-flight-with-next-expected-on-17-december/"
+        },
         {
           "name": "Spaceflight Now",
           "url": "https://spaceflightnow.com/2026/11/23/live-coverage-arianespaces-launches-amazon-leo-sats-amid-rocket-crunch/"
@@ -56,36 +64,68 @@
       ]
     },
     {
-      "title_th": "NASA ทุ่มงบซื้อจรวดและยานพาหนะวงโคจรเพื่อสร้างเครือข่ายขนส่งดวงจันทร์",
-      "summary_th": "NASA ประกาศซื้อหายนะการขนส่งหลายรูปแบบสูพื้นผิวดวงจันทร์และอวกาศรอบดวงจันทร์มูลค่า 1.3 พันล้านดอลลาร์ เพื่อช่วยสนับสนุนโครงการฐานบนดวงจันทร์",
-      "category": "สำรวจอวกาศ",
-      "title_en": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles",
-      "image": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261109_Impulse_Space_Moon_Base.jpeg",
-      "published_at": "2026-11-23T21:49:16Z",
-      "sources": [
-        {
-          "name": "Spaceflight Now",
-          "url": "https://spaceflightnow.com/2026/11/23/nasa-seeks-to-begin-intergalactic-freight-network-with-1-3-billion-block-purchase-of-rockets-orbital-transfer-vehicles/"
-        }
-      ]
-    },
-    {
-      "title_th": "NASA เปิดหาพาร์ทเนอร์ออกแบบเครื่องปฏิกรณ์นิวเคลียร์บนดวงจันทร์",
-      "summary_th": "NASA กำลังมองหาพาร์ทเนอร์ในภาคอุตสาหกรรมเพื่อพัฒนาและทดสอบเครื่องปฏิกรณ์นิวเคลียร์ Lunar Reactor-1 (LR-1) ซึ่งเป็นระบบฟิชชันขนาดเล็กที่ผลิตไฟฟ้า 20 กิโลวัตต์สำหรับดวงจันทร์",
-      "category": "สำรวจอวกาศ",
-      "title_en": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/srd-fsp-isru02b.jpg",
-      "published_at": "2026-11-23T17:23:50Z",
+      "title_th": "Northrop Grumman เลือกใช้ Falcon 9 สำหรับภารกิจส่งเสบียง Cygnus",
+      "summary_th": "Northrop Grumman ได้ทำสัญญาใช้จรวด Falcon 9 เป็นครั้งที่ 6 สำหรับยานอวกาศส่งเสบียง Cygnus เพื่อลำเลียงเสบียงและงานวิทยาศาสตร์น้ำหนักราว 11,000 ปอนด์ไปยังสถานีอวกาศนานาชาติ",
+      "category": "จรวดและการปล่อย",
+      "title_en": "NASA’s Northrop Grumman CRS-25 Mission Overview",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ntv-ng-crs-25-falcon9-cygnus-overview-2160-dark.png",
+      "published_at": "2026-11-24T19:09:16Z",
       "sources": [
         {
           "name": "NASA",
-          "url": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/"
+          "url": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/"
+        },
+        {
+          "name": "NASASpaceflight",
+          "url": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/"
         }
       ]
     },
     {
-      "title_th": "การศึกษาเซลล์มะเร็งในสภาพไร้น้ำหนักบน ISS",
-      "summary_th": "การทดลอง Encapsulate-1 บนสถานีอวกาศ International Space Station กำลังศึกษาตัวอย่างเนื้องอกของผู้ป่วยในสภาพไร้น้ำหนัก เพื่อทำความเข้าใจการเคลื่อนที่ของเซลล์มะเร็งและสนับสนุนการแพทย์เฉพาะบุคคล",
+      "title_th": "กล้อง James Webb เผยภาพรายละเอียดใหม่ของซากมหיศ supernova",
+      "summary_th": "กล้องโทรทรรศน์อวกาศ James Webb ของ NASA เผยภาพความละเอียดสูงในย่านอินฟราเรดกลางของ Cassiopeia A แสดงให้เห็นฝุ่นร้อนภายในซากการระเบิดของดาวฤกษ์มวลมาก",
+      "category": "ดาราศาสตร์",
+      "title_en": "Webb Reveals New Details in Supernova Remnant",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/cas-a-webb-miri.png",
+      "published_at": "2026-11-24T16:51:27Z",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/"
+        }
+      ]
+    },
+    {
+      "title_th": "ยาน Dragonfly ของ NASA เริ่มติดตั้งระบบกล้อง DragonCam",
+      "summary_th": "อุปกรณ์วิทยาศาสตร์สำหรับยาน Dragonfly ของ NASA เริ่มเดินทางมาถึงห้องปฏิบัติการเพื่อประกอบเข้าด้วยกันสำหรับการสำรวจ Titan ดวงจันทร์ที่ใหญ่ที่สุดของดาวเสาร์ โดยมี DragonCam เป็นชุดกล้องกลุ่มแรกที่ตรวจสอบความพร้อม",
+      "category": "สำรวจอวกาศ",
+      "title_en": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/dragonfly/DragonCamInstall.jpg",
+      "published_at": "2026-11-24T15:44:38Z",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/"
+        }
+      ]
+    },
+    {
+      "title_th": "NASA ล็อคสถาปัตยกรรมภารกิจ Space Reactor-1 Freedom",
+      "summary_th": "NASA เสร็จสิ้นการตรวจสอบครั้งสำคัญสำหรับ Space Reactor-1 (SR-1) Freedom และกำหนดองค์ประกอบหลักของยานอวกาศที่มีเป้าหมายปล่อยในปี 2028 เพื่อสาธิตระบบขับเคลื่อนด้วยนิวเคลียร์ไฟฟ้าในห้วงอวกาศลึก",
+      "category": "สำรวจอวกาศ",
+      "title_en": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/06/sr-1-freedom-11-6-2026.png",
+      "published_at": "2026-11-24T21:04:32Z",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/"
+        }
+      ]
+    },
+    {
+      "title_th": "ศึกษาเซลล์มะเร็งในสภาพไร้น้ำหนักบนสถานีอวกาศ",
+      "summary_th": "การทดลอง Encapsulate-1 บนสถานีอวกาศนานาชาติทำการศึกษาตัวอย่างเนื้องอกที่ได้จากผู้ป่วย เพื่อทำความเข้าใจการเคลื่อนที่และการตอบสนองของเซลล์มะเร็งในสภาพไร้น้ำหนัก",
       "category": "สถานีอวกาศ",
       "title_en": "Studying Cancer Cells in Microgravity",
       "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e426880orig.jpg",
@@ -94,34 +134,6 @@
         {
           "name": "NASA",
           "url": "https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/"
-        }
-      ]
-    },
-    {
-      "title_th": "Eutelsat คว้าสัญญา 60 ล้านดอลลาร์จากกองทัพอวกาศสหรัฐฯ",
-      "summary_th": "บริษัท Eutelsat สาขาในสหรัฐฯ ได้รับสัญญาบริการสื่อสารผ่านดาวเทียมวงโคจรต่ำ OneWeb มูลค่ากว่า 60 ล้านดอลลาร์ เป็นเวลาสองปีเพื่อให้บริการแก่กองทัพสหรัฐฯ",
-      "category": "ธุรกิจอวกาศ",
-      "title_en": "Eutelsat Wins $60 Million US Space Force Contract",
-      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Eutelsat-Wins-60-Million-Dollar-US-Space-Force-Contract.webp",
-      "published_at": "2026-11-23T15:02:19Z",
-      "sources": [
-        {
-          "name": "European Spaceflight",
-          "url": "https://europeanspaceflight.com/eutelsat-wins-60-million-us-space-force-contract/"
-        }
-      ]
-    },
-    {
-      "title_th": "กล้อง James Webb เผยภาพซากซูเปอร์โนวา Cassiopeia A",
-      "summary_th": "กล้องโทรทรรศน์อวกาศ James Webb ได้บันทึกภาพความละเอียดสูงในย่านอินฟราเรดกลางของซากซูเปอร์โนวา Cassiopeia A เพื่อศึกษาการกระจายตัวของก๊าซและฝุ่นที่หลงเหลือจากการระเบิดของดาวฤกษ์",
-      "category": "ดาราศาสตร์",
-      "title_en": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2026/11/STScI-01M6PRXJ9A7S81CH1C9SJP1MB0.jpg",
-      "published_at": "2026-11-23T15:00:00Z",
-      "sources": [
-        {
-          "name": "NASA",
-          "url": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/"
         }
       ]
     }
