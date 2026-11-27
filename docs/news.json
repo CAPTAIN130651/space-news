@@ -1,139 +1,93 @@
 {
-  "updated_at": "2026-11-25T05:03:02+00:00",
-  "model": "gemini:gemini-flash-lite-latest",
+  "updated_at": "2026-11-27T04:35:08+00:00",
+  "model": "gemini:gemini-flash-latest",
   "next_launch": {
-    "name": "Soyuz 2.1b | Progress MS-36 (97P)",
-    "net": "2026-11-24T10:17:46Z",
-    "provider": "Russian Federal Space Agency (ROSCOSMOS)",
-    "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+    "name": "Long March 2D | Yaogan 49 Group 01",
+    "net": "2026-11-26T09:38:00Z",
+    "provider": "China Aerospace Science and Technology Corporation",
+    "location": "Xichang Satellite Launch Center, People's Republic of China",
     "status": "Success"
   },
   "stories": [
     {
-      "title_th": "BepiColombo เข้าสู่วงโคจรดาวพุธสำเร็จแม้เจอข้อผิดพลาดซอฟต์แวร์",
-      "summary_th": "ภารกิจ BepiColombo ขององค์การอวกาศยุโรปและญี่ปุ่นสามารถเข้าสู่วงโคจรดาวพุธได้สำเร็จ แม้จะประสบปัญหาข้อผิดพลาดทางซอฟต์แวร์ที่ส่งผลให้การจุดเครื่องยนต์สั้นกว่าแผนที่กำหนดไว้",
-      "category": "สำรวจอวกาศ",
-      "title_en": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
-      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/HXkRNVOXsAAjwYz-scaled.jpeg",
-      "published_at": "2026-11-24T20:38:54Z",
+      "title_th": "FCC ไฟเขียว SpaceX ส่งดาวเทียม Starmind 1 ล้านดวงสู่วงโคจร",
+      "summary_th": "FCC อนุมัติให้ SpaceX ปล่อยกลุ่มดาวเทียมดาต้าเซ็นเตอร์ Starmind สำหรับปัญญาประดิษฐ์จำนวนสูงสุด 1 ล้านดวงสู่วงโคจรระดับต่ำของโลก ข้อกำหนดระบุว่าจะต้องส่งดาวเทียมชุดแรกขึ้นสู่อวกาศภายในปี 2033 และต้องพร้อมให้บริการเต็มระบบภายในปี 2040 การอนุมัตินี้จะเพิ่มจำนวนดาวเทียมในวงโคจรขึ้นอย่างมหาศาล",
+      "category": "ดาวเทียม",
+      "title_en": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-26-22-31-56-812.jpg",
+      "published_at": "2026-11-26T22:40:55Z",
       "sources": [
         {
           "name": "NASASpaceflight",
-          "url": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/"
-        },
-        {
-          "name": "European Spaceflight",
-          "url": "https://europeanspaceflight.com/bepicolombo-enters-orbit-around-mercury-despite-software-glitch/"
-        }
-      ]
-    },
-    {
-      "title_th": "จีนส่งนักบินอวกาศปากีสถานเดินทางสู่สถานีอวกาศ Tiangong",
-      "summary_th": "จีนได้ส่งลูกเรือชุดใหม่ไปยังสถานีอวกาศ Tiangong ซึ่งรวมถึง Muhammad Zeeshan Ali นักบินอวกาศคนแรกจากปากีสถาน ร่วมเดินทางไปกับนักบินอวกาศจีนอีกสองคนในเที่ยวบินนี้",
-      "category": "สถานีอวกาศ",
-      "title_en": "First Pakistani Astronaut Enroute to Tiangong",
-      "image": "https://spacepolicyonline.com/wp-content/uploads/2026/11/shenzhou-24-liftoff-300x135.jpg",
-      "published_at": "2026-11-25T00:58:29Z",
-      "sources": [
-        {
-          "name": "SpacePolicyOnline.com",
-          "url": "https://spacepolicyonline.com/news/first-pakistani-astronaut-enroute-to-tiangong/"
-        },
-        {
-          "name": "NASASpaceflight",
-          "url": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/"
-        }
-      ]
-    },
-    {
-      "title_th": "Arianespace ปล่อยจรวด Ariane 6 ส่งดาวเทียม Amazon Leo",
-      "summary_th": "Arianespace ประสบความสำเร็จในการปล่อยจรวด Ariane 6 เป็นครั้งที่ 10 เพื่อนำดาวเทียม Amazon Leo จำนวน 36 ดวงขึ้นสู่วงโคจร โดยมีการเตรียมความพร้อมสำหรับภารกิจถัดไปในเดือนธันวาคม",
-      "category": "จรวดและการปล่อย",
-      "title_en": "Arianespace Completes 10th Ariane 6 Flight With Next Expected on 17 December",
-      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Arianespace-Completes-10th-Ariane-6-Flight-With-Next-Expected-on-17-December.webp",
-      "published_at": "2026-11-24T19:55:08Z",
-      "sources": [
-        {
-          "name": "European Spaceflight",
-          "url": "https://europeanspaceflight.com/arianespace-completes-10th-ariane-6-flight-with-next-expected-on-17-december/"
+          "url": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/"
         },
         {
           "name": "Spaceflight Now",
-          "url": "https://spaceflightnow.com/2026/11/23/live-coverage-arianespaces-launches-amazon-leo-sats-amid-rocket-crunch/"
-        }
-      ]
-    },
-    {
-      "title_th": "Northrop Grumman เลือกใช้ Falcon 9 สำหรับภารกิจส่งเสบียง Cygnus",
-      "summary_th": "Northrop Grumman ได้ทำสัญญาใช้จรวด Falcon 9 เป็นครั้งที่ 6 สำหรับยานอวกาศส่งเสบียง Cygnus เพื่อลำเลียงเสบียงและงานวิทยาศาสตร์น้ำหนักราว 11,000 ปอนด์ไปยังสถานีอวกาศนานาชาติ",
-      "category": "จรวดและการปล่อย",
-      "title_en": "NASA’s Northrop Grumman CRS-25 Mission Overview",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ntv-ng-crs-25-falcon9-cygnus-overview-2160-dark.png",
-      "published_at": "2026-11-24T19:09:16Z",
-      "sources": [
-        {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/"
+          "url": "https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/"
         },
         {
-          "name": "NASASpaceflight",
-          "url": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/"
-        }
-      ]
-    },
-    {
-      "title_th": "กล้อง James Webb เผยภาพรายละเอียดใหม่ของซากมหיศ supernova",
-      "summary_th": "กล้องโทรทรรศน์อวกาศ James Webb ของ NASA เผยภาพความละเอียดสูงในย่านอินฟราเรดกลางของ Cassiopeia A แสดงให้เห็นฝุ่นร้อนภายในซากการระเบิดของดาวฤกษ์มวลมาก",
-      "category": "ดาราศาสตร์",
-      "title_en": "Webb Reveals New Details in Supernova Remnant",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/cas-a-webb-miri.png",
-      "published_at": "2026-11-24T16:51:27Z",
-      "sources": [
+          "name": "SpacePolicyOnline.com",
+          "url": "https://spacepolicyonline.com/news/fcc-approves-elon-musks-one-million-orbital-data-centers/"
+        },
         {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/"
+          "name": "Arstechnica",
+          "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
         }
       ]
     },
     {
-      "title_th": "ยาน Dragonfly ของ NASA เริ่มติดตั้งระบบกล้อง DragonCam",
-      "summary_th": "อุปกรณ์วิทยาศาสตร์สำหรับยาน Dragonfly ของ NASA เริ่มเดินทางมาถึงห้องปฏิบัติการเพื่อประกอบเข้าด้วยกันสำหรับการสำรวจ Titan ดวงจันทร์ที่ใหญ่ที่สุดของดาวเสาร์ โดยมี DragonCam เป็นชุดกล้องกลุ่มแรกที่ตรวจสอบความพร้อม",
-      "category": "สำรวจอวกาศ",
-      "title_en": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/dragonfly/DragonCamInstall.jpg",
-      "published_at": "2026-11-24T15:44:38Z",
-      "sources": [
-        {
-          "name": "NASA",
-          "url": "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/"
-        }
-      ]
-    },
-    {
-      "title_th": "NASA ล็อคสถาปัตยกรรมภารกิจ Space Reactor-1 Freedom",
-      "summary_th": "NASA เสร็จสิ้นการตรวจสอบครั้งสำคัญสำหรับ Space Reactor-1 (SR-1) Freedom และกำหนดองค์ประกอบหลักของยานอวกาศที่มีเป้าหมายปล่อยในปี 2028 เพื่อสาธิตระบบขับเคลื่อนด้วยนิวเคลียร์ไฟฟ้าในห้วงอวกาศลึก",
-      "category": "สำรวจอวกาศ",
-      "title_en": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/06/sr-1-freedom-11-6-2026.png",
-      "published_at": "2026-11-24T21:04:32Z",
-      "sources": [
-        {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/"
-        }
-      ]
-    },
-    {
-      "title_th": "ศึกษาเซลล์มะเร็งในสภาพไร้น้ำหนักบนสถานีอวกาศ",
-      "summary_th": "การทดลอง Encapsulate-1 บนสถานีอวกาศนานาชาติทำการศึกษาตัวอย่างเนื้องอกที่ได้จากผู้ป่วย เพื่อทำความเข้าใจการเคลื่อนที่และการตอบสนองของเซลล์มะเร็งในสภาพไร้น้ำหนัก",
+      "title_th": "Thales Alenia Space เตรียมตั้งบริษัทใหม่รองรับบริการส่งสินค้าอวกาศ",
+      "summary_th": "Thales Alenia Space วางแผนจัดตั้งบริษัทเฉพาะทางเพื่อสนับสนุนการพัฒนาและทำการค้าเชิงพาณิชย์สำหรับบริการขนส่งสินค้ากลับจากสถานีอวกาศ แผนการดังกล่าวถูกเปิดเผยผ่านแถลงการณ์ร่วมของสหภาพแรงงานอิตาลีหลังการประชุมกับผู้บริหารระดับสูง การดำเนินงานนี้จะช่วยผลักดันโครงการระบบขนส่งสินค้าอวกาศให้มีความคล่องตัวยิ่งขึ้น",
       "category": "สถานีอวกาศ",
-      "title_en": "Studying Cancer Cells in Microgravity",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e426880orig.jpg",
-      "published_at": "2026-11-23T17:28:37Z",
+      "title_en": "Thales Alenia Space to Establish Dedicated Company for Cargo Return Services",
+      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Thales-Alenia-Space-to-Establish-Dedicated-Company-for-Cargo-Return-Services.webp",
+      "published_at": "2026-11-26T13:13:32Z",
+      "sources": [
+        {
+          "name": "European Spaceflight",
+          "url": "https://europeanspaceflight.com/thales-alenia-space-to-establish-dedicated-company-for-cargo-return-services/"
+        }
+      ]
+    },
+    {
+      "title_th": "MaiaSpace ขนส่งแบบจำลองจรวด Maia สู่ฐานยิงในเฟรนช์เกียนา",
+      "summary_th": "MaiaSpace บริษัทในเครือของ ArianeGroup ได้จัดส่งแบบจำลองเชิงกลขนาดเท่าจริงของท่อนที่หนึ่งและท่อนที่สองของจรวด Maia ไปยัง French Guiana เรียบร้อยแล้ว ชิ้นส่วนเหล่านี้จะถูกนำไปใช้ในการทดสอบแบบบูรณาการที่ Guiana Space Centre ในช่วงครึ่งแรกของปี 2027",
+      "category": "จรวดและการปล่อย",
+      "title_en": "MaiaSpace Ships Maia Mechanical Models to Launch Site",
+      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/MaiaSpace-Ships-Maia-Mechanical-Models-to-Launch-Site.webp",
+      "published_at": "2026-11-25T18:51:13Z",
+      "sources": [
+        {
+          "name": "European Spaceflight",
+          "url": "https://europeanspaceflight.com/maiaspace-ships-maia-mechanical-models-to-launch-site/"
+        }
+      ]
+    },
+    {
+      "title_th": "NASA วิจัยพืชสำหรับเมนูอาหารของนักบินอวกาศสู่ดวงจันทร์และดาวอังคาร",
+      "summary_th": "นักวิจัยของ NASA กำลังศึกษาพืชพันธุ์ที่เหมาะสมเพื่อนำมาเป็นอาหารสดและเพิ่มคุณค่าทางโภชนาการแก่นักบินอวกาศในภารกิจระยะยาว ผลการทดสอบล่าสุดชี้ว่าพืชอย่างสตรอว์เบอร์รีมีศักยภาพที่ดีและช่วยเพิ่มความหลากหลายให้กับเมนูอาหารในห้วงอวกาศลึกได้",
+      "category": "สำรวจอวกาศ",
+      "title_en": "NASA Eyes Crop Candidates for Future Menus",
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/bps/space-crops/SpaceCrops_thanksgiving.jpg",
+      "published_at": "2026-11-25T17:53:42Z",
       "sources": [
         {
           "name": "NASA",
-          "url": "https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/"
+          "url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/"
+        }
+      ]
+    },
+    {
+      "title_th": "NASA ประกาศความร่วมมือ Boeing เสริมฐานธุรกิจหนุนภารกิจสำรวจ",
+      "summary_th": "NASA ประกาศข้อตกลง Mentor-Protégé ล่าสุดที่ลงนามระหว่าง The Boeing Company และ GRACE Aerospace ภายใต้โครงการพัฒนาซัพพลายเออร์ธุรกิจขนาดเล็ก ความร่วมมือนี้มุ่งเสริมสร้างความแข็งแกร่งให้กับฐานอุตสาหกรรมการบินและอวกาศในประเทศ เพื่อรองรับภารกิจสำรวจอวกาศในอนาคต",
+      "category": "ธุรกิจอวกาศ",
+      "title_en": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/lrs00622.jpg",
+      "published_at": "2026-11-25T19:06:56Z",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/"
         }
       ]
     }
