@@ -1,17 +1,87 @@
 {
-  "updated_at": "2026-11-27T04:35:08+00:00",
-  "model": "gemini:gemini-flash-latest",
+  "updated_at": "2026-11-28T04:16:57+00:00",
+  "model": "gemini:gemini-flash-lite-latest",
   "next_launch": {
-    "name": "Long March 2D | Yaogan 49 Group 01",
-    "net": "2026-11-26T09:38:00Z",
+    "name": "Long March 6A | Yaogan 50-04",
+    "net": "2026-11-27T13:05:00Z",
     "provider": "China Aerospace Science and Technology Corporation",
-    "location": "Xichang Satellite Launch Center, People's Republic of China",
+    "location": "Taiyuan Satellite Launch Center, People's Republic of China",
     "status": "Success"
   },
   "stories": [
     {
-      "title_th": "FCC ไฟเขียว SpaceX ส่งดาวเทียม Starmind 1 ล้านดวงสู่วงโคจร",
-      "summary_th": "FCC อนุมัติให้ SpaceX ปล่อยกลุ่มดาวเทียมดาต้าเซ็นเตอร์ Starmind สำหรับปัญญาประดิษฐ์จำนวนสูงสุด 1 ล้านดวงสู่วงโคจรระดับต่ำของโลก ข้อกำหนดระบุว่าจะต้องส่งดาวเทียมชุดแรกขึ้นสู่อวกาศภายในปี 2033 และต้องพร้อมให้บริการเต็มระบบภายในปี 2040 การอนุมัตินี้จะเพิ่มจำนวนดาวเทียมในวงโคจรขึ้นอย่างมหาศาล",
+      "title_th": "รัฐบาลทั่วโลกทุ่มงบกว่า 71.8 หมื่นล้านดอลลาร์ด้านความมั่นคงอวกาศ",
+      "summary_th": "รายงานจาก Novaspace เผยว่ารัฐบาลทั่วโลกได้ลงทุนประมาณ 71.8 พันล้านดอลลาร์ในกิจกรรมด้านการป้องกันและความมั่นคงอวกาศในปี 2025 สะท้อนถึงการเร่งตัวขึ้นของการทหารในอวกาศ",
+      "category": "ธุรกิจอวกาศ",
+      "title_en": "Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates",
+      "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square.png?fit=1021%2C1024&ssl=1",
+      "published_at": "2026-11-27T15:35:22Z",
+      "sources": [
+        {
+          "name": "SpaceNews",
+          "url": "https://spacenews.com/governments-invest-71-8b-in-space-defense-as-militarization-of-space-accelerates/"
+        }
+      ]
+    },
+    {
+      "title_th": "นักบินอวกาศ NASA เยี่ยมชม VAB เตรียมพร้อมสำหรับภารกิจ Artemis III",
+      "summary_th": "Andre Douglas นักบินอวกาศและผู้เชี่ยวชาญภารกิจ Artemis III ได้เดินทางไปเยี่ยมชมชิ้นส่วนทดสอบเครื่องยนต์ RS-25 ภายใน Vehicle Assembly Building ที่ Kennedy Space Center ของ NASA ในรัฐฟลอริดา เพื่อเตรียมความพร้อมสำหรับจรวด SLS",
+      "category": "สำรวจอวกาศ",
+      "title_en": "Artemis III Astronaut Andre Douglas Visits VAB",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20261117-ph-kls02-0020orig.jpg",
+      "published_at": "2026-11-27T15:01:00Z",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/"
+        }
+      ]
+    },
+    {
+      "title_th": "บูสเตอร์ Nova Pathfinder ของ Stoke Space ถึง SLC-14 แล้ว",
+      "summary_th": "บูสเตอร์ Nova Pathfinder ของ Stoke Space ได้เดินทางมาถึง SLC-14 แล้ว เพื่อเตรียมความพร้อมสำหรับการเปิดตัวครั้งแรกในช่วงต้นปี 2027",
+      "category": "จรวดและการปล่อย",
+      "title_en": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut",
+      "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/23529451-6CE1-4D52-97E8-7B3632FF058C.jpeg",
+      "published_at": "2026-11-27T14:52:40Z",
+      "sources": [
+        {
+          "name": "NASASpaceflight",
+          "url": "https://www.nasaspaceflight.com/2026/11/stoke-nova-booster-slc-14-2027-debut/"
+        }
+      ]
+    },
+    {
+      "title_th": "พนักงาน ArianeGroup เกือบ 650 คนในเบรเมนผันตัวประท้วง",
+      "summary_th": "พนักงานเกือบ 650 คนของ ArianeGroup ในเมืองเบรเมน ประเทศเยอรมนี ได้เข้าร่วมการประท้วงเป็นเวลา 24 ชั่วโมง โดยโรงงานแห่งนี้มีหน้าที่รับผิดชอบในการผลิตท่อนบนของจรวด Ariane 6",
+      "category": "ธุรกิจอวกาศ",
+      "title_en": "Hundreds of ArianeGroup Workers Strike in Bremen",
+      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Hundreds-of-ArianeGroup-Workers-Strike-in-Bremen.webp",
+      "published_at": "2026-11-27T14:32:07Z",
+      "sources": [
+        {
+          "name": "European Spaceflight",
+          "url": "https://europeanspaceflight.com/hundreds-of-arianegroup-workers-strike-in-bremen/"
+        }
+      ]
+    },
+    {
+      "title_th": "NASA เตรียมส่งการทดลองปลูกพืชในอวกาศไปกับภารกิจ NG-25",
+      "summary_th": "การทดลองระบบผลิตผลผลิตพืชในอวกาศแห่งแรกของ NASA จะเดินทางไปยังสถานีอวกาศนานาชาติบนยานของ Northrop Grumman ในภารกิจเติมเสบียงเชิงพาณิชย์ครั้งที่ 25 เพื่อพัฒนาการวิจัยที่เป็นประโยชน์ต่อมนุษยชาติ",
+      "category": "สถานีอวกาศ",
+      "title_en": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
+      "image": "https://images-assets.nasa.gov/image/jsc2026e415098/jsc2026e415098~large.jpg",
+      "published_at": "2026-11-27T14:22:00Z",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/"
+        }
+      ]
+    },
+    {
+      "title_th": "FCC อนุญาตให้ SpaceX ปล่อยดาวเทียม Starmind AI สูงสุด 1 ล้านดวง",
+      "summary_th": "Federal Communications Commission ได้ให้การอนุมัติแก่ SpaceX ในการ部署กลุ่มดาวเทียม Starmind AI สูงสุดถึง 1 ล้านดวงภายในปี 2040",
       "category": "ดาวเทียม",
       "title_en": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
       "image": "https://www.nasaspaceflight.com/wp-content/uploads/2026/11/NSF-2026-11-26-22-31-56-812.jpg",
@@ -20,74 +90,6 @@
         {
           "name": "NASASpaceflight",
           "url": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040/"
-        },
-        {
-          "name": "Spaceflight Now",
-          "url": "https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/"
-        },
-        {
-          "name": "SpacePolicyOnline.com",
-          "url": "https://spacepolicyonline.com/news/fcc-approves-elon-musks-one-million-orbital-data-centers/"
-        },
-        {
-          "name": "Arstechnica",
-          "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
-        }
-      ]
-    },
-    {
-      "title_th": "Thales Alenia Space เตรียมตั้งบริษัทใหม่รองรับบริการส่งสินค้าอวกาศ",
-      "summary_th": "Thales Alenia Space วางแผนจัดตั้งบริษัทเฉพาะทางเพื่อสนับสนุนการพัฒนาและทำการค้าเชิงพาณิชย์สำหรับบริการขนส่งสินค้ากลับจากสถานีอวกาศ แผนการดังกล่าวถูกเปิดเผยผ่านแถลงการณ์ร่วมของสหภาพแรงงานอิตาลีหลังการประชุมกับผู้บริหารระดับสูง การดำเนินงานนี้จะช่วยผลักดันโครงการระบบขนส่งสินค้าอวกาศให้มีความคล่องตัวยิ่งขึ้น",
-      "category": "สถานีอวกาศ",
-      "title_en": "Thales Alenia Space to Establish Dedicated Company for Cargo Return Services",
-      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/Thales-Alenia-Space-to-Establish-Dedicated-Company-for-Cargo-Return-Services.webp",
-      "published_at": "2026-11-26T13:13:32Z",
-      "sources": [
-        {
-          "name": "European Spaceflight",
-          "url": "https://europeanspaceflight.com/thales-alenia-space-to-establish-dedicated-company-for-cargo-return-services/"
-        }
-      ]
-    },
-    {
-      "title_th": "MaiaSpace ขนส่งแบบจำลองจรวด Maia สู่ฐานยิงในเฟรนช์เกียนา",
-      "summary_th": "MaiaSpace บริษัทในเครือของ ArianeGroup ได้จัดส่งแบบจำลองเชิงกลขนาดเท่าจริงของท่อนที่หนึ่งและท่อนที่สองของจรวด Maia ไปยัง French Guiana เรียบร้อยแล้ว ชิ้นส่วนเหล่านี้จะถูกนำไปใช้ในการทดสอบแบบบูรณาการที่ Guiana Space Centre ในช่วงครึ่งแรกของปี 2027",
-      "category": "จรวดและการปล่อย",
-      "title_en": "MaiaSpace Ships Maia Mechanical Models to Launch Site",
-      "image": "https://europeanspaceflight.com/wp-content/uploads/2026/11/MaiaSpace-Ships-Maia-Mechanical-Models-to-Launch-Site.webp",
-      "published_at": "2026-11-25T18:51:13Z",
-      "sources": [
-        {
-          "name": "European Spaceflight",
-          "url": "https://europeanspaceflight.com/maiaspace-ships-maia-mechanical-models-to-launch-site/"
-        }
-      ]
-    },
-    {
-      "title_th": "NASA วิจัยพืชสำหรับเมนูอาหารของนักบินอวกาศสู่ดวงจันทร์และดาวอังคาร",
-      "summary_th": "นักวิจัยของ NASA กำลังศึกษาพืชพันธุ์ที่เหมาะสมเพื่อนำมาเป็นอาหารสดและเพิ่มคุณค่าทางโภชนาการแก่นักบินอวกาศในภารกิจระยะยาว ผลการทดสอบล่าสุดชี้ว่าพืชอย่างสตรอว์เบอร์รีมีศักยภาพที่ดีและช่วยเพิ่มความหลากหลายให้กับเมนูอาหารในห้วงอวกาศลึกได้",
-      "category": "สำรวจอวกาศ",
-      "title_en": "NASA Eyes Crop Candidates for Future Menus",
-      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/bps/space-crops/SpaceCrops_thanksgiving.jpg",
-      "published_at": "2026-11-25T17:53:42Z",
-      "sources": [
-        {
-          "name": "NASA",
-          "url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/"
-        }
-      ]
-    },
-    {
-      "title_th": "NASA ประกาศความร่วมมือ Boeing เสริมฐานธุรกิจหนุนภารกิจสำรวจ",
-      "summary_th": "NASA ประกาศข้อตกลง Mentor-Protégé ล่าสุดที่ลงนามระหว่าง The Boeing Company และ GRACE Aerospace ภายใต้โครงการพัฒนาซัพพลายเออร์ธุรกิจขนาดเล็ก ความร่วมมือนี้มุ่งเสริมสร้างความแข็งแกร่งให้กับฐานอุตสาหกรรมการบินและอวกาศในประเทศ เพื่อรองรับภารกิจสำรวจอวกาศในอนาคต",
-      "category": "ธุรกิจอวกาศ",
-      "title_en": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/lrs00622.jpg",
-      "published_at": "2026-11-25T19:06:56Z",
-      "sources": [
-        {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/"
         }
       ]
     }
